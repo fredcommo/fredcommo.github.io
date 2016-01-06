@@ -317,3 +317,38 @@ footer {
 	}
 
 }
+@media (max-width: 425px) {
+	/* Styles to apply up to 991px screen width */
+	body {
+		width: 550px !important;
+	}
+	ul.nav {
+	    font-family: 'Arvo', courier, serif;
+	    font-size: 13px;
+	    display: inline-flex;
+	    display: -webkit-inline-box;
+	}
+	.container {
+		width:	315px;
+	}
+	.col_md-10 {
+		text-align: center;
+	}
+	.cv-item {
+		font-size: 22px;
+	}
+	.cv-position {
+		font-size: 14px;
+	}
+	.cv-content {
+		width: 390px;
+		font-size: 13px;
+	}
+	.cv-content >ul >li{
+		font-size: 15px;
+	}
+	.navbar-fixed-bottom {
+	    opacity: 0;
+	}
+
+}
