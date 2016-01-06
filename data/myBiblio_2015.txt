@@ -1,0 +1,3088 @@
+PMID- 26708336
+OWN - NLM
+STAT- Publisher
+DA  - 20160101
+LR  - 20160101
+IS  - 1367-4811 (Electronic)
+IS  - 1367-4803 (Linking)
+DP  - 2015 Dec 26
+TI  - rCGH: a comprehensive array-based genomic profile platform for precision
+      medicine.
+LID - btv718 [pii]
+AB  - We present rCGH, a comprehensive array-based comparative genomic hybridization
+      analysis workflow, integrating computational improvements and functionalities
+      specifically designed for precision medicine. rCGH supports the major microarray 
+      platforms, ensures a full traceability and facilitates profiles interpretation
+      and decision-making through sharable interactive visualizations. AVAILABILITY AND
+      IMPLEMENTATION: The rCGH R package is available on bioconductor (under
+      Artistic-2.0). The aCGH-viewer is available at
+      https://fredcommo.shinyapps.io/aCGH_viewer, and the application implementation is
+      freely available for installation at https://github.com/fredcommo/aCGH_viewer.
+      CONTACT: frederic.commo@gustaveroussy.frSupplementary information: Supplementary 
+      data are available at Bioinformatics online.
+CI  - (c) The Author 2015. Published by Oxford University Press.
+FAU - Commo, Frederic
+AU  - Commo F
+AD  - INSERM U981, Gustave Roussy, University Paris-Sud, Villejuif 94805, France, Sage 
+      Bionetworks, Seattle, WA 98109, USA and.
+FAU - Guinney, Justin
+AU  - Guinney J
+AD  - Sage Bionetworks, Seattle, WA 98109, USA and.
+FAU - Ferte, Charles
+AU  - Ferte C
+AD  - INSERM U981, Gustave Roussy, University Paris-Sud, Villejuif 94805, France, Sage 
+      Bionetworks, Seattle, WA 98109, USA and.
+FAU - Bot, Brian
+AU  - Bot B
+AD  - Sage Bionetworks, Seattle, WA 98109, USA and.
+FAU - Lefebvre, Celine
+AU  - Lefebvre C
+AD  - INSERM U981, Gustave Roussy, University Paris-Sud, Villejuif 94805, France.
+FAU - Soria, Jean-Charles
+AU  - Soria JC
+AD  - INSERM U981, Gustave Roussy, University Paris-Sud, Villejuif 94805, France,
+      Department of Medical Oncology, Gustave Roussy, Villejuif 94805, France.
+FAU - Andre, Fabrice
+AU  - Andre F
+AD  - INSERM U981, Gustave Roussy, University Paris-Sud, Villejuif 94805, France,
+      Department of Medical Oncology, Gustave Roussy, Villejuif 94805, France.
+LA  - ENG
+PT  - JOURNAL ARTICLE
+DEP - 20151226
+TA  - Bioinformatics
+JT  - Bioinformatics (Oxford, England)
+JID - 9808944
+EDAT- 2015/12/29 06:00
+MHDA- 2015/12/29 06:00
+CRDT- 2015/12/29 06:00
+PHST- 2015/09/07 [received]
+PHST- 2015/12/03 [accepted]
+PHST- 2015/12/26 [aheadofprint]
+AID - btv718 [pii]
+AID - 10.1093/bioinformatics/btv718 [doi]
+PST - aheadofprint
+SO  - Bioinformatics. 2015 Dec 26. pii: btv718.
+
+PMID- 25877893
+OWN - NLM
+STAT- In-Process
+DA  - 20150416
+IS  - 1946-6242 (Electronic)
+IS  - 1946-6234 (Linking)
+VI  - 7
+IP  - 283
+DP  - 2015 Apr 15
+TI  - Clinical impact of the NKp30/B7-H6 axis in high-risk neuroblastoma patients.
+PG  - 283ra55
+LID - 10.1126/scitranslmed.aaa2327 [doi]
+AB  - The immunosurveillance mechanisms governing high-risk neuroblastoma (HR-NB), a
+      major pediatric malignancy, have been elusive. We identify a potential role for
+      natural killer (NK) cells, in particular the interaction between the NK receptor 
+      NKp30 and its ligand, B7-H6, in the metastatic progression and survival of HR-NB 
+      after myeloablative multimodal chemotherapy and stem cell transplantation. NB
+      cells expressing the NKp30 ligand B7-H6 stimulated NK cells in an NKp30-dependent
+      manner. Serum concentration of soluble B7-H6 correlated with the down-regulation 
+      of NKp30, bone marrow metastases, and chemoresistance, and soluble B7-H6
+      contained in the serum of HR-NB patients inhibited NK cell functions in vitro.
+      The expression of distinct NKp30 isoforms affecting the polarization of NK cell
+      functions correlated with 10-year event-free survival in three independent
+      cohorts of HR-NB in remission from metastases after induction chemotherapy (n =
+      196, P < 0.001), adding prognostic value to known risk factors such as N-Myc
+      amplification and age >18 months. We conclude that the interaction between NKp30 
+      and B7-H6 may contribute to the fate of NB patients and that both the expression 
+      of NKp30 isoforms on circulating NK cells and the concentration of soluble B7-H6 
+      in the serum may be clinically useful as biomarkers for risk stratification.
+CI  - Copyright (c) 2015, American Association for the Advancement of Science.
+FAU - Semeraro, Michaela
+AU  - Semeraro M
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+      Department of Pediatric Oncology, GRCC, 94805 Villejuif, France. University of
+      Paris Sud XI, 94805 Villejuif, France. Equipe 11 labelisee par la Ligue Nationale
+      contre le Cancer, Centre de Recherche des Cordeliers, 75006 Paris, France. INSERM
+      U1138, 94805 Villejuif, France.
+FAU - Rusakiewicz, Sylvie
+AU  - Rusakiewicz S
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+      Center of Clinical Investigations in Biotherapies of Cancer, CICBT507, GRCC,
+      94805 Villejuif, France.
+FAU - Minard-Colin, Veronique
+AU  - Minard-Colin V
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+      Department of Pediatric Oncology, GRCC, 94805 Villejuif, France.
+FAU - Delahaye, Nicolas F
+AU  - Delahaye NF
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+FAU - Enot, David
+AU  - Enot D
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. Equipe 11 labelisee par la Ligue Nationale
+      contre le Cancer, Centre de Recherche des Cordeliers, 75006 Paris, France. INSERM
+      U1138, 94805 Villejuif, France.
+FAU - Vely, Frederic
+AU  - Vely F
+AD  - Centre d'Immunologie de Marseille-Luminy, INSERM, U1104, F-13009 Marseille,
+      France. CNRS, UMR7280, F-13009 Marseille, France. Aix Marseille Universite, UM2, 
+      F-13009 Marseille, France. Service d'Immunologie, Assistance Publique-Hopitaux de
+      Marseille, Hopital de la Conception, F-13009 Marseille, France.
+FAU - Marabelle, Aurelien
+AU  - Marabelle A
+AD  - Centre de Recherche en Cancerologie de Lyon, UMR INSERM U1052 CNRS 5286, Centre
+      Leon Berard, Universite de Lyon, 69000 Lyon, France.
+FAU - Papoular, Benjamin
+AU  - Papoular B
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+FAU - Piperoglou, Christelle
+AU  - Piperoglou C
+AD  - Service d'Immunologie, Assistance Publique-Hopitaux de Marseille, Hopital de la
+      Conception, F-13009 Marseille, France.
+FAU - Ponzoni, Mirco
+AU  - Ponzoni M
+AD  - Giannina Gaslini Hospital, Experimental Therapy Unit Laboratory of Oncology,
+      16147 Genoa, Italy.
+FAU - Perri, Patrizia
+AU  - Perri P
+AD  - Giannina Gaslini Hospital, Experimental Therapy Unit Laboratory of Oncology,
+      16147 Genoa, Italy.
+FAU - Tchirkov, Andrei
+AU  - Tchirkov A
+AD  - EA 4677 ERTICa, CHU et Centre Jean Perrin, 63011 Clermont-Ferrand, France. CHU de
+      Clermont-Ferrand, Service de Cytogenetique Medicale, Hopital Estaing, 63001
+      Clermont-Ferrand, France.
+FAU - Matta, Jessica
+AU  - Matta J
+AD  - Centre d'Immunologie de Marseille-Luminy, INSERM, U1104, F-13009 Marseille,
+      France. CNRS, UMR7280, F-13009 Marseille, France. Aix Marseille Universite, UM2, 
+      F-13009 Marseille, France.
+FAU - Lapierre, Valerie
+AU  - Lapierre V
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. Cell Therapy Unit, GRCC, 94805 Villejuif,
+      France.
+FAU - Shekarian, Tala
+AU  - Shekarian T
+AD  - Centre de Recherche en Cancerologie de Lyon, UMR INSERM U1052 CNRS 5286, Centre
+      Leon Berard, Universite de Lyon, 69000 Lyon, France.
+FAU - Valsesia-Wittmann, Sandrine
+AU  - Valsesia-Wittmann S
+AD  - Centre de Recherche en Cancerologie de Lyon, UMR INSERM U1052 CNRS 5286, Centre
+      Leon Berard, Universite de Lyon, 69000 Lyon, France.
+FAU - Commo, Frederic
+AU  - Commo F
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+FAU - Prada, Nicole
+AU  - Prada N
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+FAU - Poirier-Colame, Vichnou
+AU  - Poirier-Colame V
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+FAU - Bressac, Brigitte
+AU  - Bressac B
+AD  - Service de Genetique, Molecular Genetic Department, GRCC, 94805 Villejuif,
+      France.
+FAU - Cotteret, Sophie
+AU  - Cotteret S
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+FAU - Brugieres, Laurence
+AU  - Brugieres L
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. Department of Pediatric Oncology, GRCC, 94805 
+      Villejuif, France.
+FAU - Farace, Francoise
+AU  - Farace F
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U981, 94805 Villejuif, France.
+FAU - Chaput, Nathalie
+AU  - Chaput N
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+      Center of Clinical Investigations in Biotherapies of Cancer, CICBT507, GRCC,
+      94805 Villejuif, France.
+FAU - Kroemer, Guido
+AU  - Kroemer G
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. Equipe 11 labelisee par la Ligue Nationale
+      contre le Cancer, Centre de Recherche des Cordeliers, 75006 Paris, France. INSERM
+      U1138, 94805 Villejuif, France. University of Paris Descartes/ParisV, Sorbonne
+      Paris Cite, 75005 Paris, France. Pole de Biologie, Hopital Europeen Georges
+      Pompidou, 75015 Paris, France. laurence.zitvogel@gustaveroussy.fr
+      kroemer@orange.fr.
+FAU - Valteau-Couanet, Dominique
+AU  - Valteau-Couanet D
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+      Department of Pediatric Oncology, GRCC, 94805 Villejuif, France.
+FAU - Zitvogel, Laurence
+AU  - Zitvogel L
+AD  - Institut de Cancerologie Gustave Roussy Cancer Campus (GRCC), 114 rue Edouard
+      Vaillant, 94805 Villejuif, France. INSERM U1015, GRCC, 94805 Villejuif, France.
+      University of Paris Sud XI, 94805 Villejuif, France. Center of Clinical
+      Investigations in Biotherapies of Cancer, CICBT507, GRCC, 94805 Villejuif,
+      France. laurence.zitvogel@gustaveroussy.fr kroemer@orange.fr.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Sci Transl Med
+JT  - Science translational medicine
+JID - 101505086
+SB  - IM
+EDAT- 2015/04/17 06:00
+MHDA- 2015/04/17 06:00
+CRDT- 2015/04/17 06:00
+AID - 7/283/283ra55 [pii]
+AID - 10.1126/scitranslmed.aaa2327 [doi]
+PST - ppublish
+SO  - Sci Transl Med. 2015 Apr 15;7(283):283ra55. doi: 10.1126/scitranslmed.aaa2327.
+
+PMID- 25538175
+OWN - NLM
+STAT- In-Process
+DA  - 20150228
+LR  - 20150318
+IS  - 1569-8041 (Electronic)
+IS  - 0923-7534 (Linking)
+VI  - 26
+IP  - 3
+DP  - 2015 Mar
+TI  - Impact of centralization on aCGH-based genomic profiles for precision medicine in
+      oncology.
+PG  - 582-8
+LID - 10.1093/annonc/mdu582 [doi]
+AB  - BACKGROUND: Comparative genomic hybridization (CGH) arrays are increasingly used 
+      in personalized medicine programs to identify gene copy number aberrations (CNAs)
+      that may be used to guide clinical decisions made during molecular tumor boards. 
+      However, analytical processes such as the centralization step may profoundly
+      affect CGH array results and therefore may adversely affect outcomes in the
+      precision medicine context. PATIENTS AND METHODS: The effect of three different
+      centralization methods: median, maximum peak, alternative peak, were evaluated on
+      three datasets: (i) the NCI60 cell lines panel, (ii) the Cancer Cell Line
+      Encyclopedia (CCLE) panel, and (iii) the patients enrolled in prospective
+      molecular screening trials (SAFIR-01 n = 283, MOSCATO-01 n = 309), and compared
+      with karyotyping, drug sensitivity, and patient-drug matching, respectively.
+      RESULTS: Using the NCI60 cell lines panel, the profiles generated by the
+      alternative peak method were significantly closer to the cell karyotypes than
+      those generated by the other centralization strategies (P < 0.05). Using the CCLE
+      dataset, selected genes (ERBB2, EGFR) were better or equally correlated to the
+      IC50 of their companion drug (lapatinib, erlotinib), when applying the
+      alternative centralization. Finally, focusing on 24 actionable genes, we observed
+      as many as 7.1% (SAFIR-01) and 6.8% (MOSCATO-01) of patients originally not
+      oriented to a specific treatment, but who could have been proposed a treatment
+      based on the alternative peak centralization method. CONCLUSION: The
+      centralization method substantially affects the call detection of CGH profiles
+      and may thus impact precision medicine approaches. Among the three methods
+      described, the alternative peak method addresses limitations associated with
+      existing approaches.
+CI  - (c) The Author 2014. Published by Oxford University Press on behalf of the
+      European Society for Medical Oncology. All rights reserved. For permissions,
+      please email: journals.permissions@oup.com.
+FAU - Commo, F
+AU  - Commo F
+AD  - Sage Bionetworks, Seattle, USA INSERM U981, Gustave Roussy, University Paris XI, 
+      Villejuif.
+FAU - Ferte, C
+AU  - Ferte C
+AD  - Sage Bionetworks, Seattle, USA INSERM U981, Gustave Roussy, University Paris XI, 
+      Villejuif Department of Medical Oncology, Gustave Roussy, Villejuif, France.
+FAU - Soria, J C
+AU  - Soria JC
+AD  - INSERM U981, Gustave Roussy, University Paris XI, Villejuif Department of Medical
+      Oncology, Gustave Roussy, Villejuif, France.
+FAU - Friend, S H
+AU  - Friend SH
+AD  - Sage Bionetworks, Seattle, USA.
+FAU - Andre, F
+AU  - Andre F
+AD  - INSERM U981, Gustave Roussy, University Paris XI, Villejuif Department of Medical
+      Oncology, Gustave Roussy, Villejuif, France.
+FAU - Guinney, J
+AU  - Guinney J
+AD  - Sage Bionetworks, Seattle, USA justin.guinney@sagebase.org.
+LA  - eng
+GR  - U54CA149237/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+DEP - 20141223
+PL  - England
+TA  - Ann Oncol
+JT  - Annals of oncology : official journal of the European Society for Medical
+      Oncology / ESMO
+JID - 9007735
+SB  - IM
+PMC - PMC4343013
+OID - NLM: PMC4343013 [Available on 03/01/16]
+OTO - NOTNLM
+OT  - aCGH
+OT  - comparative genomic hybridization
+OT  - precision medicine
+OT  - targeted therapy
+EDAT- 2014/12/30 06:00
+MHDA- 2014/12/30 06:00
+CRDT- 2014/12/25 06:00
+PMCR- 2016/03/01 00:00
+PHST- 2014/12/23 [aheadofprint]
+AID - mdu582 [pii]
+AID - 10.1093/annonc/mdu582 [doi]
+PST - ppublish
+SO  - Ann Oncol. 2015 Mar;26(3):582-8. doi: 10.1093/annonc/mdu582. Epub 2014 Dec 23.
+
+PMID- 24636978
+OWN - NLM
+STAT- MEDLINE
+DA  - 20140512
+DCOM- 20150410
+IS  - 1532-3080 (Electronic)
+IS  - 0960-9776 (Linking)
+VI  - 23
+IP  - 3
+DP  - 2014 Jun
+TI  - Chk1 as a new therapeutic target in triple-negative breast cancer.
+PG  - 250-8
+LID - 10.1016/j.breast.2014.02.004 [doi]
+LID - S0960-9776(14)00032-0 [pii]
+AB  - OBJECTIVES: Bioinformatics analyses of pathways and genes differentially
+      expressed between malignant and benign lesions could allow discovering new
+      therapeutic targets. Here, we identified Checkpoint kinase 1 (Chk1) as a potent
+      therapeutic target in triple-negative breast cancer (TNBC). MATERIALS AND
+      METHODS: Differential gene expression between TNBC, other malignant and benign
+      lesions was performed on two breast cancer datasets. Chk1 was targeted using RNA 
+      interference or chemical inhibitor in several TNBC cell lines. RESULTS: DNA
+      repair pathway was identified as one mostly deregulated pathway in TNBC as
+      compared to benign lesions. Chk1 was identified as candidate target among the 35 
+      genes included in this pathway. Gene expression analysis revealed that Chk1 gene 
+      was significantly overexpressed in TNBC as compared to non-TNBC and benign
+      lesions. Depletion of Chk1 protein expression induced a marked reduction of cell 
+      viability and led to mitotic catastrophe in TNBC cells. Chemical Chk1 inhibitor
+      decreased survival in TNBC cells, and transcriptome analyze revealed a modulation
+      of gene expression profile in response to Chk1 treatment. CONCLUSION: These
+      findings suggest that Chk1 may represent a therapeutic target in TNBC, and
+      provide a rationale to evaluate Chk1 inhibitors in breast cancer patients.
+CI  - Copyright (c) 2014 Elsevier Ltd. All rights reserved.
+FAU - Albiges, Laurence
+AU  - Albiges L
+AD  - Department of Medical Oncology, Villejuif F-94800, France.
+FAU - Goubar, Aicha
+AU  - Goubar A
+AD  - Institut National de la Sante et de la Recherche Medicale (INSERM) UMR981,
+      Villejuif F-94800, France.
+FAU - Scott, Veronique
+AU  - Scott V
+AD  - Institut National de la Sante et de la Recherche Medicale (INSERM) UMR981,
+      Villejuif F-94800, France.
+FAU - Vicier, Cecile
+AU  - Vicier C
+AD  - Institut National de la Sante et de la Recherche Medicale (INSERM) UMR981,
+      Villejuif F-94800, France.
+FAU - Lefebvre, Celine
+AU  - Lefebvre C
+AD  - Institut National de la Sante et de la Recherche Medicale (INSERM) UMR981,
+      Villejuif F-94800, France.
+FAU - Alsafadi, Samar
+AU  - Alsafadi S
+AD  - Institut National de la Sante et de la Recherche Medicale (INSERM) UMR981,
+      Villejuif F-94800, France.
+FAU - Commo, Frederic
+AU  - Commo F
+AD  - Institut National de la Sante et de la Recherche Medicale (INSERM) UMR981,
+      Villejuif F-94800, France.
+FAU - Saghatchian, Mahasti
+AU  - Saghatchian M
+AD  - Department of Medical Oncology, Villejuif F-94800, France.
+FAU - Lazar, Vladimir
+AU  - Lazar V
+AD  - Plateforme de Biologie Integree, Institut de cancerologie Gustave Roussy,
+      Villejuif F-94800, France.
+FAU - Dessen, Philippe
+AU  - Dessen P
+AD  - Plateforme de Biologie Integree, Institut de cancerologie Gustave Roussy,
+      Villejuif F-94800, France.
+FAU - Delaloge, Suzette
+AU  - Delaloge S
+AD  - Department of Medical Oncology, Villejuif F-94800, France; Institut National de
+      la Sante et de la Recherche Medicale (INSERM) UMR981, Villejuif F-94800, France.
+FAU - Andre, Fabrice
+AU  - Andre F
+AD  - Department of Medical Oncology, Villejuif F-94800, France; Institut National de
+      la Sante et de la Recherche Medicale (INSERM) UMR981, Villejuif F-94800, France. 
+      Electronic address: fabrice.andre@gustaveroussy.fr.
+FAU - Quidville, Virginie
+AU  - Quidville V
+AD  - Institut National de la Sante et de la Recherche Medicale (INSERM) UMR981,
+      Villejuif F-94800, France.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140315
+PL  - Netherlands
+TA  - Breast
+JT  - Breast (Edinburgh, Scotland)
+JID - 9213011
+RN  - 0 (Protein Kinase Inhibitors)
+RN  - EC 2.7.- (Protein Kinases)
+RN  - EC 2.7.11.1 (Checkpoint kinase 1)
+SB  - IM
+MH  - Cell Line, Tumor
+MH  - Cell Survival/drug effects
+MH  - DNA Repair/drug effects
+MH  - Drug Repositioning
+MH  - Female
+MH  - Gene Expression Profiling
+MH  - Gene Knockdown Techniques/methods
+MH  - Humans
+MH  - Molecular Targeted Therapy
+MH  - Protein Kinase Inhibitors/*pharmacology
+MH  - Protein Kinases/*genetics
+MH  - RNA Interference
+MH  - *Triple Negative Breast Neoplasms/genetics/therapy
+OTO - NOTNLM
+OT  - Cell growth
+OT  - Chk1
+OT  - Mitotic catastrophe
+OT  - Triple-negative breast cancer
+EDAT- 2014/03/19 06:00
+MHDA- 2015/04/11 06:00
+CRDT- 2014/03/19 06:00
+PHST- 2013/08/01 [received]
+PHST- 2014/01/30 [revised]
+PHST- 2014/02/14 [accepted]
+PHST- 2014/03/15 [aheadofprint]
+AID - S0960-9776(14)00032-0 [pii]
+AID - 10.1016/j.breast.2014.02.004 [doi]
+PST - ppublish
+SO  - Breast. 2014 Jun;23(3):250-8. doi: 10.1016/j.breast.2014.02.004. Epub 2014 Mar
+      15.
+
+PMID- 24508104
+OWN - NLM
+STAT- MEDLINE
+DA  - 20140306
+DCOM- 20140520
+LR  - 20140818
+IS  - 1474-5488 (Electronic)
+IS  - 1470-2045 (Linking)
+VI  - 15
+IP  - 3
+DP  - 2014 Mar
+TI  - Comparative genomic hybridisation array and DNA sequencing to direct treatment of
+      metastatic breast cancer: a multicentre, prospective trial (SAFIR01/UNICANCER).
+PG  - 267-74
+LID - 10.1016/S1470-2045(13)70611-9 [doi]
+LID - S1470-2045(13)70611-9 [pii]
+AB  - BACKGROUND: Breast cancer is characterised by genomic alterations. We did a
+      multicentre molecular screening study to identify abnormalities in individual
+      patients with the aim of providing targeted therapy matched to individuals'
+      genomic alterations. METHODS: From June 16, 2011, to July 30, 2012, we recruited 
+      patients who had breast cancer with a metastasis accessible for biopsy in 18
+      centres in France. Comparative genomic hybridisation (CGH) array and Sanger
+      sequencing on PIK3CA (exon 10 and 21) and AKT1 (exon 4) were used to assess
+      metastatic biopsy samples in five centres. Therapeutic targets were decided on
+      the basis of identified genomic alterations. The primary objective was to include
+      30% of patients in clinical trials testing a targeted therapy and, therefore, the
+      primary outcome was the proportion of patients to whom a targeted therapy could
+      be offered. For the primary endpoint, the analyses were done on the overall
+      population registered for the trial. This trial is registered with
+      ClinicalTrials.gov, number NCT01414933. FINDINGS: 423 patients were included, and
+      biopsy samples were obtained from 407 (metastatic breast cancer was not found in 
+      four). CGH array and Sanger sequencing were feasible in 283 (67%) and 297 (70%)
+      patients, respectively. A targetable genomic alteration was identified in 195
+      (46%) patients, most frequently in PIK3CA (74 [25%] of 297 identified genomic
+      alterations), CCND1 (53 [19%]), and FGFR1 (36 [13%]). 117 (39%) of 297 patients
+      with genomic tests available presented with rare genomic alterations (defined as 
+      occurring in less than 5% of the general population), including AKT1 mutations,
+      and EGFR, MDM2, FGFR2, AKT2, IGF1R, and MET high-level amplifications. Therapy
+      could be personalised in 55 (13%) of 423 patients. Of the 43 patients who were
+      assessable and received targeted therapy, four (9%) had an objective response,
+      and nine others (21%) had stable disease for more than 16 weeks. Serious (grade 3
+      or higher) adverse events related to biopsy were reported in four (1%) of
+      enrolled patients, including pneumothorax (grade 3, one patient), pain (grade 3, 
+      one patient), haematoma (grade 3, one patient), and haemorrhagic shock (grade 3, 
+      one patient). INTERPRETATION: Personalisation of medicine for metastatic breast
+      cancer is feasible, including for rare genomic alterations. FUNDING: French
+      National Cancer Institute, Breast Cancer Research Foundation, Odyssea, Operation 
+      Parrains Chercheurs.
+CI  - Copyright (c) 2014 Elsevier Ltd. All rights reserved.
+FAU - Andre, Fabrice
+AU  - Andre F
+AD  - Department of Medical Oncology, Institut Gustave Roussy, Villejuif, France;
+      INSERM Unit U981, Institut Gustave Roussy, Villejuif, France; Universite Paris
+      Sud, le Kremlin Bicetre, France. Electronic address:
+      fabrice.andre@gustaveroussy.fr.
+FAU - Bachelot, Thomas
+AU  - Bachelot T
+AD  - Departement de Cancerologie Medicale, Universite Lyon 1, Centre Leon Berard,
+      Lyon, France.
+FAU - Commo, Frederic
+AU  - Commo F
+AD  - INSERM Unit U981, Institut Gustave Roussy, Villejuif, France.
+FAU - Campone, Mario
+AU  - Campone M
+AD  - Institut de Cancerologie de l'Ouest/Rene Gauducheau, Nantes Saint Herblain,
+      France.
+FAU - Arnedos, Monica
+AU  - Arnedos M
+AD  - Department of Medical Oncology, Institut Gustave Roussy, Villejuif, France;
+      INSERM Unit U981, Institut Gustave Roussy, Villejuif, France.
+FAU - Dieras, Veronique
+AU  - Dieras V
+AD  - Department of Medical Oncology, Institut Curie, Paris, France.
+FAU - Lacroix-Triki, Magali
+AU  - Lacroix-Triki M
+AD  - Institut Claudius Regaud, Department of Pathology, Toulouse, France.
+FAU - Lacroix, Ludovic
+AU  - Lacroix L
+AD  - Department of Translational Research, Institut Gustave Roussy, Villejuif, France.
+FAU - Cohen, Pascale
+AU  - Cohen P
+AD  - Centre Leon Berard, Lyon, France; Universite Lyon 1, Lyon, France; ProfileXpert, 
+      SFR Lyon-Est, Lyon, France.
+FAU - Gentien, David
+AU  - Gentien D
+AD  - Department of Translational Research, Institut Curie, Paris, France.
+FAU - Adelaide, Jose
+AU  - Adelaide J
+AD  - Molecular Oncology Department, Institut Paoli Calmettes, Marseille, France.
+FAU - Dalenc, Florence
+AU  - Dalenc F
+AD  - Department of Medical Oncology, Institut Claudius Regaud, Toulouse, France.
+FAU - Goncalves, Anthony
+AU  - Goncalves A
+AD  - Department of Medical Oncology, Institut Paoli Calmettes, Marseille, France.
+FAU - Levy, Christelle
+AU  - Levy C
+AD  - Department of Medical Oncology, Centre Francois Baclesse, Caen, France.
+FAU - Ferrero, Jean-Marc
+AU  - Ferrero JM
+AD  - Department of Medical Oncology, Centre Antoine Lacassagne, Nice, France.
+FAU - Bonneterre, Jacques
+AU  - Bonneterre J
+AD  - Department of Medical Oncology, Centre Oscar Lambret, Lille, France.
+FAU - Lefeuvre, Claudia
+AU  - Lefeuvre C
+AD  - Department of Medical Oncology, Centre Eugene Marquis, Rennes, France.
+FAU - Jimenez, Marta
+AU  - Jimenez M
+AD  - Research and Development Unit, UNICANCER, Paris, France.
+FAU - Filleron, Thomas
+AU  - Filleron T
+AD  - Department of Biostatistics, Institut Claudius Regaud, Toulouse, France.
+FAU - Bonnefoi, Herve
+AU  - Bonnefoi H
+AD  - Department of Medical Oncology, Institut Bergonie, Universite de Bordeaux, INSERM
+      U916, Bordeaux, France.
+LA  - eng
+SI  - ClinicalTrials.gov/NCT01414933
+PT  - Clinical Trial
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20140207
+PL  - England
+TA  - Lancet Oncol
+JT  - The Lancet. Oncology
+JID - 100957246
+SB  - IM
+CIN - Lancet Oncol. 2014 Mar;15(3):242-3. PMID: 24508106
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Breast Neoplasms/*genetics/pathology/therapy
+MH  - Comparative Genomic Hybridization/*methods
+MH  - Female
+MH  - Genes, erbB-2
+MH  - Humans
+MH  - Middle Aged
+MH  - Neoplasm Metastasis
+MH  - Prospective Studies
+MH  - Sequence Analysis, DNA/*methods
+EDAT- 2014/02/11 06:00
+MHDA- 2014/05/21 06:00
+CRDT- 2014/02/11 06:00
+PHST- 2014/02/07 [aheadofprint]
+AID - S1470-2045(13)70611-9 [pii]
+AID - 10.1016/S1470-2045(13)70611-9 [doi]
+PST - ppublish
+SO  - Lancet Oncol. 2014 Mar;15(3):267-74. doi: 10.1016/S1470-2045(13)70611-9. Epub
+      2014 Feb 7.
+
+PMID- 24169260
+OWN - NLM
+STAT- MEDLINE
+DA  - 20140217
+DCOM- 20150521
+LR  - 20151119
+IS  - 1938-0690 (Electronic)
+IS  - 1525-7304 (Linking)
+VI  - 15
+IP  - 2
+DP  - 2014 Mar
+TI  - Mutation of TP53 and alteration of p14(arf) expression in EGFR- and KRAS-mutated 
+      lung adenocarcinomas.
+PG  - 124-30
+LID - 10.1016/j.cllc.2013.08.003 [doi]
+LID - S1525-7304(13)00180-0 [pii]
+AB  - BACKGROUND: In lung adenocarcinoma, inactivation of the tumor suppressor p53 may 
+      abrogate a safeguard mechanism preventing the development of tumors with
+      activating mutations in EGFR or KRAS. To assess this hypothesis, we analyzed TP53
+      mutations and downregulation of p14(arf), a negative regulator of p53 activated
+      by oncogenic signals, in a retrospective series of 96 patients with primary
+      adenocarcinoma of the lung. PATIENTS AND METHODS: Mutations in TP53 (exons 4-9), 
+      KRAS (exon 1), and EGFR (exons 18-21) were identified by direct sequencing of DNA
+      from formalin-fixed, paraffin-embedded resected tumors. Expression of p14(arf)
+      was semiquantitatively evaluated by immunohistochemical analysis. RESULTS: TP53, 
+      KRAS, and EGFR mutations were detected in 42 of 93 (45.2%), 15 of 95 (15.8%), and
+      31 of 90 (34.4%) cases, respectively. Low p14(arf) expression was observed in 19 
+      of 91 cases (20.9%). Disruption of the p53/p14(arf) pathway (defined as TP53
+      mutation or decreased p14(arf) expression, or both) was observed in 18 of 31
+      EGFR-mutated (58.1%) tumors and in 9 of 13 KRAS-mutated (69.2%) tumors.
+      CONCLUSION: Inactivation of the p53/p14(arf) pathway is common but not systematic
+      in EGFR- or KRAS-mutated lung adenocarcinomas. Our work highlights the need to
+      better investigate the association between EGFR and KRAS mutations and
+      alterations in tumor suppressor pathways.
+CI  - Copyright (c) 2014 Elsevier Inc. All rights reserved.
+FAU - Cortot, Alexis B
+AU  - Cortot AB
+AD  - International Agency for Research on Cancer, Lyon, France; Department of Thoracic
+      Oncology, Hospices Civils de Lyon, Centre Hospitalier Lyon Sud, Pierre-Benite,
+      France; Thoracic Oncology Department, Lille University Hospital, Universite Lille
+      Nord de France, Lille, France. Electronic address: alexis.cortot@chru-lille.fr.
+FAU - Younes, Mohamad
+AU  - Younes M
+AD  - International Agency for Research on Cancer, Lyon, France; Clinical Research Unit
+      and Department of Pharmacology, Saint-Antoine University of Medicine, University 
+      Pierre et Marie Curie Paris 6, Paris, France.
+FAU - Martel-Planche, Ghislaine
+AU  - Martel-Planche G
+AD  - International Agency for Research on Cancer, Lyon, France.
+FAU - Guibert, Benoit
+AU  - Guibert B
+AD  - Department of Thoracic Oncology, Hospices Civils de Lyon, Centre Hospitalier Lyon
+      Sud, Pierre-Benite, France.
+FAU - Isaac, Sylvie
+AU  - Isaac S
+AD  - Department of Pathology, Hospices Civils de Lyon, Centre Hospitalier Lyon Sud,
+      Pierre-Benite, France.
+FAU - Souquet, Pierre-Jean
+AU  - Souquet PJ
+AD  - Department of Thoracic Oncology, Hospices Civils de Lyon, Centre Hospitalier Lyon
+      Sud, Pierre-Benite, France.
+FAU - Commo, Frederic
+AU  - Commo F
+AD  - Department of Translational Research, Institut Gustave Roussy, Villejuif, France;
+      INSERM Unit 981, University Paris-South, France.
+FAU - Girard, Philippe
+AU  - Girard P
+AD  - Thorax Department, Institut Mutualiste Montsouris, Paris, France.
+FAU - Fouret, Pierre
+AU  - Fouret P
+AD  - Department of Pathology, Hospices Civils de Lyon, Centre Hospitalier Lyon Sud,
+      Pierre-Benite, France; Department of Pathology, Institut Gustave Roussy,
+      Villejuif, France.
+FAU - Brambilla, Elisabeth
+AU  - Brambilla E
+AD  - Institut Albert Bonniot, INSERM U823 and Department of Pathology, Hopital Albert 
+      Michallon, Grenoble, France.
+FAU - Hainaut, Pierre
+AU  - Hainaut P
+AD  - International Agency for Research on Cancer, Lyon, France; International
+      Prevention Research Institute, Lyon, France.
+FAU - Soria, Jean-Charles
+AU  - Soria JC
+AD  - Department of Translational Research, Institut Gustave Roussy, Villejuif, France;
+      INSERM Unit 981, University Paris-South, France.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131026
+PL  - United States
+TA  - Clin Lung Cancer
+JT  - Clinical lung cancer
+JID - 100893225
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (KRAS protein, human)
+RN  - 0 (Proto-Oncogene Proteins)
+RN  - 0 (TP53 protein, human)
+RN  - 0 (Tumor Suppressor Protein p14ARF)
+RN  - 0 (Tumor Suppressor Protein p53)
+RN  - EC 2.7.10.1 (EGFR protein, human)
+RN  - EC 2.7.10.1 (Receptor, Epidermal Growth Factor)
+RN  - EC 3.6.5.2 (ras Proteins)
+SB  - IM
+MH  - Adenocarcinoma/genetics/metabolism/pathology
+MH  - Aged
+MH  - Biomarkers, Tumor/genetics/metabolism
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Immunoenzyme Techniques
+MH  - Lung Neoplasms/*genetics/*metabolism/pathology
+MH  - Male
+MH  - Middle Aged
+MH  - Mutation/*genetics
+MH  - Neoplasm Staging
+MH  - Polymerase Chain Reaction
+MH  - Prognosis
+MH  - Proto-Oncogene Proteins/*genetics
+MH  - Receptor, Epidermal Growth Factor/*genetics
+MH  - Retrospective Studies
+MH  - Signal Transduction
+MH  - Tumor Suppressor Protein p14ARF/*metabolism
+MH  - Tumor Suppressor Protein p53/*genetics
+MH  - ras Proteins/*genetics
+OTO - NOTNLM
+OT  - EGFR
+OT  - KRAS
+OT  - Lung adenocarcinoma
+OT  - p14(arf)
+OT  - p53
+EDAT- 2013/10/31 06:00
+MHDA- 2015/05/23 06:00
+CRDT- 2013/10/31 06:00
+PHST- 2013/04/21 [received]
+PHST- 2013/08/27 [accepted]
+PHST- 2013/10/26 [aheadofprint]
+AID - S1525-7304(13)00180-0 [pii]
+AID - 10.1016/j.cllc.2013.08.003 [doi]
+PST - ppublish
+SO  - Clin Lung Cancer. 2014 Mar;15(2):124-30. doi: 10.1016/j.cllc.2013.08.003. Epub
+      2013 Oct 26.
+
+PMID- 24525428
+OWN - NLM
+STAT- MEDLINE
+DA  - 20140321
+DCOM- 20150109
+LR  - 20150515
+IS  - 1949-2553 (Electronic)
+IS  - 1949-2553 (Linking)
+VI  - 5
+IP  - 3
+DP  - 2014 Feb 15
+TI  - Targeting CDC25C, PLK1 and CHEK1 to overcome Docetaxel resistance induced by loss
+      of LZTS1 in prostate cancer.
+PG  - 667-78
+AB  - Docetaxel is used as a standard treatment in patients with metastatic
+      castration-resistant prostate cancer. However, a large subset of patients
+      develops resistance. Understanding resistance mechanisms, which are largely
+      unknown, will allow identification of predictive biomarkers and therapeutic
+      targets. We established resistant IGR-CaP1 prostate cancer cell lines for
+      different doses of Docetaxel. We investigated gene expression profiles by
+      microarray analyses in these cell lines and generated a signature of 99 highly
+      differentially expressed genes potentially implicated in chemoresistance. We
+      focused on the role of the cell cycle regulator LZTS1, which was under-expressed 
+      in the Docetaxel-resistant cell lines, its inhibition resulting from the promoter
+      methylation. Knockdown of LZTS1 in parental cells with siRNA showed that LZTS1
+      plays a role in the acquisition of the resistant phenotype. Furthermore, we
+      observed that targeting CDC25C, a partner of LZTS1, with the NSC663284 inhibitor 
+      specifically killed the Docetaxel-resistant cells. To further investigate the
+      role of CDC25C, we used inhibitors of the mitotic kinases that regulate CDC25C.
+      Inhibition of CHEK1 and PLK1 induced growth arrest and cell death in the
+      resistant cells. Our findings identify an important role of LZTS1 through its
+      regulation of CDC25C in Docetaxel resistance in prostate cancer and suggest that 
+      CDC25C, or the mitotic kinases CHEK1 and PLK1, could be efficient therapeutic
+      targets to overcome Docetaxel resistance.
+FAU - Nakouzi, Nader Al
+AU  - Nakouzi NA
+AD  - Prostate Cancer Group, INSERM U981, Gustave Roussy, Villejuif, F-94805, France.
+FAU - Cotteret, Sophie
+AU  - Cotteret S
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Gaudin, Catherine
+AU  - Gaudin C
+FAU - Rajpar, Shanna
+AU  - Rajpar S
+FAU - Dessen, Philippe
+AU  - Dessen P
+FAU - Vielh, Philippe
+AU  - Vielh P
+FAU - Fizazi, Karim
+AU  - Fizazi K
+FAU - Chauchereau, Anne
+AU  - Chauchereau A
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Oncotarget
+JT  - Oncotarget
+JID - 101532965
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Cell Cycle Proteins)
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (LZTS1 protein, human)
+RN  - 0 (Proto-Oncogene Proteins)
+RN  - 0 (RNA, Small Interfering)
+RN  - 0 (Taxoids)
+RN  - 0 (Tumor Suppressor Proteins)
+RN  - 15H5577CQD (docetaxel)
+RN  - EC 2.7.- (Protein Kinases)
+RN  - EC 2.7.11.1 (Checkpoint kinase 1)
+RN  - EC 2.7.11.1 (Protein-Serine-Threonine Kinases)
+RN  - EC 2.7.11.1 (polo-like kinase 1)
+RN  - EC 3.1.3.48 (CDC25C protein, human)
+RN  - EC 3.1.3.48 (cdc25 Phosphatases)
+SB  - IM
+MH  - Antineoplastic Agents/pharmacology
+MH  - Apoptosis/drug effects
+MH  - Cell Cycle Proteins/antagonists & inhibitors/metabolism
+MH  - Cell Line, Tumor
+MH  - DNA-Binding Proteins/*deficiency/genetics/metabolism
+MH  - Drug Resistance, Neoplasm
+MH  - Gene Knockdown Techniques
+MH  - Humans
+MH  - Male
+MH  - Molecular Targeted Therapy
+MH  - Prostatic Neoplasms, Castration-Resistant/*drug therapy/*metabolism/pathology
+MH  - Protein Kinases/genetics/*metabolism
+MH  - Protein-Serine-Threonine Kinases/antagonists & inhibitors/metabolism
+MH  - Proto-Oncogene Proteins/antagonists & inhibitors/metabolism
+MH  - RNA, Small Interfering/administration & dosage/genetics
+MH  - Taxoids/*pharmacology
+MH  - Tissue Array Analysis
+MH  - Transcriptome
+MH  - Transfection
+MH  - Tumor Suppressor Proteins/*deficiency/genetics/metabolism
+MH  - cdc25 Phosphatases/*antagonists & inhibitors/metabolism
+PMC - PMC3996665
+OID - NLM: PMC3996665
+EDAT- 2014/02/15 06:00
+MHDA- 2015/01/13 06:00
+CRDT- 2014/02/15 06:00
+AID - 1574 [pii]
+AID - 10.18632/oncotarget.1574 [doi]
+PST - ppublish
+SO  - Oncotarget. 2014 Feb 15;5(3):667-78.
+
+PMID- 24256343
+OWN - NLM
+STAT- MEDLINE
+DA  - 20140110
+DCOM- 20141013
+LR  - 20151119
+IS  - 1557-9077 (Electronic)
+IS  - 1050-7256 (Linking)
+VI  - 24
+IP  - 1
+DP  - 2014 Jan
+TI  - Changes in signaling pathways induced by vandetanib in a human medullary thyroid 
+      carcinoma model, as analyzed by reverse phase protein array.
+PG  - 43-51
+LID - 10.1089/thy.2013.0514 [doi]
+AB  - BACKGROUND: Medullary thyroid carcinoma (MTC) is a rare tumor that is caused by
+      activating mutations in the proto-oncogene RET. Vandetanib, a tyrosine-kinase
+      inhibitor, has been recently approved to treat adult patients with metastatic
+      MTC. The aim of this study was to investigate changes in signaling pathways
+      induced by vandetanib treatment in preclinical MTC models, using the
+      reverse-phase protein array method (RPPA). METHODS: The human TT cell line was
+      used to assess in vitro and in vivo activity of vandetanib. Protein extracts from
+      TT cells or TT xenografted mice, treated by increasing concentrations of
+      vandetanib for different periods of time, were probed with a set of 12 antibodies
+      representing major signaling pathways, using RPPA. Results were validated using
+      two distinct protein detection methods: Western immunoblotting and
+      immunohistochemistry. RESULTS: Vandetanib displays antiproliferative and
+      antiangiogenic activities and inhibits RET autophosphorylation. The MAPK and AKT 
+      pathways were the two major signaling pathways inhibited by vandetanib.
+      Interestingly, phosphorylated levels of NFkappaB-p65 were significantly increased
+      by vandetanib. Comparable results were obtained in both the in vitro and in vivo 
+      approaches, as well as for the protein detection methods. However, some
+      discrepancies were observed between RPPA and Western immunoblotting, possibly due
+      to lack of specificity of the primary antibodies used. CONCLUSIONS: Overall, our 
+      results confirmed the interest of RPPA for screening global changes induced in
+      signaling pathways by kinase inhibitors. MAPK and AKT were identified as the main
+      pathways involved in vandetanib response in MTC models. Our results also suggest 
+      alternative routes for controlling the disease, and provide a rationale for the
+      development of therapeutic combinations based on the comprehensive identification
+      of molecular events induced by inhibitors.
+FAU - Broutin, Sophie
+AU  - Broutin S
+AD  - 1 Genetic Stability and Oncogenesis Research Unit, National Center for Scientific
+      Research (CNRS UMR 8200), Gustave Roussy and University of Paris-Sud , Villejuif,
+      France .
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - De Koning, Leanne
+AU  - De Koning L
+FAU - Marty-Prouvost, Berengere
+AU  - Marty-Prouvost B
+FAU - Lacroix, Ludovic
+AU  - Lacroix L
+FAU - Talbot, Monique
+AU  - Talbot M
+FAU - Caillou, Bernard
+AU  - Caillou B
+FAU - Dubois, Thierry
+AU  - Dubois T
+FAU - Ryan, Anderson J
+AU  - Ryan AJ
+FAU - Dupuy, Corinne
+AU  - Dupuy C
+FAU - Schlumberger, Martin
+AU  - Schlumberger M
+FAU - Bidart, Jean-Michel
+AU  - Bidart JM
+LA  - eng
+GR  - MC_PC_12006/Medical Research Council/United Kingdom
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20131224
+PL  - United States
+TA  - Thyroid
+JT  - Thyroid : official journal of the American Thyroid Association
+JID - 9104317
+RN  - 0
+      (N-(4-bromo-2-fluorophenyl)-6-methoxy-7-((1-methylpiperidin-4-yl)methoxy)quinazol
+      in-4-amine)
+RN  - 0 (Piperidines)
+RN  - 0 (Quinazolines)
+RN  - EC 2.7.11.1 (Proto-Oncogene Proteins c-akt)
+RN  - Thyroid cancer, medullary
+SB  - IM
+MH  - Adult
+MH  - Animals
+MH  - Carcinoma, Neuroendocrine
+MH  - Cell Line, Tumor
+MH  - Cell Proliferation/drug effects
+MH  - Humans
+MH  - MAP Kinase Signaling System/drug effects
+MH  - Mice
+MH  - Piperidines/*therapeutic use
+MH  - Proto-Oncogene Proteins c-akt/drug effects
+MH  - Quinazolines/*therapeutic use
+MH  - Signal Transduction/drug effects
+MH  - Thyroid Neoplasms/*drug therapy
+EDAT- 2013/11/22 06:00
+MHDA- 2014/10/14 06:00
+CRDT- 2013/11/22 06:00
+PHST- 2013/12/24 [aheadofprint]
+AID - 10.1089/thy.2013.0514 [doi]
+PST - ppublish
+SO  - Thyroid. 2014 Jan;24(1):43-51. doi: 10.1089/thy.2013.0514. Epub 2013 Dec 24.
+
+PMID- 24036546
+OWN - NLM
+STAT- MEDLINE
+DA  - 20131022
+DCOM- 20140514
+LR  - 20150422
+IS  - 1551-4005 (Electronic)
+IS  - 1551-4005 (Linking)
+VI  - 12
+IP  - 20
+DP  - 2013 Oct 15
+TI  - ERCC1 function in nuclear excision and interstrand crosslink repair pathways is
+      mediated exclusively by the ERCC1-202 isoform.
+PG  - 3298-306
+LID - 10.4161/cc.26309 [doi]
+AB  - ERCC1 (excision repair cross-complementation group 1) plays essential roles in
+      the removal of DNA intrastrand crosslinks by nucleotide excision repair, and that
+      of DNA interstrand crosslinks by the Fanconi anemia (FA) pathway and
+      homology-directed repair processes (HDR). The function of ERCC1 thus impacts on
+      the DNA damage response (DDR), particularly in anticancer therapy when DNA
+      damaging agents are employed. ERCC1 expression has been proposed as a predictive 
+      biomarker of the response to platinum-based therapy. However, the assessment of
+      ERCC1 expression in clinical samples is complicated by the existence of 4
+      functionally distinct protein isoforms, which differently impact on DDR. Here, we
+      explored the functional competence of each ERCC1 protein isoform and obtained
+      evidence that the 202 isoform is the sole one endowed with ERCC1 activity in DNA 
+      repair pathways. The ERCC1 isoform 202 interacts with RPA, XPA, and XPF, and XPF 
+      stability requires expression of the ERCC1 202 isoform (but none of the 3
+      others). ERCC1-deficient non-small cell lung cancer cells show abnormal mitosis, 
+      a phenotype reminiscent of the FA phenotype that can be rescued by isoform 202
+      only. Finally, we could not observe any dominant-negative interaction between
+      ERCC1 isoforms. These data suggest that the selective assessment of the ERCC1
+      isoform 202 in clinical samples should accurately reflect the DDR-related
+      activity of the gene and hence constitute a useful biomarker for customizing
+      anticancer therapies.
+FAU - Friboulet, Luc
+AU  - Friboulet L
+AD  - Gustave Roussy; Villejuif, France; INSERM, U981; IRCIV; Villejuif, France;
+      Departement Hospitalo-Universitaire Thorax Innovation (DHU TORINO); Villejuif,
+      France; Universite Paris Sud; Kremlin-Bicetre, France.
+FAU - Postel-Vinay, Sophie
+AU  - Postel-Vinay S
+FAU - Sourisseau, Tony
+AU  - Sourisseau T
+FAU - Adam, Julien
+AU  - Adam J
+FAU - Stoclin, Annabelle
+AU  - Stoclin A
+FAU - Ponsonnailles, Florence
+AU  - Ponsonnailles F
+FAU - Dorvault, Nicolas
+AU  - Dorvault N
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Saulnier, Patrick
+AU  - Saulnier P
+FAU - Salome-Desmoulez, Sophie
+AU  - Salome-Desmoulez S
+FAU - Pottier, Geraldine
+AU  - Pottier G
+FAU - Andre, Fabrice
+AU  - Andre F
+FAU - Kroemer, Guido
+AU  - Kroemer G
+FAU - Soria, Jean-Charles
+AU  - Soria JC
+FAU - Olaussen, Ken Andre
+AU  - Olaussen KA
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130909
+PL  - United States
+TA  - Cell Cycle
+JT  - Cell cycle (Georgetown, Tex.)
+JID - 101137841
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (Protein Isoforms)
+RN  - 0 (xeroderma pigmentosum group F protein)
+RN  - 50SG953SK6 (Mitomycin)
+RN  - 9007-49-2 (DNA)
+RN  - EC 3.1.- (ERCC1 protein, human)
+RN  - EC 3.1.- (Endonucleases)
+SB  - IM
+MH  - Anaphase/drug effects
+MH  - Carcinoma, Non-Small-Cell Lung/metabolism/pathology
+MH  - Cell Line, Tumor
+MH  - Cell Survival/drug effects
+MH  - Cytokinesis/drug effects
+MH  - DNA/metabolism
+MH  - *DNA Repair/drug effects
+MH  - DNA-Binding Proteins/deficiency/*metabolism
+MH  - Endonucleases/deficiency/*metabolism
+MH  - Genes, Dominant
+MH  - Humans
+MH  - Lung Neoplasms/metabolism/pathology
+MH  - Mitomycin/pharmacology
+MH  - Polyploidy
+MH  - Protein Binding/drug effects
+MH  - Protein Isoforms/deficiency/metabolism
+MH  - Protein Transport/drug effects
+MH  - Subcellular Fractions/drug effects/metabolism
+PMC - PMC3885640
+OID - NLM: PMC3885640
+OTO - NOTNLM
+OT  - DNA repair
+OT  - ERCC1
+OT  - NSCLC
+OT  - interaction
+OT  - isoform
+OT  - knock-out
+OT  - mitosis
+EDAT- 2013/09/17 06:00
+MHDA- 2014/05/16 06:00
+CRDT- 2013/09/17 06:00
+PHST- 2013/09/09 [aheadofprint]
+AID - 26309 [pii]
+AID - 10.4161/cc.26309 [doi]
+PST - ppublish
+SO  - Cell Cycle. 2013 Oct 15;12(20):3298-306. doi: 10.4161/cc.26309. Epub 2013 Sep 9.
+
+PMID- 23830798
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130916
+DCOM- 20140408
+LR  - 20151119
+IS  - 1938-0666 (Electronic)
+IS  - 1526-8209 (Linking)
+VI  - 13
+IP  - 5
+DP  - 2013 Oct
+TI  - Retinoic acid receptor alpha amplifications and retinoic acid sensitivity in
+      breast cancers.
+PG  - 401-8
+LID - 10.1016/j.clbc.2013.02.001 [doi]
+LID - S1526-8209(13)00027-X [pii]
+AB  - BACKGROUND: Molecular segmentation of breast cancer allows identification of
+      small groups of patients who present high sensitivity to targeted agents. A
+      patient, with chemo- and trastuzumab-resistant HER2-overexpressing breast cancer,
+      who presented concomitant acute promyelocytic leukemia, showed a response in her 
+      breast lesions to retinoic acid, arsenic, and aracytin. We therefore investigated
+      whether RARA gene amplification could be associated with sensitivity to retinoic 
+      acid derivatives in breast cancers. MATERIALS AND METHODS: Array comparative
+      genomic hybridization and gene expression arrays were used to characterize RARA
+      amplifications and expression in 103 breast cancer samples. In vitro activity of 
+      ATRA was characterized in T47D, SKBR3, and BT474 cell lines. RESULTS: Retinoic
+      acid receptor alpha was gained or amplified in 27% of HER2-positive and 13% of
+      HER2-negative breast cancer samples. Retinoic acid receptor alpha can be
+      coamplified with HER2. Retinoic acid receptor alpha copy number changes could be 
+      correlated with messenger RNA expression. All-trans-retinoic acid reduced cell
+      viability of RARA-amplified, but not RARA-normal, cell lines through apoptosis.
+      Gene expression arrays showed that ATRA-induced apoptosis in RARA-amplified cell 
+      lines was related to an increase in CASP1 and IRF1. CONCLUSION: The results of
+      this study suggest that breast cancers exhibiting RARA amplifications could be
+      sensitive to retinoic acid. A phase II trial will evaluate this hypothesis in the
+      clinical setting.
+CI  - Copyright (c) 2013 Elsevier Inc. All rights reserved.
+FAU - Alsafadi, Samar
+AU  - Alsafadi S
+AD  - INSERM U981 "Identification of molecular predictors and new targets for cancer
+      treatment", Gustave Roussy Cancer Institute, Villejuif, France.
+FAU - Even, Caroline
+AU  - Even C
+FAU - Falet, Coralie
+AU  - Falet C
+FAU - Goubar, Aicha
+AU  - Goubar A
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Scott, Veronique
+AU  - Scott V
+FAU - Quidville, Virginie
+AU  - Quidville V
+FAU - Albiges, Laurence
+AU  - Albiges L
+FAU - Dieci, Maria-Vittoria
+AU  - Dieci MV
+FAU - Guegan, Justine
+AU  - Guegan J
+FAU - Lazar, Vladimir
+AU  - Lazar V
+FAU - Ahomadegbe, Jean-Charles
+AU  - Ahomadegbe JC
+FAU - Delaloge, Suzette
+AU  - Delaloge S
+FAU - Andre, Fabrice
+AU  - Andre F
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130703
+PL  - United States
+TA  - Clin Breast Cancer
+JT  - Clinical breast cancer
+JID - 100898731
+RN  - 0 (Antibodies, Monoclonal, Humanized)
+RN  - 0 (Receptors, Retinoic Acid)
+RN  - 0 (retinoic acid receptor alpha)
+RN  - 5688UTC01R (Tretinoin)
+RN  - P188ANX8CK (Trastuzumab)
+SB  - IM
+MH  - Antibodies, Monoclonal, Humanized/administration & dosage
+MH  - Breast Neoplasms/complications/drug therapy/*genetics
+MH  - Carcinoma, Ductal, Breast/complications/drug therapy/*genetics
+MH  - Drug Resistance, Neoplasm/*genetics
+MH  - Female
+MH  - *Gene Amplification
+MH  - Humans
+MH  - Leukemia, Promyelocytic, Acute/complications/drug therapy/*genetics
+MH  - Middle Aged
+MH  - Receptors, Retinoic Acid/*genetics
+MH  - Trastuzumab
+MH  - Tretinoin/*pharmacology
+MH  - Tumor Cells, Cultured
+OTO - NOTNLM
+OT  - All-trans-retinoic acid
+OT  - Coamplification
+OT  - HER2
+OT  - IRF1
+OT  - RARA
+EDAT- 2013/07/09 06:00
+MHDA- 2014/04/09 06:00
+CRDT- 2013/07/09 06:00
+PHST- 2012/06/26 [received]
+PHST- 2012/12/28 [revised]
+PHST- 2013/02/04 [accepted]
+PHST- 2013/07/03 [aheadofprint]
+AID - S1526-8209(13)00027-X [pii]
+AID - 10.1016/j.clbc.2013.02.001 [doi]
+PST - ppublish
+SO  - Clin Breast Cancer. 2013 Oct;13(5):401-8. doi: 10.1016/j.clbc.2013.02.001. Epub
+      2013 Jul 3.
+
+PMID- 23773262
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130903
+DCOM- 20140327
+LR  - 20150312
+IS  - 1938-0690 (Electronic)
+IS  - 1525-7304 (Linking)
+VI  - 14
+IP  - 5
+DP  - 2013 Sep
+TI  - 19q13-ERCC1 gene copy number increase in non--small-cell lung cancer.
+PG  - 549-57
+LID - 10.1016/j.cllc.2013.01.006 [doi]
+LID - S1525-7304(13)00076-4 [pii]
+AB  - BACKGROUND: Excision repair cross complementing 1 gene expression level has
+      potential as a prognostic and predictive marker of the efficacy of chemotherapy
+      in NSCLC. The effect of ERCC1 gene copy number (CN) variation (CNV) on ERCC1
+      expression and the clinical outcome of patients with NSCLC are not known.
+      MATERIALS AND METHODS: Copy number variation of the 19q13.3 region carrying the
+      ERCC1 gene, classified as gene amplification (GA) or high polysomy (HP), was
+      evaluated on 235 formalin-fixed and paraffin-embedded tumors from resected NSCLC 
+      patient samples and 16 NSCLC cell lines using FISH. We analyzed the potential
+      correlations between FISH status and ERCC1 expression, patient's outcome, and
+      cisplatin sensitivity in the cohort or cell lines. RESULTS: An increase of
+      19q13.3 gene CN was detected in 60 cases (25.5%) including 27 cases with GA and
+      33 cases with HP. A nonsignificant trend for higher ERCC1 expression in HP
+      patients compared with GA and patients with low CNV was found (P = .06). In
+      patients not treated with chemotherapy, FISH negative status cases had longer
+      disease-free survival (DFS) compared with patients with 19q13-ERCC1 GA (P = .02).
+      A 3-fold increase in IC50 of cisplatin in cell lines with high 19q13-ERCC1 CN
+      compared with cells without CNV was shown. CONCLUSION: ERCC1 CN increase assessed
+      using FISH did not determine ERCC1 expression status but yields potential
+      prognostic information on DFS in untreated patients with NSCLC. The clinical
+      relevance of an association of 19q13-ERCC1 FISH status and chemosensitivity or
+      prognosis in patients needs further investigation and validation.
+CI  - Copyright (c) 2013 Elsevier Inc. All rights reserved.
+FAU - Vanhecke, Elsa
+AU  - Vanhecke E
+AD  - INSERM U981, Villejuif, F-94805, France.
+FAU - Valent, Alexander
+AU  - Valent A
+FAU - Tang, Ximing
+AU  - Tang X
+FAU - Vielh, Philippe
+AU  - Vielh P
+FAU - Friboulet, Luc
+AU  - Friboulet L
+FAU - Tang, Tao
+AU  - Tang T
+FAU - Goubar, Aicha
+AU  - Goubar A
+FAU - Li, Yuanyuan
+AU  - Li Y
+FAU - Robin, Angelique
+AU  - Robin A
+FAU - Behrens, Carmen
+AU  - Behrens C
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Validire, Pierre
+AU  - Validire P
+FAU - Andre, Fabrice
+AU  - Andre F
+FAU - Wistuba, Ignacio I
+AU  - Wistuba II
+FAU - Soria, Jean-Charles
+AU  - Soria JC
+FAU - Olaussen, Ken A
+AU  - Olaussen KA
+LA  - eng
+GR  - P30 CA016672/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130615
+PL  - United States
+TA  - Clin Lung Cancer
+JT  - Clinical lung cancer
+JID - 100893225
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (RNA, Messenger)
+RN  - EC 3.1.- (ERCC1 protein, human)
+RN  - EC 3.1.- (Endonucleases)
+RN  - Q20Q21Q62J (Cisplatin)
+SB  - IM
+MH  - Adenocarcinoma/drug therapy/genetics/mortality
+MH  - Antineoplastic Agents/therapeutic use
+MH  - Blotting, Western
+MH  - Carcinoma, Large Cell/drug therapy/genetics/mortality
+MH  - Carcinoma, Non-Small-Cell Lung/drug therapy/genetics/*mortality
+MH  - Carcinoma, Squamous Cell/drug therapy/genetics/mortality
+MH  - Cell Proliferation
+MH  - Chromosomes, Human, Pair 19/*genetics
+MH  - Cisplatin/therapeutic use
+MH  - DNA Copy Number Variations/*genetics
+MH  - DNA-Binding Proteins/*genetics
+MH  - Endonucleases/*genetics
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Humans
+MH  - Immunoenzyme Techniques
+MH  - In Situ Hybridization, Fluorescence
+MH  - Lung Neoplasms/drug therapy/genetics/*mortality
+MH  - Male
+MH  - Neoplasm Staging
+MH  - Prognosis
+MH  - RNA, Messenger/genetics
+MH  - Real-Time Polymerase Chain Reaction
+MH  - Retrospective Studies
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - Survival Rate
+MH  - Tumor Cells, Cultured
+OTO - NOTNLM
+OT  - Amplification
+OT  - Excision repair cross-complementing 1
+OT  - Fluorescence in situ hybridization
+OT  - High polysomy
+OT  - Prognosis
+EDAT- 2013/06/19 06:00
+MHDA- 2014/03/29 06:00
+CRDT- 2013/06/19 06:00
+PHST- 2012/10/31 [received]
+PHST- 2012/12/19 [revised]
+PHST- 2013/01/08 [accepted]
+PHST- 2013/06/15 [aheadofprint]
+AID - S1525-7304(13)00076-4 [pii]
+AID - 10.1016/j.cllc.2013.01.006 [doi]
+PST - ppublish
+SO  - Clin Lung Cancer. 2013 Sep;14(5):549-57. doi: 10.1016/j.cllc.2013.01.006. Epub
+      2013 Jun 15.
+
+PMID- 23780890
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130815
+DCOM- 20140401
+LR  - 20150612
+IS  - 1078-0432 (Print)
+IS  - 1078-0432 (Linking)
+VI  - 19
+IP  - 16
+DP  - 2013 Aug 15
+TI  - Impact of bioinformatic procedures in the development and translation of
+      high-throughput molecular classifiers in oncology.
+PG  - 4315-25
+LID - 10.1158/1078-0432.CCR-12-3937 [doi]
+AB  - The progressive introduction of high-throughput molecular techniques in the
+      clinic allows for the extensive and systematic exploration of multiple biologic
+      layers of tumors. Molecular profiles and classifiers generated from these assays 
+      represent the foundation of what the National Academy describes as the future of 
+      "precision medicine". However, the analysis of such complex data requires the
+      implementation of sophisticated bioinformatic and statistical procedures. It is
+      critical that oncology practitioners be aware of the advantages and limitations
+      of the methods used to generate classifiers to usher them into the clinic. This
+      article uses publicly available expression data from patients with non-small cell
+      lung cancer to first illustrate the challenges of experimental design and
+      preprocessing of data before clinical application and highlights the challenges
+      of high-dimensional statistical analysis. It provides a roadmap for the
+      translation of such classifiers to clinical practice and makes key
+      recommendations for good practice.
+CI  - (c)2013 AACR.
+FAU - Ferte, Charles
+AU  - Ferte C
+AD  - Sage Bionetworks, Seattle, WA 98109, USA.
+FAU - Trister, Andrew D
+AU  - Trister AD
+FAU - Huang, Erich
+AU  - Huang E
+FAU - Bot, Brian M
+AU  - Bot BM
+FAU - Guinney, Justin
+AU  - Guinney J
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Sieberts, Solveig
+AU  - Sieberts S
+FAU - Andre, Fabrice
+AU  - Andre F
+FAU - Besse, Benjamin
+AU  - Besse B
+FAU - Soria, Jean-Charles
+AU  - Soria JC
+FAU - Friend, Stephen H
+AU  - Friend SH
+LA  - eng
+GR  - U54 CA149237/CA/NCI NIH HHS/United States
+GR  - U54CA149237/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Review
+DEP - 20130618
+PL  - United States
+TA  - Clin Cancer Res
+JT  - Clinical cancer research : an official journal of the American Association for
+      Cancer Research
+JID - 9502500
+SB  - IM
+MH  - Animals
+MH  - Carcinoma, Non-Small-Cell Lung/genetics/metabolism
+MH  - *Computational Biology/methods
+MH  - Gene Expression Profiling
+MH  - *High-Throughput Nucleotide Sequencing
+MH  - Humans
+MH  - Lung Neoplasms/genetics/metabolism
+MH  - Molecular Targeted Therapy
+MH  - Neoplasms/drug therapy/*genetics/metabolism
+MH  - Quality Control
+MH  - Research Design
+MH  - Translational Medical Research
+PMC - PMC3745509
+MID - NIHMS492787
+OID - NLM: NIHMS492787
+OID - NLM: PMC3745509
+EDAT- 2013/06/20 06:00
+MHDA- 2014/04/02 06:00
+CRDT- 2013/06/20 06:00
+PHST- 2013/06/18 [aheadofprint]
+PHST- 2013/06/19 [aheadofprint]
+PHST- 2013/07/29 [aheadofprint]
+AID - 1078-0432.CCR-12-3937 [pii]
+AID - 10.1158/1078-0432.CCR-12-3937 [doi]
+PST - ppublish
+SO  - Clin Cancer Res. 2013 Aug 15;19(16):4315-25. doi: 10.1158/1078-0432.CCR-12-3937. 
+      Epub 2013 Jun 18.
+
+PMID- 23822199
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DA  - 20141018
+DCOM- 20141020
+IS  - 1557-9077 (Electronic)
+IS  - 1050-7256 (Linking)
+DP  - 2013 Jul 3
+TI  - Changes in signaling pathways induced by vandetanib in a human medullary thyroid 
+      carcinoma model, as analyzed by reverse phase protein array.
+LID - 10.1089/thy.2012.0224 [doi]
+AB  - BACKGROUND: Medullary thyroid carcinoma (MTC) is a rare tumor that is due to
+      activating mutations in the proto-oncogene RET. Vandetanib, a tyrosine-kinase
+      inhibitor, has been recently approved to treat adult patients with metastatic
+      MTC. The aim of this study was to investigate changes in signaling pathways
+      induced by vandetanib treatment in preclinical MTC models, using the
+      reverse-phase protein array method (RPPA). METHODS: The human TT cell line was
+      used to assess in vitro and in vivo activity of vandetanib. Protein extracts from
+      TT cells or TT xenografted mice, treated by increasing concentrations of
+      vandetanib for different periods of time, were probed with a set of 12 antibodies
+      representing major signaling pathways, using RPPA. Results were validated using
+      two distinct protein detection methods, western-immunoblotting and
+      immunohistochemistry. RESULTS: Vandetanib displays antiproliferative and
+      antiangiogenic activities and inhibits RET auto-phosphorylation. MAPK and AKT
+      pathways were the two major signaling pathways inhibited by vandetanib.
+      Interestingly, phosphorylated levels of NFkappaB-p65 were significantly increased
+      by vandetanib. Comparable results were obtained in both the in vitro and in vivo 
+      approaches as well as for the protein detection methods, although some
+      discrepancies were observed between RPPA and western-immunoblotting. CONCLUSIONS:
+      Results confirmed the reliability and the utility of RPPA for screening global
+      changes induced in signaling pathways by kinase inhibitors. MAPK and AKT were
+      identified as the main pathways involved in vandetanib response in MTC models.
+      Our results also suggest alternative routes for controlling the disease and
+      provide a rationale for the development of therapeutic combinations based on the 
+      comprehensive identification of molecular events induced by inhibitors.
+FAU - Broutin, Sophie
+AU  - Broutin S
+AD  - Institut Gustave-Roussy, CNRS UMR8200, Villejuif, France ; broutin@igr.fr.
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - De Koning, Leanne
+AU  - De Koning L
+FAU - Marty-Prouvost, Berengere
+AU  - Marty-Prouvost B
+FAU - Lacroix, Ludovic
+AU  - Lacroix L
+FAU - Talbot, Monique
+AU  - Talbot M
+FAU - Caillou, Bernard
+AU  - Caillou B
+FAU - Dubois, Thierry
+AU  - Dubois T
+FAU - Ryan, Anderson J
+AU  - Ryan AJ
+FAU - Dupuy, Corinne
+AU  - Dupuy C
+FAU - Schlumberger, Martin
+AU  - Schlumberger M
+FAU - Bidart, Jean-Michel
+AU  - Bidart JM
+LA  - eng
+PT  - Journal Article
+PT  - Retracted Publication
+DEP - 20130703
+PL  - United States
+TA  - Thyroid
+JT  - Thyroid : official journal of the American Thyroid Association
+JID - 9104317
+RIN - Thyroid. 2013 Sep;23(9):1183. PMID: 23980873
+EDAT- 2013/07/05 06:00
+MHDA- 2013/07/05 06:01
+CRDT- 2013/07/05 06:00
+AID - 10.1089/thy.2012.0224 [doi]
+PST - ppublish
+SO  - Thyroid. 2013 Jul 3. doi: 10.1089/thy.2012.0224. Epub 2013 Jul 3.
+
+PMID- 23640142
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130709
+DCOM- 20140513
+LR  - 20150612
+IS  - 1538-8514 (Electronic)
+IS  - 1535-7163 (Linking)
+VI  - 12
+IP  - 7
+DP  - 2013 Jul
+TI  - IGF-1R targeting increases the antitumor effects of DNA-damaging agents in SCLC
+      model: an opportunity to increase the efficacy of standard therapy.
+PG  - 1213-22
+LID - 10.1158/1535-7163.MCT-12-1067 [doi]
+AB  - Insulin-like growth factor receptor-1 (IGF-1R) inhibition could be a relevant
+      therapeutic approach in small cell lung cancer (SCLC) given the importance of an 
+      IGF-1R autocrine loop and its role in DNA damage repair processes. We assessed
+      IGF-1R and pAkt protein expression in 83 SCLC human specimens. The efficacy of
+      R1507 (a monoclonal antibody directed against IGF-1R) alone or combined with
+      cisplatin or ionizing radiation (IR) was evaluated in H69, H146, and H526 cells
+      in vitro and in vivo. Innovative genomic and functional approaches were conducted
+      to analyze the molecular behavior under the different treatment conditions. A
+      total of 53% and 37% of human specimens expressed IGF-1R and pAkt, respectively. 
+      R1507 showed single-agent activity in H146 and H526 cells but not in H69 cells.
+      R1507 exhibited synergistic effects with both cisplatin and IR in vitro. The
+      triple combination R1507-cisplatin-IR led to a dramatic delay in tumor growth
+      compared with cisplatin-IR in H526 cells. Analyzing the apparent absence of
+      antitumoral effect of R1507 alone in vivo, we observed a transient reduction of
+      IGF-1R staining intensity in vivo, concomitant to the activation of multiple cell
+      surface receptors and intracellular proteins involved in proliferation,
+      angiogenesis, and survival. Finally, we identified that the nucleotide excision
+      repair pathway was mediated after exposure to R1507-CDDP and R1507-IR in vitro
+      and in vivo. In conclusion, adding R1507 to the current standard cisplatin-IR
+      doublet reveals remarkable chemo- and radiosensitizing effects in selected SCLC
+      models and warrants to be investigated in the clinical setting.
+FAU - Ferte, Charles
+AU  - Ferte C
+AD  - INSERM U1030, Villejuif, France.
+FAU - Loriot, Yohann
+AU  - Loriot Y
+FAU - Clemenson, Celine
+AU  - Clemenson C
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Gombos, Andrea
+AU  - Gombos A
+FAU - Bibault, Jean-Emmanuel
+AU  - Bibault JE
+FAU - Fumagalli, Ingrid
+AU  - Fumagalli I
+FAU - Hamama, Saad
+AU  - Hamama S
+FAU - Auger, Nathalie
+AU  - Auger N
+FAU - Lahon, Benoit
+AU  - Lahon B
+FAU - Chargari, Cyrus
+AU  - Chargari C
+FAU - Calderaro, Julien
+AU  - Calderaro J
+FAU - Soria, Jean-Charles
+AU  - Soria JC
+FAU - Deutsch, Eric
+AU  - Deutsch E
+LA  - eng
+GR  - U54 CA149237/CA/NCI NIH HHS/United States
+GR  - U54CA149237/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130502
+PL  - United States
+TA  - Mol Cancer Ther
+JT  - Molecular cancer therapeutics
+JID - 101132535
+RN  - 0 (Antibodies, Monoclonal)
+RN  - 0 (R-1507 monoclonal antibody)
+RN  - EC 2.7.10.1 (Receptor, IGF Type 1)
+RN  - EC 2.7.11.1 (Proto-Oncogene Proteins c-akt)
+RN  - Q20Q21Q62J (Cisplatin)
+SB  - IM
+MH  - Animals
+MH  - Antibodies, Monoclonal/administration & dosage/*pharmacology
+MH  - Antineoplastic Combined Chemotherapy Protocols/*pharmacology
+MH  - Cell Proliferation/drug effects
+MH  - Cisplatin/administration & dosage/*pharmacology
+MH  - *DNA Damage
+MH  - Down-Regulation
+MH  - Female
+MH  - Humans
+MH  - Immunohistochemistry
+MH  - Lung Neoplasms/*drug therapy/genetics/metabolism
+MH  - Mice
+MH  - Mice, Nude
+MH  - Molecular Targeted Therapy
+MH  - Proto-Oncogene Proteins c-akt/metabolism
+MH  - Receptor, IGF Type 1/*antagonists & inhibitors/immunology/metabolism
+MH  - Signal Transduction
+MH  - Small Cell Lung Carcinoma/*drug therapy/genetics/metabolism
+MH  - Survival Analysis
+MH  - Xenograft Model Antitumor Assays
+PMC - PMC3707930
+MID - NIHMS476619
+OID - NLM: NIHMS476619
+OID - NLM: PMC3707930
+EDAT- 2013/05/04 06:00
+MHDA- 2014/05/14 06:00
+CRDT- 2013/05/04 06:00
+PHST- 2013/05/02 [aheadofprint]
+PHST- 2013/06/27 [aheadofprint]
+AID - 1535-7163.MCT-12-1067 [pii]
+AID - 10.1158/1535-7163.MCT-12-1067 [doi]
+PST - ppublish
+SO  - Mol Cancer Ther. 2013 Jul;12(7):1213-22. doi: 10.1158/1535-7163.MCT-12-1067. Epub
+      2013 May 2.
+
+PMID- 23592754
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130617
+DCOM- 20130830
+LR  - 20151119
+IS  - 1538-7445 (Electronic)
+IS  - 0008-5472 (Linking)
+VI  - 73
+IP  - 12
+DP  - 2013 Jun 15
+TI  - Immune infiltrates are prognostic factors in localized gastrointestinal stromal
+      tumors.
+PG  - 3499-510
+LID - 10.1158/0008-5472.CAN-13-0371 [doi]
+AB  - Cancer immunosurveillance relies on effector/memory tumor-infiltrating CD8(+) T
+      cells with a T-helper cell 1 (TH1) profile. Evidence for a natural killer (NK)
+      cell-based control of human malignancies is still largely missing. The KIT
+      tyrosine kinase inhibitor imatinib mesylate markedly prolongs the survival of
+      patients with gastrointestinal stromal tumors (GIST) by direct effects on tumor
+      cells as well as by indirect immunostimulatory effects on T and NK cells. Here,
+      we investigated the prognostic value of tumor-infiltrating lymphocytes (TIL)
+      expressing CD3, Foxp3, or NKp46 (NCR1) in a cohort of patients with localized
+      GIST. We found that CD3(+) TIL were highly activated in GIST and were especially 
+      enriched in areas of the tumor that conserve class I MHC expression despite
+      imatinib mesylate treatment. High densities of CD3(+) TIL predicted
+      progression-free survival (PFS) in multivariate analyses. Moreover, GIST were
+      infiltrated by a homogeneous subset of cytokine-secreting CD56(bright) (NCAM1) NK
+      cells that accumulated in tumor foci after imatinib mesylate treatment. The
+      density of the NK infiltrate independently predicted PFS and added prognostic
+      information to the Miettinen score, as well as to the KIT mutational status. NK
+      and T lymphocytes preferentially distributed to distinct areas of tumor sections 
+      and probably contributed independently to GIST immunosurveillance. These findings
+      encourage the prospective validation of immune biomarkers for optimal risk
+      stratification of patients with GIST.
+CI  - (c)2013 AACR.
+FAU - Rusakiewicz, Sylvie
+AU  - Rusakiewicz S
+AD  - Institut Gustave Roussy; Institut National de la Sante et de la Recherche
+      Medicale (INSERM) U1015, France.
+FAU - Semeraro, Michaela
+AU  - Semeraro M
+FAU - Sarabi, Matthieu
+AU  - Sarabi M
+FAU - Desbois, Melanie
+AU  - Desbois M
+FAU - Locher, Clara
+AU  - Locher C
+FAU - Mendez, Rosa
+AU  - Mendez R
+FAU - Vimond, Nadege
+AU  - Vimond N
+FAU - Concha, Angel
+AU  - Concha A
+FAU - Garrido, Federico
+AU  - Garrido F
+FAU - Isambert, Nicolas
+AU  - Isambert N
+FAU - Chaigneau, Loic
+AU  - Chaigneau L
+FAU - Le Brun-Ly, Valerie
+AU  - Le Brun-Ly V
+FAU - Dubreuil, Patrice
+AU  - Dubreuil P
+FAU - Cremer, Isabelle
+AU  - Cremer I
+FAU - Caignard, Anne
+AU  - Caignard A
+FAU - Poirier-Colame, Vichnou
+AU  - Poirier-Colame V
+FAU - Chaba, Kariman
+AU  - Chaba K
+FAU - Flament, Caroline
+AU  - Flament C
+FAU - Halama, Niels
+AU  - Halama N
+FAU - Jager, Dirk
+AU  - Jager D
+FAU - Eggermont, Alexander
+AU  - Eggermont A
+FAU - Bonvalot, Sylvie
+AU  - Bonvalot S
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Terrier, Philippe
+AU  - Terrier P
+FAU - Opolon, Paule
+AU  - Opolon P
+FAU - Emile, Jean-Francois
+AU  - Emile JF
+FAU - Coindre, Jean-Michel
+AU  - Coindre JM
+FAU - Kroemer, Guido
+AU  - Kroemer G
+FAU - Chaput, Nathalie
+AU  - Chaput N
+FAU - Le Cesne, Axel
+AU  - Le Cesne A
+FAU - Blay, Jean-Yves
+AU  - Blay JY
+FAU - Zitvogel, Laurence
+AU  - Zitvogel L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130416
+PL  - United States
+TA  - Cancer Res
+JT  - Cancer research
+JID - 2984705R
+RN  - 0 (Antigens, CD3)
+RN  - 0 (Antigens, CD56)
+RN  - 0 (Benzamides)
+RN  - 0 (FOXP3 protein, human)
+RN  - 0 (Forkhead Transcription Factors)
+RN  - 0 (NCAM1 protein, human)
+RN  - 0 (NCR1 protein, human)
+RN  - 0 (Natural Cytotoxicity Triggering Receptor 1)
+RN  - 0 (Piperazines)
+RN  - 0 (Protein Kinase Inhibitors)
+RN  - 0 (Pyrimidines)
+RN  - 8A1O1M485B (Imatinib Mesylate)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Antigens, CD3/immunology/metabolism
+MH  - Antigens, CD56/immunology/metabolism
+MH  - Benzamides/immunology/therapeutic use
+MH  - Cohort Studies
+MH  - Female
+MH  - Flow Cytometry
+MH  - Forkhead Transcription Factors/immunology/metabolism
+MH  - Gastrointestinal Stromal Tumors/drug therapy/*immunology/metabolism
+MH  - Humans
+MH  - Imatinib Mesylate
+MH  - Immunohistochemistry
+MH  - Kaplan-Meier Estimate
+MH  - Killer Cells, Natural/drug effects/*immunology/metabolism
+MH  - Lymphocytes, Tumor-Infiltrating/drug effects/*immunology/metabolism
+MH  - Male
+MH  - Middle Aged
+MH  - Multivariate Analysis
+MH  - Natural Cytotoxicity Triggering Receptor 1/immunology/metabolism
+MH  - Piperazines/immunology/therapeutic use
+MH  - Prognosis
+MH  - Protein Kinase Inhibitors/immunology/therapeutic use
+MH  - Pyrimidines/immunology/therapeutic use
+MH  - T-Lymphocytes/drug effects/*immunology/metabolism
+MH  - Treatment Outcome
+EDAT- 2013/04/18 06:00
+MHDA- 2013/08/31 06:00
+CRDT- 2013/04/18 06:00
+PHST- 2013/04/16 [aheadofprint]
+PHST- 2013/06/05 [aheadofprint]
+AID - 0008-5472.CAN-13-0371 [pii]
+AID - 10.1158/0008-5472.CAN-13-0371 [doi]
+PST - ppublish
+SO  - Cancer Res. 2013 Jun 15;73(12):3499-510. doi: 10.1158/0008-5472.CAN-13-0371. Epub
+      2013 Apr 16.
+
+PMID- 23630207
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130610
+DCOM- 20131210
+LR  - 20140803
+IS  - 1527-7755 (Electronic)
+IS  - 0732-183X (Linking)
+VI  - 31
+IP  - 17
+DP  - 2013 Jun 10
+TI  - Next-generation sequencing reveals high concordance of recurrent somatic
+      alterations between primary tumor and metastases from patients with
+      non-small-cell lung cancer.
+PG  - 2167-72
+LID - 10.1200/JCO.2012.47.7737 [doi]
+AB  - PURPOSE: Characterization of the genomic changes that drive an individual
+      patient's disease is critical in management of many cancers. In patients with
+      non-small-cell lung cancer (NSCLC), obtaining tumor samples of sufficient size
+      for genomic profiling on recurrence is often challenging. We undertook this study
+      to compare genomic alterations identified in archived primary tumors from
+      patients with NSCLC with those identified in metachronous or synchronous
+      metastases. PATIENTS AND METHODS: Primary and matched metastatic tumor pairs from
+      15 patients were analyzed by using a targeted next-generation sequencing assay in
+      a Clinical Laboratory Improvement Amendments laboratory. Genomic libraries were
+      captured for 3,230 exons in 182 cancer-related genes plus 37 introns from 14
+      genes often rearranged in cancer and sequenced to high coverage. RESULTS: Among
+      30 tumors, 311 genomic alterations were identified of which 63 were known
+      recurrent (32 in primary tumor, 31 in metastasis) and 248 were nonrecurrent
+      (likely passenger). TP53 mutations were the most frequently observed recurrent
+      alterations (12 patients). Tumors harbored two or more (maximum four) recurrent
+      alterations in 10 patients. Comparative analysis of recurrent alterations between
+      primary tumor and matched metastasis revealed a concordance rate of 94% compared 
+      with 63% for likely passenger alterations. CONCLUSION: This high concordance
+      suggests that for the purposes of genomic profiling, use of archived primary
+      tumor can identify the key recurrent somatic alterations present in matched NSCLC
+      metastases and may provide much of the relevant genomic information required to
+      guide treatment on recurrence.
+FAU - Vignot, Stephane
+AU  - Vignot S
+AD  - Institut National de la Sante et de la Recherche Medicale (INSERM) U981,
+      Villejuif, France.
+FAU - Frampton, Garrett M
+AU  - Frampton GM
+FAU - Soria, Jean-Charles
+AU  - Soria JC
+FAU - Yelensky, Roman
+AU  - Yelensky R
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Brambilla, Christian
+AU  - Brambilla C
+FAU - Palmer, Gary
+AU  - Palmer G
+FAU - Moro-Sibilot, Denis
+AU  - Moro-Sibilot D
+FAU - Ross, Jeffrey S
+AU  - Ross JS
+FAU - Cronin, Maureen T
+AU  - Cronin MT
+FAU - Andre, Fabrice
+AU  - Andre F
+FAU - Stephens, Philip J
+AU  - Stephens PJ
+FAU - Lazar, Vladimir
+AU  - Lazar V
+FAU - Miller, Vincent A
+AU  - Miller VA
+FAU - Brambilla, Elisabeth
+AU  - Brambilla E
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130429
+PL  - United States
+TA  - J Clin Oncol
+JT  - Journal of clinical oncology : official journal of the American Society of
+      Clinical Oncology
+JID - 8309333
+RN  - 0 (DNA, Neoplasm)
+SB  - IM
+CIN - Semin Thorac Cardiovasc Surg. 2014 Spring;26(1):67-70. PMID: 24952759
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Base Sequence
+MH  - Carcinoma, Non-Small-Cell Lung/*genetics/pathology
+MH  - DNA Copy Number Variations
+MH  - DNA, Neoplasm/*genetics
+MH  - Female
+MH  - Humans
+MH  - Lung Neoplasms/*genetics/pathology
+MH  - Male
+MH  - Middle Aged
+MH  - Mutation
+MH  - Neoplasm Metastasis
+EDAT- 2013/05/01 06:00
+MHDA- 2013/12/16 06:00
+CRDT- 2013/05/01 06:00
+PHST- 2013/04/29 [aheadofprint]
+AID - JCO.2012.47.7737 [pii]
+AID - 10.1200/JCO.2012.47.7737 [doi]
+PST - ppublish
+SO  - J Clin Oncol. 2013 Jun 10;31(17):2167-72. doi: 10.1200/JCO.2012.47.7737. Epub
+      2013 Apr 29.
+
+PMID- 23410825
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130409
+DCOM- 20131101
+LR  - 20151119
+IS  - 1872-8332 (Electronic)
+IS  - 0169-5002 (Linking)
+VI  - 80
+IP  - 2
+DP  - 2013 May
+TI  - PARP1 impact on DNA repair of platinum adducts: preclinical and clinical
+      read-outs.
+PG  - 216-22
+LID - 10.1016/j.lungcan.2013.01.014 [doi]
+LID - S0169-5002(13)00024-X [pii]
+AB  - Evaluation of DNA repair proteins might provide meaningful information in
+      relation to prognosis and chemotherapy efficacy in Non-Small Cell Lung Cancer
+      (NSCLC) patients. The role of Poly(ADP-Ribose) Polymerase (PARP) in DNA repair of
+      platinum adducts has not been firmly established. We used a DNA repair functional
+      test based on antibody recognition of cisplatin intrastrand platinum adducts on
+      DNA. We evaluated the effect of PARP inhibition on DNA repair functionality in a 
+      panel of cisplatin cell lines treated by the clinical-grade pharmacological
+      inhibitor CEP8983 (a 4-methoxy-carbazole derivate) and the commercially available
+      inhibitor PJ34 (phenanthridinone). We determined PARP1 protein expression in
+      whole tumor sections from the International Adjuvant Lung cancer Trial (IALT)-bio
+      study and tested a 3-marker PARP1/MSH2/ERCC1 algorithm combining PARP1 tumor
+      status with previously published data. Chemosensitivity of cisplatin in NSCLC
+      cell lines was correlated with the accumulation of cisplatin DNA adducts
+      (P=0.0004). Further, the pharmacological inhibition of PARP induced a 1.7 to
+      2.3-fold increase in platinum adduct accumulation (24h) in A549 cell line
+      suggesting a slow-down of platinum DNA-adduct repair capacity. In parallel, PARP1
+      inhibition increased the sensitivity to cisplatin treatment. In patient samples, 
+      PARP1 expression levels did not influence patient survival or the effect of
+      platinum-based post-operative chemotherapy in the global IALT-bio population
+      (interaction P=0.79). Among cases with high expression of all three markers
+      (triple positive), untreated patients had prolonged survival with a median DFS of
+      7.8 years, (HR=0.34, 95%CI [0.19-0.61], adjusted P=0.0003) compared to triple
+      negative patients (1.4 years). Remarkably, triple positive patients suffered from
+      a detrimental effect (4.9-year reduction of median DFS) by post-operative
+      cisplatin-based chemotherapy (HR=1.79, 95%CI [1.01-3.17], adjusted P=0.04,
+      chemotherapy vs. control). Combinatorial sub-group analysis of the 3 markers
+      further suggested that PARP1 tumor positivity might constitute a molecular
+      context with high theranostic interest of ERCC1 and MSH2 in NSCLC. In conclusion,
+      our data confirm that platinum DNA adduct accumulation is linked to
+      chemosensitivity, which increase by pharmacological PARP inhibitors points to a
+      role of PARP-dependent DNA repair in the process. We further suggest DNA repair
+      biomarkers should be analyzed in a larger context of multiple DNA repair pathway 
+      regulation.
+CI  - Copyright (c) 2013 Elsevier Ireland Ltd. All rights reserved.
+FAU - Olaussen, Ken A
+AU  - Olaussen KA
+AD  - INSERM U981, Institut Gustave Roussy, DHU TORINO, Villejuif, France.
+      ken.olaussen@igr.fr
+FAU - Adam, Julien
+AU  - Adam J
+FAU - Vanhecke, Elsa
+AU  - Vanhecke E
+FAU - Vielh, Philippe
+AU  - Vielh P
+FAU - Pirker, Robert
+AU  - Pirker R
+FAU - Friboulet, Luc
+AU  - Friboulet L
+FAU - Popper, Helmut
+AU  - Popper H
+FAU - Robin, Angelique
+AU  - Robin A
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Thomale, Jurgen
+AU  - Thomale J
+FAU - Kayitalire, Louis
+AU  - Kayitalire L
+FAU - Filipits, Martin
+AU  - Filipits M
+FAU - Le Chevalier, Thierry
+AU  - Le Chevalier T
+FAU - Andre, Fabrice
+AU  - Andre F
+FAU - Brambilla, Elisabeth
+AU  - Brambilla E
+FAU - Soria, Jean-Charles
+AU  - Soria JC
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130212
+PL  - Ireland
+TA  - Lung Cancer
+JT  - Lung cancer (Amsterdam, Netherlands)
+JID - 8800805
+RN  - 0 (CEP 8983)
+RN  - 0 (Carbazoles)
+RN  - 0 (DNA Adducts)
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (N-(oxo-5,6-dihydrophenanthridin-2-yl)-N,N-dimethylacetamide hydrochloride)
+RN  - 0 (Phenanthrenes)
+RN  - 0 (Phthalimides)
+RN  - 0 (Poly(ADP-ribose) Polymerase Inhibitors)
+RN  - 0 (cisplatin-DNA adduct)
+RN  - EC 2.4.2.30 (PARP1 protein, human)
+RN  - EC 2.4.2.30 (Poly(ADP-ribose) Polymerases)
+RN  - EC 3.1.- (ERCC1 protein, human)
+RN  - EC 3.1.- (Endonucleases)
+RN  - EC 3.6.1.3 (MSH2 protein, human)
+RN  - EC 3.6.1.3 (MutS Homolog 2 Protein)
+RN  - Q20Q21Q62J (Cisplatin)
+SB  - IM
+MH  - Carbazoles/pharmacology
+MH  - Carcinoma, Non-Small-Cell Lung/*drug therapy/genetics/pathology
+MH  - Cell Line, Tumor
+MH  - Chemotherapy, Adjuvant
+MH  - Cisplatin/adverse effects/*metabolism/therapeutic use
+MH  - DNA Adducts/*metabolism
+MH  - DNA Repair/drug effects/*genetics
+MH  - DNA-Binding Proteins/metabolism
+MH  - Disease-Free Survival
+MH  - Endonucleases/metabolism
+MH  - Gene Expression Regulation, Neoplastic/drug effects
+MH  - Humans
+MH  - Lung Neoplasms/*drug therapy/genetics/pathology
+MH  - MutS Homolog 2 Protein/metabolism
+MH  - Phenanthrenes/pharmacology
+MH  - Phthalimides/pharmacology
+MH  - Poly(ADP-ribose) Polymerase Inhibitors
+MH  - Poly(ADP-ribose) Polymerases/*genetics/metabolism
+MH  - Prognosis
+EDAT- 2013/02/16 06:00
+MHDA- 2013/11/02 06:00
+CRDT- 2013/02/16 06:00
+PHST- 2012/10/04 [received]
+PHST- 2012/12/21 [revised]
+PHST- 2013/01/19 [accepted]
+PHST- 2013/02/12 [aheadofprint]
+AID - S0169-5002(13)00024-X [pii]
+AID - 10.1016/j.lungcan.2013.01.014 [doi]
+PST - ppublish
+SO  - Lung Cancer. 2013 May;80(2):216-22. doi: 10.1016/j.lungcan.2013.01.014. Epub 2013
+      Feb 12.
+
+PMID- 23358685
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130404
+DCOM- 20130625
+IS  - 1538-7445 (Electronic)
+IS  - 0008-5472 (Linking)
+VI  - 73
+IP  - 7
+DP  - 2013 Apr 1
+TI  - Targeting the deregulated spliceosome core machinery in cancer cells triggers
+      mTOR blockade and autophagy.
+PG  - 2247-58
+LID - 10.1158/0008-5472.CAN-12-2501 [doi]
+AB  - The spliceosome is a large ribonucleoprotein complex that guides pre-mRNA
+      splicing in eukaryotic cells. Here, we determine whether the spliceosome could
+      constitute an attractive therapeutic target in cancer. Analysis of gene
+      expression arrays from lung, breast, and ovarian cancers datasets revealed that
+      several genes encoding components of the core spliceosome composed of a
+      heteroheptameric Sm complex were overexpressed in malignant disease as compared
+      with benign lesions and could also define a subset of highly aggressive breast
+      cancers. siRNA-mediated depletion of SmE (SNRPE) or SmD1 (SNRPD1) led to a marked
+      reduction of cell viability in breast, lung, and melanoma cancer cell lines,
+      whereas it had little effect on the survival of the nonmalignant MCF-10A breast
+      epithelial cells. SNRPE or SNRPD1 depletion did not lead to apoptotic cell death 
+      but autophagy, another form of cell death. Indeed, induction of autophagy was
+      revealed by cytoplasmic accumulation of autophagic vacuoles and by an increase in
+      both LC3 (MAP1LC3A) protein conversion and the amount of acidic autophagic
+      vacuoles. Knockdown of SNRPE dramatically decreased mTOR mRNA and protein levels 
+      and was accompanied by a deregulation of the mTOR pathway, which, in part,
+      explains the SNRPE-dependent induction of autophagy. These findings provide a
+      rational to develop new therapeutic agents targeting spliceosome core components 
+      in oncology.
+CI  - (c)2013 AACR.
+FAU - Quidville, Virginie
+AU  - Quidville V
+AD  - Institut National de la Sante et de la Recherche Medicale (INSERM) U981, Paris,
+      France.
+FAU - Alsafadi, Samar
+AU  - Alsafadi S
+FAU - Goubar, Aicha
+AU  - Goubar A
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Scott, Veronique
+AU  - Scott V
+FAU - Pioche-Durieu, Catherine
+AU  - Pioche-Durieu C
+FAU - Girault, Isabelle
+AU  - Girault I
+FAU - Baconnais, Sonia
+AU  - Baconnais S
+FAU - Le Cam, Eric
+AU  - Le Cam E
+FAU - Lazar, Vladimir
+AU  - Lazar V
+FAU - Delaloge, Suzette
+AU  - Delaloge S
+FAU - Saghatchian, Mahasti
+AU  - Saghatchian M
+FAU - Pautier, Patricia
+AU  - Pautier P
+FAU - Morice, Philippe
+AU  - Morice P
+FAU - Dessen, Philippe
+AU  - Dessen P
+FAU - Vagner, Stephan
+AU  - Vagner S
+FAU - Andre, Fabrice
+AU  - Andre F
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20130128
+PL  - United States
+TA  - Cancer Res
+JT  - Cancer research
+JID - 2984705R
+RN  - 0 (RNA, Messenger)
+RN  - 0 (RNA, Small Interfering)
+RN  - 0 (SNRPD1 protein, human)
+RN  - 0 (SNRPE protein, human)
+RN  - 0 (snRNP Core Proteins)
+RN  - EC 2.7.1.1 (MTOR protein, human)
+RN  - EC 2.7.1.1 (TOR Serine-Threonine Kinases)
+SB  - IM
+MH  - Apoptosis
+MH  - *Autophagy
+MH  - Blotting, Western
+MH  - Breast/drug effects/metabolism/pathology
+MH  - Breast Neoplasms/drug therapy/metabolism/*pathology
+MH  - Cell Proliferation
+MH  - Cells, Cultured
+MH  - Female
+MH  - Humans
+MH  - Lung Neoplasms/drug therapy/metabolism/*pathology
+MH  - Melanoma/drug therapy/metabolism/*pathology
+MH  - RNA, Messenger/genetics
+MH  - RNA, Small Interfering/genetics
+MH  - Real-Time Polymerase Chain Reaction
+MH  - Reverse Transcriptase Polymerase Chain Reaction
+MH  - Signal Transduction
+MH  - Spliceosomes/*genetics
+MH  - TOR Serine-Threonine Kinases/*antagonists & inhibitors/genetics/metabolism
+MH  - snRNP Core Proteins/*antagonists & inhibitors/genetics/metabolism
+EDAT- 2013/01/30 06:00
+MHDA- 2013/06/26 06:00
+CRDT- 2013/01/30 06:00
+PHST- 2013/01/28 [aheadofprint]
+PHST- 2013/03/27 [aheadofprint]
+AID - 0008-5472.CAN-12-2501 [pii]
+AID - 10.1158/0008-5472.CAN-12-2501 [doi]
+PST - ppublish
+SO  - Cancer Res. 2013 Apr 1;73(7):2247-58. doi: 10.1158/0008-5472.CAN-12-2501. Epub
+      2013 Jan 28.
+
+PMID- 23514287
+OWN - NLM
+STAT- MEDLINE
+DA  - 20130321
+DCOM- 20130402
+LR  - 20151119
+IS  - 1533-4406 (Electronic)
+IS  - 0028-4793 (Linking)
+VI  - 368
+IP  - 12
+DP  - 2013 Mar 21
+TI  - ERCC1 isoform expression and DNA repair in non-small-cell lung cancer.
+PG  - 1101-10
+LID - 10.1056/NEJMoa1214271 [doi]
+AB  - BACKGROUND: The excision repair cross-complementation group 1 (ERCC1) protein is 
+      a potential prognostic biomarker of the efficacy of cisplatin-based chemotherapy 
+      in non-small-cell lung cancer (NSCLC). Although several ongoing trials are
+      evaluating the level of expression of ERCC1, no consensus has been reached
+      regarding a method for evaluation. METHODS: We used the 8F1 antibody to measure
+      the level of expression of ERCC1 protein by means of immunohistochemical analysis
+      in a validation set of samples obtained from 494 patients in two independent
+      phase 3 trials (the National Cancer Institute of Canada Clinical Trials Group
+      JBR.10 and the Cancer and Leukemia Group B 9633 trial from the Lung Adjuvant
+      Cisplatin Evaluation Biology project). We compared the results of repeated
+      staining of the entire original set of samples obtained from 589 patients in the 
+      International Adjuvant Lung Cancer Trial Biology study, which had led to the
+      initial correlation between the absence of ERCC1 expression and platinum
+      response, with our previous results in the same tumors. We mapped the epitope
+      recognized by 16 commercially available ERCC1 antibodies and investigated the
+      capacity of the different ERCC1 isoforms to repair platinum-induced DNA damage.
+      RESULTS: We were unable to validate the predictive effect of immunostaining for
+      ERCC1 protein. The discordance in the results of staining for ERCC1 suggested a
+      change in the performance of the 8F1 antibody since 2006. We found that none of
+      the 16 antibodies could distinguish among the four ERCC1 protein isoforms,
+      whereas only one isoform produced a protein that had full capacities for
+      nucleotide excision repair and cisplatin resistance. CONCLUSIONS:
+      Immunohistochemical analysis with the use of currently available ERCC1 antibodies
+      did not specifically detect the unique functional ERCC1 isoform. As a result, its
+      usefulness in guiding therapeutic decision making is limited. (Funded by Eli
+      Lilly and others.).
+FAU - Friboulet, Luc
+AU  - Friboulet L
+AD  - INSERM Unite 981, and Departement Hospitalo-Universitaire Thorax Innovation,
+      Institut Gustave-Roussy, Villejuif, France.
+FAU - Olaussen, Ken Andre
+AU  - Olaussen KA
+FAU - Pignon, Jean-Pierre
+AU  - Pignon JP
+FAU - Shepherd, Frances A
+AU  - Shepherd FA
+FAU - Tsao, Ming-Sound
+AU  - Tsao MS
+FAU - Graziano, Stephen
+AU  - Graziano S
+FAU - Kratzke, Robert
+AU  - Kratzke R
+FAU - Douillard, Jean-Yves
+AU  - Douillard JY
+FAU - Seymour, Lesley
+AU  - Seymour L
+FAU - Pirker, Robert
+AU  - Pirker R
+FAU - Filipits, Martin
+AU  - Filipits M
+FAU - Andre, Fabrice
+AU  - Andre F
+FAU - Solary, Eric
+AU  - Solary E
+FAU - Ponsonnailles, Florence
+AU  - Ponsonnailles F
+FAU - Robin, Angelique
+AU  - Robin A
+FAU - Stoclin, Annabelle
+AU  - Stoclin A
+FAU - Dorvault, Nicolas
+AU  - Dorvault N
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Adam, Julien
+AU  - Adam J
+FAU - Vanhecke, Elsa
+AU  - Vanhecke E
+FAU - Saulnier, Patrick
+AU  - Saulnier P
+FAU - Thomale, Jurgen
+AU  - Thomale J
+FAU - Le Chevalier, Thierry
+AU  - Le Chevalier T
+FAU - Dunant, Ariane
+AU  - Dunant A
+FAU - Rousseau, Vanessa
+AU  - Rousseau V
+FAU - Le Teuff, Gwenael
+AU  - Le Teuff G
+FAU - Brambilla, Elisabeth
+AU  - Brambilla E
+FAU - Soria, Jean-Charles
+AU  - Soria JC
+LA  - eng
+GR  - R01 CA165958/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Validation Studies
+PL  - United States
+TA  - N Engl J Med
+JT  - The New England journal of medicine
+JID - 0255562
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Biomarkers, Tumor)
+RN  - 0 (DNA, Neoplasm)
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (Epitopes)
+RN  - 0 (Immunoglobulin G)
+RN  - 0 (Protein Isoforms)
+RN  - EC 3.1.- (ERCC1 protein, human)
+RN  - EC 3.1.- (Endonucleases)
+RN  - Q20Q21Q62J (Cisplatin)
+SB  - AIM
+SB  - IM
+MH  - Antineoplastic Agents/*therapeutic use
+MH  - Biomarkers, Tumor/*metabolism
+MH  - Carcinoma, Non-Small-Cell Lung/*drug therapy/genetics/mortality
+MH  - Chemotherapy, Adjuvant
+MH  - Cisplatin/*therapeutic use
+MH  - *DNA Repair
+MH  - DNA, Neoplasm
+MH  - DNA-Binding Proteins/genetics/immunology/*metabolism
+MH  - Drug Resistance, Neoplasm/genetics
+MH  - Endonucleases/genetics/immunology/*metabolism
+MH  - Epitope Mapping
+MH  - Epitopes
+MH  - Humans
+MH  - Immunoglobulin G
+MH  - Kaplan-Meier Estimate
+MH  - Lung Neoplasms/*drug therapy/genetics/mortality
+MH  - Protein Isoforms/genetics/metabolism
+PMC - PMC4054818
+MID - NIHMS583600
+OID - NLM: NIHMS583600
+OID - NLM: PMC4054818
+EDAT- 2013/03/22 06:00
+MHDA- 2013/04/03 06:00
+CRDT- 2013/03/22 06:00
+AID - 10.1056/NEJMoa1214271 [doi]
+PST - ppublish
+SO  - N Engl J Med. 2013 Mar 21;368(12):1101-10. doi: 10.1056/NEJMoa1214271.
+
+PMID- 23802087
+OWN - NLM
+STAT- Publisher
+DA  - 20130626
+IS  - 2162-4011 (Print)
+VI  - 2
+IP  - 3
+DP  - 2013 Mar 1
+TI  - Analysis of NKp30/NCR3 isoforms in untreated HIV-1-infected patients from the
+      ANRS SEROCO cohort.
+PG  - e23472
+AB  - Natural killer (NK) cells play a prominent role at the intersection between
+      innate and cognate immunity, thus influencing the development of multiple
+      pathological conditions including HIV-1-induced AIDS. Not only NK cells directly 
+      kill HIV-1-infected cells, but also control the maturation and/or elimination of 
+      dendritic cells (DCs). These functions are regulated by the delicate balance
+      between activating and inhibiting receptors expressed at the NK-cell surface.
+      Among the former, NKp30 has raised significant interest since the alternative
+      splicing of its intracellular domain leads to differential effector functions,
+      dictating the prognosis of patients bearing gastrointestinal sarcoma, and B7-H6
+      has recently been identified as its main ligand. Since NKp30 is downregulated in 
+      CD56-/CD16+ NK cells expanded in viremic, chronically infected HIV-1+ patients,
+      we decided to investigate the predictive value of NKp30 splice variants for
+      spontaneous disease progression in 89 therapy-naive HIV-1-infected individuals
+      enrolled in an historical cohort of patients followed since diagnosis (ANRS
+      SEROCO cohort). We found no difference in the representation of NK-cell subsets
+      (CD56bright, CD56dim, CD56neg) in HIV-1-infected patients as compared with
+      healthy subjects. NKp30 downregulation was detected in CD56dim and CD56neg
+      NK-cell subsets, yet this did not convey any prognostic value. None of the NKp30 
+      isoforms did affect disease progression, as measured in terms of time-to-loss of 
+      circulating CD4+ T cells, time-to-AIDS-defining events and overall survival.
+      NKp30 isoforms do not seem to play a major role in the outcome of HIV-1
+      infection, but the heterogeneity of the immuno-virological status of patients at 
+      enrollment could have to be taken into account.
+FAU - Prada, Nicole
+AU  - Prada N
+AD  - INSERM U1015; Institut Gustave Roussy; Villejuif, France ; Institut Pasteur;
+      Antiviral Immunity, Biotherapy and Vaccine Unit; Infection and Epidemiology
+      Department; Paris, France.
+FAU - Antoni, Guillemette
+AU  - Antoni G
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Rusakiewicz, Sylvie
+AU  - Rusakiewicz S
+FAU - Semeraro, Michaela
+AU  - Semeraro M
+FAU - Boufassa, Faroudy
+AU  - Boufassa F
+FAU - Lambotte, Olivier
+AU  - Lambotte O
+FAU - Meyer, Laurence
+AU  - Meyer L
+FAU - Gougeon, Marie-Lise
+AU  - Gougeon ML
+FAU - Zitvogel, Laurence
+AU  - Zitvogel L
+LA  - ENG
+PT  - JOURNAL ARTICLE
+TA  - Oncoimmunology
+JT  - Oncoimmunology
+JID - 101570526
+PMC - PMC3661172
+OTO - NOTNLM
+OT  - HIV-1
+OT  - NK
+OT  - NKp30 isoforms
+OT  - immunosurveillance
+OT  - natural course of infection
+EDAT- 2013/06/27 06:00
+MHDA- 2013/06/27 06:00
+CRDT- 2013/06/27 06:00
+PHST- 2012/12/07 [received]
+PHST- 2012/12/31 [revised]
+PHST- 2013/01/03 [accepted]
+AID - 10.4161/onci.23472 [doi]
+AID - 2012ONCOIMM0398R [pii]
+PST - ppublish
+SO  - Oncoimmunology. 2013 Mar 1;2(3):e23472.
+
+PMID- 22840369
+OWN - NLM
+STAT- MEDLINE
+DA  - 20120928
+DCOM- 20130307
+LR  - 20141120
+IS  - 1879-0852 (Electronic)
+IS  - 0959-8049 (Linking)
+VI  - 48
+IP  - 15
+DP  - 2012 Oct
+TI  - Array CGH and PIK3CA/AKT1 mutations to drive patients to specific targeted
+      agents: a clinical experience in 108 patients with metastatic breast cancer.
+PG  - 2293-9
+LID - 10.1016/j.ejca.2012.06.014 [doi]
+LID - S0959-8049(12)00517-5 [pii]
+AB  - Breast cancer includes high number of molecular entities targetable by specific
+      agents. In this study, array CGH and PIK3CA/AKT1 mutations were used to drive
+      patients into targeted therapy. A prospective molecular analysis was offered to
+      metastatic breast cancer patients for whom samples were collected prospectively
+      or retrospectively either from frozen or paraffin-embedded tissue. Analyses were 
+      performed using array CGH (Agilent platform) and PIK3CA (exon 10 and 21) and AKT1
+      mutations were explored by standard Sanger sequencing. One hundred and eight
+      patients were included. Good quality CGH was obtained in 79% cases and was better
+      for frozen samples. Genomic alterations were identified in 50% of patients
+      including 11 PIK3CA and 8 AKT1 mutations. Eighteen treatments (17 patients) were 
+      administered according to their molecular profile with evidence of activity in
+      nine. Reasons for not providing a genomic-driven treatment included absence of
+      progressive disease (38%), investigator's choice (9%), rapid PD (19%), and no
+      drug access (21%). Array CGH correctly identified Her2 status in 97% cases;
+      failures were related to low % of tumour cells. Our study showed that array CGH
+      is feasible in the context of daily practice and, in combination with PIK3CA/AKT1
+      mutations, identifies a significant number of actionable molecular alterations
+      that allow driving patients into specific targeted agents.
+CI  - Copyright (c) 2012 Elsevier Ltd. All rights reserved.
+FAU - Arnedos, M
+AU  - Arnedos M
+AD  - Department of Medical Oncology, Institut Gustave Roussy, Villejuif, France.
+FAU - Scott, V
+AU  - Scott V
+FAU - Job, B
+AU  - Job B
+FAU - De La Cruz, J
+AU  - De La Cruz J
+FAU - Commo, F
+AU  - Commo F
+FAU - Mathieu, M C
+AU  - Mathieu MC
+FAU - Wolp-Diniz, R
+AU  - Wolp-Diniz R
+FAU - Richon, C
+AU  - Richon C
+FAU - Campone, M
+AU  - Campone M
+FAU - Bachelot, T
+AU  - Bachelot T
+FAU - Dalenc, F
+AU  - Dalenc F
+FAU - Dessen, P
+AU  - Dessen P
+FAU - Lacroix, L
+AU  - Lacroix L
+FAU - Lazar, V
+AU  - Lazar V
+FAU - Soria, J C
+AU  - Soria JC
+FAU - Delaloge, S
+AU  - Delaloge S
+FAU - Andre, F
+AU  - Andre F
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120726
+PL  - England
+TA  - Eur J Cancer
+JT  - European journal of cancer (Oxford, England : 1990)
+JID - 9005373
+RN  - EC 2.7.1.- (Phosphatidylinositol 3-Kinases)
+RN  - EC 2.7.1.137 (PIK3CA protein, human)
+RN  - EC 2.7.10.1 (Receptor, ErbB-2)
+RN  - EC 2.7.11.1 (AKT1 protein, human)
+RN  - EC 2.7.11.1 (Proto-Oncogene Proteins c-akt)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Breast Neoplasms/*drug therapy/*enzymology/genetics/pathology
+MH  - Comparative Genomic Hybridization/methods
+MH  - Female
+MH  - High-Throughput Screening Assays/methods
+MH  - Humans
+MH  - Middle Aged
+MH  - Molecular Targeted Therapy
+MH  - *Mutation
+MH  - Neoplasm Metastasis
+MH  - Phosphatidylinositol 3-Kinases/*genetics/metabolism
+MH  - Prospective Studies
+MH  - Proto-Oncogene Proteins c-akt/*genetics/metabolism
+MH  - Receptor, ErbB-2/metabolism
+MH  - Retrospective Studies
+EDAT- 2012/07/31 06:00
+MHDA- 2013/03/08 06:00
+CRDT- 2012/07/31 06:00
+PHST- 2012/05/20 [received]
+PHST- 2012/06/17 [accepted]
+PHST- 2012/07/26 [aheadofprint]
+AID - S0959-8049(12)00517-5 [pii]
+AID - 10.1016/j.ejca.2012.06.014 [doi]
+PST - ppublish
+SO  - Eur J Cancer. 2012 Oct;48(15):2293-9. doi: 10.1016/j.ejca.2012.06.014. Epub 2012 
+      Jul 26.
+
+PMID- 22854025
+OWN - NLM
+STAT- MEDLINE
+DA  - 20120903
+DCOM- 20130226
+LR  - 20150312
+IS  - 2211-1247 (Electronic)
+VI  - 2
+IP  - 2
+DP  - 2012 Aug 30
+TI  - Prognostic impact of vitamin B6 metabolism in lung cancer.
+PG  - 257-69
+LID - 10.1016/j.celrep.2012.06.017 [doi]
+AB  - Patients with non-small cell lung cancer (NSCLC) are routinely treated with
+      cytotoxic agents such as cisplatin. Through a genome-wide siRNA-based screen, we 
+      identified vitamin B6 metabolism as a central regulator of cisplatin responses in
+      vitro and in vivo. By aggravating a bioenergetic catastrophe that involves the
+      depletion of intracellular glutathione, vitamin B6 exacerbates cisplatin-mediated
+      DNA damage, thus sensitizing a large panel of cancer cell lines to apoptosis.
+      Moreover, vitamin B6 sensitizes cancer cells to apoptosis induction by distinct
+      types of physical and chemical stress, including multiple chemotherapeutics. This
+      effect requires pyridoxal kinase (PDXK), the enzyme that generates the bioactive 
+      form of vitamin B6. In line with a general role of vitamin B6 in stress
+      responses, low PDXK expression levels were found to be associated with poor
+      disease outcome in two independent cohorts of patients with NSCLC. These results 
+      indicate that PDXK expression levels constitute a biomarker for risk
+      stratification among patients with NSCLC.
+CI  - Copyright (c) 2012 The Authors. Published by Elsevier Inc. All rights reserved.
+FAU - Galluzzi, Lorenzo
+AU  - Galluzzi L
+AD  - INSERM, U, Villejuif, France.
+FAU - Vitale, Ilio
+AU  - Vitale I
+FAU - Senovilla, Laura
+AU  - Senovilla L
+FAU - Olaussen, Ken Andre
+AU  - Olaussen KA
+FAU - Pinna, Guillaume
+AU  - Pinna G
+FAU - Eisenberg, Tobias
+AU  - Eisenberg T
+FAU - Goubar, Aicha
+AU  - Goubar A
+FAU - Martins, Isabelle
+AU  - Martins I
+FAU - Michels, Judith
+AU  - Michels J
+FAU - Kratassiouk, Gueorgui
+AU  - Kratassiouk G
+FAU - Carmona-Gutierrez, Didac
+AU  - Carmona-Gutierrez D
+FAU - Scoazec, Marie
+AU  - Scoazec M
+FAU - Vacchelli, Erika
+AU  - Vacchelli E
+FAU - Schlemmer, Frederic
+AU  - Schlemmer F
+FAU - Kepp, Oliver
+AU  - Kepp O
+FAU - Shen, Shensi
+AU  - Shen S
+FAU - Tailler, Maximilien
+AU  - Tailler M
+FAU - Niso-Santano, Mireia
+AU  - Niso-Santano M
+FAU - Morselli, Eugenia
+AU  - Morselli E
+FAU - Criollo, Alfredo
+AU  - Criollo A
+FAU - Adjemian, Sandy
+AU  - Adjemian S
+FAU - Jemaa, Mohamed
+AU  - Jemaa M
+FAU - Chaba, Kariman
+AU  - Chaba K
+FAU - Pailleret, Claire
+AU  - Pailleret C
+FAU - Michaud, Mickael
+AU  - Michaud M
+FAU - Pietrocola, Federico
+AU  - Pietrocola F
+FAU - Tajeddine, Nicolas
+AU  - Tajeddine N
+FAU - de La Motte Rouge, Thibault
+AU  - de La Motte Rouge T
+FAU - Araujo, Natalia
+AU  - Araujo N
+FAU - Morozova, Nadya
+AU  - Morozova N
+FAU - Robert, Thomas
+AU  - Robert T
+FAU - Ripoche, Hugues
+AU  - Ripoche H
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Besse, Benjamin
+AU  - Besse B
+FAU - Validire, Pierre
+AU  - Validire P
+FAU - Fouret, Pierre
+AU  - Fouret P
+FAU - Robin, Angelique
+AU  - Robin A
+FAU - Dorvault, Nicolas
+AU  - Dorvault N
+FAU - Girard, Philippe
+AU  - Girard P
+FAU - Gouy, Sebastien
+AU  - Gouy S
+FAU - Pautier, Patricia
+AU  - Pautier P
+FAU - Jagemann, Nora
+AU  - Jagemann N
+FAU - Nickel, Ann-Christin
+AU  - Nickel AC
+FAU - Marsili, Sabrina
+AU  - Marsili S
+FAU - Paccard, Caroline
+AU  - Paccard C
+FAU - Servant, Nicolas
+AU  - Servant N
+FAU - Hupe, Philippe
+AU  - Hupe P
+FAU - Behrens, Carmen
+AU  - Behrens C
+FAU - Behnam-Motlagh, Parviz
+AU  - Behnam-Motlagh P
+FAU - Kohno, Kimitoshi
+AU  - Kohno K
+FAU - Cremer, Isabelle
+AU  - Cremer I
+FAU - Damotte, Diane
+AU  - Damotte D
+FAU - Alifano, Marco
+AU  - Alifano M
+FAU - Midttun, Oivind
+AU  - Midttun O
+FAU - Ueland, Per Magne
+AU  - Ueland PM
+FAU - Lazar, Vladimir
+AU  - Lazar V
+FAU - Dessen, Philippe
+AU  - Dessen P
+FAU - Zischka, Hans
+AU  - Zischka H
+FAU - Chatelut, Etienne
+AU  - Chatelut E
+FAU - Castedo, Maria
+AU  - Castedo M
+FAU - Madeo, Frank
+AU  - Madeo F
+FAU - Barillot, Emmanuel
+AU  - Barillot E
+FAU - Thomale, Juergen
+AU  - Thomale J
+FAU - Wistuba, Ignacio Ivan
+AU  - Wistuba II
+FAU - Sautes-Fridman, Catherine
+AU  - Sautes-Fridman C
+FAU - Zitvogel, Laurence
+AU  - Zitvogel L
+FAU - Soria, Jean-Charles
+AU  - Soria JC
+FAU - Harel-Bellan, Annick
+AU  - Harel-Bellan A
+FAU - Kroemer, Guido
+AU  - Kroemer G
+LA  - eng
+GR  - P30 CA016672/CA/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20120726
+PL  - United States
+TA  - Cell Rep
+JT  - Cell reports
+JID - 101573691
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Neoplasm Proteins)
+RN  - 8059-24-3 (Vitamin B 6)
+RN  - EC 2.7.1.35 (Pyridoxal Kinase)
+RN  - Q20Q21Q62J (Cisplatin)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Animals
+MH  - Antineoplastic Agents/administration & dosage
+MH  - Apoptosis/drug effects/genetics
+MH  - Carcinoma, Non-Small-Cell Lung/drug
+      therapy/genetics/*metabolism/*mortality/pathology
+MH  - Cisplatin/administration & dosage
+MH  - Cohort Studies
+MH  - Disease-Free Survival
+MH  - Female
+MH  - Gene Expression Regulation, Enzymologic/drug effects/genetics
+MH  - Gene Expression Regulation, Neoplastic/drug effects/genetics
+MH  - Genome-Wide Association Study
+MH  - Humans
+MH  - Lung Neoplasms/drug therapy/genetics/*metabolism/*mortality/pathology
+MH  - Male
+MH  - Mice
+MH  - Middle Aged
+MH  - Neoplasm Proteins/biosynthesis/genetics
+MH  - Pyridoxal Kinase/biosynthesis/genetics
+MH  - Survival Rate
+MH  - Vitamin B 6/genetics/*metabolism
+EDAT- 2012/08/03 06:00
+MHDA- 2013/02/27 06:00
+CRDT- 2012/08/03 06:00
+PHST- 2012/05/27 [received]
+PHST- 2012/06/13 [revised]
+PHST- 2012/06/22 [accepted]
+PHST- 2012/07/26 [aheadofprint]
+AID - S2211-1247(12)00191-X [pii]
+AID - 10.1016/j.celrep.2012.06.017 [doi]
+PST - ppublish
+SO  - Cell Rep. 2012 Aug 30;2(2):257-69. doi: 10.1016/j.celrep.2012.06.017. Epub 2012
+      Jul 26.
+
+PMID- 21617019
+OWN - NLM
+STAT- MEDLINE
+DA  - 20120227
+DCOM- 20120612
+LR  - 20121115
+IS  - 1569-8041 (Electronic)
+IS  - 0923-7534 (Linking)
+VI  - 23
+IP  - 3
+DP  - 2012 Mar
+TI  - Phase II trial of PTK787/ZK 222584 (vatalanib) administered orally once-daily or 
+      in two divided daily doses as second-line monotherapy in relapsed or progressing 
+      patients with stage IIIB/IV non-small-cell lung cancer (NSCLC).
+PG  - 678-87
+LID - 10.1093/annonc/mdr255 [doi]
+AB  - BACKGROUND: The objective of this multicenter, prospective uncontrolled phase II 
+      trial was to determine efficacy, safety and tolerability of vatalanib, an oral
+      angiogenesis inhibitor targeting all known vascular endothelial growth factor
+      receptors, in the second-line treatment of non-small-cell lung cancer (NSCLC).
+      PATIENTS AND METHODS: Patients with stage IIIB/IV NSCLC-proven tumor progression 
+      during or after one platinum-based chemotherapy regimen received a fixed dose of 
+      1250 mg vatalanib either once-daily dosing (QD) or two divided daily dosing (TDD:
+      500 mg a.m. + 750 mg p.m.) until disease progression or unacceptable toxicity.
+      Primary end point was the disease control rate (DCR) at 12 weeks. RESULTS:
+      Fifty-four and 58 patients were enrolled to the QD and TDD arms. DCR at 12 weeks 
+      was 35% in the QD and 37% in the TDD arm. The best overall response included one 
+      (2%) patient with confirmed partial response with QD and three (5%) with TDD.
+      Median progression-free survival and overall survival were 2.1/7.3 months in the 
+      QD arm and 2.8/9.0 months with TDD arm. This therapy showed a moderate toxicity
+      profile for the majority of patients. CONCLUSIONS: In the chosen patient
+      population, vatalanib QD and TDD dosing demonstrated potential benefits in tumor 
+      size reduction, DCR, and survival.
+FAU - Gauler, T C
+AU  - Gauler TC
+AD  - Department of Medicine, West German Tumor Center, University Hospital of
+      University Duisburg-Essen, Germany. Thomas.gauler@uk-essen.de
+FAU - Besse, B
+AU  - Besse B
+FAU - Mauguen, A
+AU  - Mauguen A
+FAU - Meric, J B
+AU  - Meric JB
+FAU - Gounant, V
+AU  - Gounant V
+FAU - Fischer, B
+AU  - Fischer B
+FAU - Overbeck, T R
+AU  - Overbeck TR
+FAU - Krissel, H
+AU  - Krissel H
+FAU - Laurent, D
+AU  - Laurent D
+FAU - Tiainen, M
+AU  - Tiainen M
+FAU - Commo, F
+AU  - Commo F
+FAU - Soria, J C
+AU  - Soria JC
+FAU - Eberhardt, W E E
+AU  - Eberhardt WE
+LA  - eng
+PT  - Clinical Trial, Phase II
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110526
+PL  - England
+TA  - Ann Oncol
+JT  - Annals of oncology : official journal of the European Society for Medical
+      Oncology / ESMO
+JID - 9007735
+RN  - 0 (Angiogenesis Inhibitors)
+RN  - 0 (Antineoplastic Agents)
+RN  - 0 (Phthalazines)
+RN  - 0 (Pyridines)
+RN  - 5DX9U76296 (vatalanib)
+SB  - IM
+MH  - Angiogenesis Inhibitors/*administration & dosage/adverse effects
+MH  - Antineoplastic Agents/*administration & dosage/adverse effects
+MH  - Carcinoma, Non-Small-Cell Lung/*drug therapy/mortality/pathology
+MH  - Disease-Free Survival
+MH  - Dose-Response Relationship, Drug
+MH  - Female
+MH  - Humans
+MH  - Kaplan-Meier Estimate
+MH  - Lung Neoplasms/*drug therapy/mortality/pathology
+MH  - Male
+MH  - Neoplasm Staging
+MH  - Phthalazines/*administration & dosage/adverse effects
+MH  - Pyridines/*administration & dosage/adverse effects
+MH  - Recurrence
+MH  - Salvage Therapy/methods
+EDAT- 2011/05/28 06:00
+MHDA- 2012/06/13 06:00
+CRDT- 2011/05/28 06:00
+PHST- 2011/05/26 [aheadofprint]
+AID - mdr255 [pii]
+AID - 10.1093/annonc/mdr255 [doi]
+PST - ppublish
+SO  - Ann Oncol. 2012 Mar;23(3):678-87. doi: 10.1093/annonc/mdr255. Epub 2011 May 26.
+
+PMID- 21750204
+OWN - NLM
+STAT- MEDLINE
+DA  - 20110905
+DCOM- 20120224
+IS  - 1078-0432 (Print)
+IS  - 1078-0432 (Linking)
+VI  - 17
+IP  - 17
+DP  - 2011 Sep 1
+TI  - Molecular Characteristics of ERCC1-Negative versus ERCC1-Positive Tumors in
+      Resected NSCLC.
+PG  - 5562-72
+LID - 10.1158/1078-0432.CCR-11-0790 [doi]
+AB  - PURPOSE: Excision repair cross-complementation group 1 (ERCC1) is a protein
+      involved in repair of DNA platinum adducts and stalled DNA replication forks. We 
+      and others have previously shown the influence of ERCC1 expression upon survival 
+      rates and benefit of cisplatin-based chemotherapy in patients with resected
+      non-small-cell lung cancer (NSCLC). However, little is known about the molecular 
+      characteristics of ERCC1-positive and ERCC1-negative tumors. EXPERIMENTAL DESIGN:
+      We took advantage of a cohort of 91 patients with resected NSCLC, for which we
+      had matched frozen and paraffin-embedded samples to explore the comparative
+      molecular portraits of ERCC1-positive and ERCC1-negative tumors of NSCLC. We
+      carried out a global molecular analysis including assessment of ERCC1 expression 
+      levels by using both immunohistochemistry (IHC) and quantitative reverse
+      transcriptase PCR (qRT-PCR), genomic instability, global gene and miRNA
+      expression, and sequencing of selected key genes involved in lung carcinogenesis.
+      RESULTS: ERCC1 protein and mRNA expression were significantly correlated.
+      However, we observed several cases with clear discrepancies. We noted that
+      ERCC1-negative tumors had a higher rate of genomic abnormalities versus
+      ERCC1-positive tumors. ERCC1-positive tumors seemed to share a common DNA damage 
+      response (DDR) phenotype with the overexpression of seven genes linked to DDR.
+      The miRNA expression analysis identified miR-375 as significantly underexpressed 
+      in ERCC1-positive tumors. CONCLUSIONS: Our data show inconsistencies in ERCC1
+      expression between IHC and qRT-PCR readouts. Furthermore, ERCC1 status is not
+      linked to specific mutational patterns or frequencies. Finally, ERCC1-negative
+      tumors have a high rate of genomic aberrations that could consequently influence 
+      prognosis in patients with resected NSCLC.
+CI  - (c)2011 AACR.
+FAU - Friboulet, Luc
+AU  - Friboulet L
+AD  - INSERM, U981; Institut de cancerologie Gustave Roussy (IGR), Villejuif, France.
+FAU - Barrios-Gonzales, Daniel
+AU  - Barrios-Gonzales D
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Olaussen, Ken Andre
+AU  - Olaussen KA
+FAU - Vagner, Stephan
+AU  - Vagner S
+FAU - Adam, Julien
+AU  - Adam J
+FAU - Goubar, Aicha
+AU  - Goubar A
+FAU - Dorvault, Nicolas
+AU  - Dorvault N
+FAU - Lazar, Vladimir
+AU  - Lazar V
+FAU - Job, Bastien
+AU  - Job B
+FAU - Besse, Benjamin
+AU  - Besse B
+FAU - Validire, Pierre
+AU  - Validire P
+FAU - Girard, Philippe
+AU  - Girard P
+FAU - Lacroix, Ludovic
+AU  - Lacroix L
+FAU - Hasmats, Johanna
+AU  - Hasmats J
+FAU - Dufour, Fabienne
+AU  - Dufour F
+FAU - Andre, Fabrice
+AU  - Andre F
+FAU - Soria, Jean-Charles
+AU  - Soria JC
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110712
+PL  - United States
+TA  - Clin Cancer Res
+JT  - Clinical cancer research : an official journal of the American Association for
+      Cancer Research
+JID - 9502500
+RN  - 0 (DNA-Binding Proteins)
+RN  - 0 (MIRN375 microRNA, human)
+RN  - 0 (MicroRNAs)
+RN  - 0 (RNA, Messenger)
+RN  - EC 3.1.- (ERCC1 protein, human)
+RN  - EC 3.1.- (Endonucleases)
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Base Sequence
+MH  - Carcinoma, Non-Small-Cell Lung/drug therapy/*genetics/*metabolism/mortality
+MH  - Cohort Studies
+MH  - DNA Copy Number Variations
+MH  - DNA Damage
+MH  - DNA Repair
+MH  - DNA-Binding Proteins/*genetics/*metabolism
+MH  - Endonucleases/*genetics/*metabolism
+MH  - Female
+MH  - Humans
+MH  - Lung Neoplasms/drug therapy/*genetics/*metabolism/mortality
+MH  - Male
+MH  - MicroRNAs/genetics
+MH  - Middle Aged
+MH  - Mutation
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - RNA, Messenger/genetics/metabolism
+MH  - Sequence Analysis, DNA
+MH  - Survival Rate
+EDAT- 2011/07/14 06:00
+MHDA- 2012/03/01 06:00
+CRDT- 2011/07/14 06:00
+PHST- 2011/07/12 [aheadofprint]
+PHST- 2011/08/23 [aheadofprint]
+AID - 1078-0432.CCR-11-0790 [pii]
+AID - 10.1158/1078-0432.CCR-11-0790 [doi]
+PST - ppublish
+SO  - Clin Cancer Res. 2011 Sep 1;17(17):5562-72. doi: 10.1158/1078-0432.CCR-11-0790.
+      Epub 2011 Jul 12.
+
+PMID- 21552268
+OWN - NLM
+STAT- MEDLINE
+DA  - 20110607
+DCOM- 20110818
+IS  - 1546-170X (Electronic)
+IS  - 1078-8956 (Linking)
+VI  - 17
+IP  - 6
+DP  - 2011 Jun
+TI  - Alternatively spliced NKp30 isoforms affect the prognosis of gastrointestinal
+      stromal tumors.
+PG  - 700-7
+LID - 10.1038/nm.2366 [doi]
+AB  - The natural killer (NK) cell receptor NKp30 is involved in the recognition of
+      tumor and dendritic cells (DCs). Here we describe the influence of three NKp30
+      splice variants on the prognosis of gastrointestinal sarcoma (GIST), a malignancy
+      that expresses NKp30 ligands and that is treated with NK-stimulatory KIT tyrosine
+      kinase inhibitors. Healthy individuals and those with GIST show distinct patterns
+      of transcription of functionally different NKp30 isoforms. In a retrospective
+      analysis of 80 individuals with GIST, predominant expression of the
+      immunosuppressive NKp30c isoform (over the immunostimulatory NKp30a and NKp30b
+      isoforms) was associated with reduced survival of subjects, decreased
+      NKp30-dependent tumor necrosis factor-alpha (TNF-alpha) and CD107a release, and
+      defective interferon-gamma (IFN-gamma) and interleukin-12 (IL-12) secretion in
+      the NK-DC cross-talk that could be restored by blocking of IL-10. Preferential
+      NKp30c expression resulted partly from a single-nucleotide polymorphism at
+      position 3790 in the 3' untranslated region of the gene encoding NKp30. The
+      genetically determined NKp30 status predicts the clinical outcomes of individuals
+      with GIST independently from KIT mutation.
+FAU - Delahaye, Nicolas F
+AU  - Delahaye NF
+AD  - Institut Gustave Roussy (IGR), Villejuif, France.
+FAU - Rusakiewicz, Sylvie
+AU  - Rusakiewicz S
+FAU - Martins, Isabelle
+AU  - Martins I
+FAU - Menard, Cedric
+AU  - Menard C
+FAU - Roux, Stephan
+AU  - Roux S
+FAU - Lyonnet, Luc
+AU  - Lyonnet L
+FAU - Paul, Pascale
+AU  - Paul P
+FAU - Sarabi, Matthieu
+AU  - Sarabi M
+FAU - Chaput, Nathalie
+AU  - Chaput N
+FAU - Semeraro, Michaela
+AU  - Semeraro M
+FAU - Minard-Colin, Veronique
+AU  - Minard-Colin V
+FAU - Poirier-Colame, Vichnou
+AU  - Poirier-Colame V
+FAU - Chaba, Kariman
+AU  - Chaba K
+FAU - Flament, Caroline
+AU  - Flament C
+FAU - Baud, Veronique
+AU  - Baud V
+FAU - Authier, Helene
+AU  - Authier H
+FAU - Kerdine-Romer, Saadia
+AU  - Kerdine-Romer S
+FAU - Pallardy, Marc
+AU  - Pallardy M
+FAU - Cremer, Isabelle
+AU  - Cremer I
+FAU - Peaudecerf, Laetitia
+AU  - Peaudecerf L
+FAU - Rocha, Benedita
+AU  - Rocha B
+FAU - Valteau-Couanet, Dominique
+AU  - Valteau-Couanet D
+FAU - Gutierrez, Javier Celis
+AU  - Gutierrez JC
+FAU - Nunes, Jacques A
+AU  - Nunes JA
+FAU - Commo, Frederic
+AU  - Commo F
+FAU - Bonvalot, Sylvie
+AU  - Bonvalot S
+FAU - Ibrahim, Nicolas
+AU  - Ibrahim N
+FAU - Terrier, Philippe
+AU  - Terrier P
+FAU - Opolon, Paule
+AU  - Opolon P
+FAU - Bottino, Cristina
+AU  - Bottino C
+FAU - Moretta, Alessandro
+AU  - Moretta A
+FAU - Tavernier, Jan
+AU  - Tavernier J
+FAU - Rihet, Pascal
+AU  - Rihet P
+FAU - Coindre, Jean-Michel
+AU  - Coindre JM
+FAU - Blay, Jean-Yves
+AU  - Blay JY
+FAU - Isambert, Nicolas
+AU  - Isambert N
+FAU - Emile, Jean-Francois
+AU  - Emile JF
+FAU - Vivier, Eric
+AU  - Vivier E
+FAU - Lecesne, Axel
+AU  - Lecesne A
+FAU - Kroemer, Guido
+AU  - Kroemer G
+FAU - Zitvogel, Laurence
+AU  - Zitvogel L
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20110508
+PL  - United States
+TA  - Nat Med
+JT  - Nature medicine
+JID - 9502015
+RN  - 0 (Lysosomal-Associated Membrane Protein 1)
+RN  - 0 (NCR3 protein, human)
+RN  - 0 (Natural Cytotoxicity Triggering Receptor 3)
+RN  - 0 (Protein Isoforms)
+RN  - 0 (Tumor Necrosis Factor-alpha)
+RN  - 187348-17-0 (Interleukin-12)
+RN  - 82115-62-6 (Interferon-gamma)
+RN  - EC 2.7.10.1 (Proto-Oncogene Proteins c-kit)
+SB  - IM
+CIN - Nat Rev Cancer. 2011 Jun;11(6):390. PMID: 21606937
+MH  - Alternative Splicing/*genetics/physiology
+MH  - Cell Line, Tumor
+MH  - Gastrointestinal Stromal Tumors/diagnosis/*genetics/physiopathology
+MH  - Humans
+MH  - Interferon-gamma/physiology
+MH  - Interleukin-12/physiology
+MH  - Killer Cells, Natural/physiology
+MH  - Lysosomal-Associated Membrane Protein 1/physiology
+MH  - Natural Cytotoxicity Triggering Receptor 3/*genetics/physiology
+MH  - Polymorphism, Single Nucleotide/genetics
+MH  - Prognosis
+MH  - Protein Isoforms
+MH  - Proto-Oncogene Proteins c-kit/genetics/physiology
+MH  - Tumor Necrosis Factor-alpha/physiology
+EDAT- 2011/05/10 06:00
+MHDA- 2011/08/19 06:00
+CRDT- 2011/05/10 06:00
+PHST- 2010/10/18 [received]
+PHST- 2011/04/01 [accepted]
+PHST- 2011/05/08 [aheadofprint]
+AID - nm.2366 [pii]
+AID - 10.1038/nm.2366 [doi]
+PST - ppublish
+SO  - Nat Med. 2011 Jun;17(6):700-7. doi: 10.1038/nm.2366. Epub 2011 May 8.
+
