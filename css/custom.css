@@ -320,7 +320,7 @@ footer {
 @media (max-width: 425px) {
 	/* Styles to apply up to 991px screen width */
 	body {
-		width: 550px !important;
+		width: 600px !important;
 	}
 	ul.nav {
 	    font-family: 'Arvo', courier, serif;
@@ -345,7 +345,13 @@ footer {
 		font-size: 13px;
 	}
 	.cv-content >ul >li{
-		font-size: 15px;
+		font-size: 16px;
+	}
+	.publi-content {
+		font-size: 17px;
+	}
+	#googleScholar_Logo, #ncbi_logo {
+		opacity: 0
 	}
 	.navbar-fixed-bottom {
 	    opacity: 0;
