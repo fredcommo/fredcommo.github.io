@@ -45,10 +45,14 @@ header {
 	color: #f2f2f2;
 	background-color: transparent;
 }
+.anchors {
+	margin-top: 15px;
+	height: 20px;
+}
 
 .homepage {
-	margin-top: 25px;
-	margin-bottom: 25px;
+	margin-top: 15px;
+	margin-bottom: 0px;
 	background-color: #f2f2f2;
 }
 
@@ -72,7 +76,7 @@ ul.nav {
 	font-family: 'Arvo', courier, serif;
 	font-size: 30px;
 	text-align: center;
-	margin-top: 80px;
+	margin-top: 50px;
 }
 
 .page-head {
