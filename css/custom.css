@@ -321,7 +321,7 @@ footer {
 @media (max-width: 425px) {
 	/* Styles to apply up to 991px screen width */
 	body {
-	    width: 380px !important;
+	    width: 370px !important;
 	    padding: 0 30px;
 	    margin: 80px auto;
 	}
