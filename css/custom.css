@@ -195,16 +195,16 @@ footer {
 	margin-top: 15px;
 }
 
-.navbar-fixed-bottom {
-    text-align: right;
-    margin-right: 5%;
-    margin-bottom: 25px;
+#back-to-top * {
+	color: black;
+    position: fixed;
+    right: 15px;
+    bottom: 15px;
 }
 
 .fa-chevron-circle-up, .fa-square {
 	color: black;
 }
-
 
 /* Responsive styling */
 @media (max-width: 1395px) {
@@ -344,7 +344,7 @@ footer {
 	}
 	ul.nav {
 	    font-family: 'Arvo', courier, serif;
-	    font-size: 13px;
+	    font-size: 10px;
 	    display: inline-flex;
 	    display: -webkit-inline-box;
 	}
@@ -393,9 +393,8 @@ footer {
 	#Rlogo {
 		width: 14%;
 	}
-	.navbar-fixed-bottom {
-	    opacity: 0;
+	#back-to-top >a >i {
+		font-size: 200%;
 	}
-
 }
 

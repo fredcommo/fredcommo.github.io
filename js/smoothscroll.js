@@ -14,8 +14,8 @@ $("#navbar-top ul li a[href^='#top-page']").on('click', function(e) {
 
 });
 
-// Go to top page using right fixed button
-$(".navbar-fixed-bottom a[href^='#top-page']").on('click', function(e) {
+// Go to top page using the bottom-right fixed button
+$("#back-to-top a[href^='#top-page']").on('click', function(e) {
 
   e.preventDefault();
   smoothScroll(this.hash, -60, 500);
