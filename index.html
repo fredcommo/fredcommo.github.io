@@ -5,32 +5,34 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-
-    <!-- og image -->
-    <meta prefix="og: http://ogp.me/ns#" property="og:image" content="images/og_image.png" />
-
     <meta name="description" content="">
     <meta name="author" content="">
-    <!--  <link rel="icon" href="../../favicon.ico"> -->
+    <!-- <link rel="icon" href="../../favicon.ico"> -->
 
-    <title>Frederic Commo - CV</title>
+    <title>CV2 - test</title>
 
     <!-- Bootstrap core CSS -->
-    <!-- <link href="css/bootstrap.min.css" rel="stylesheet"> -->
+    <!--
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    -->
     <link rel="stylesheet"
           href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
           integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
           crossorigin="anonymous">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <!-- <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet"> -->
 
     <!-- Import special google fonts before the css file -->
-    <!-- Import font-awesome css before the css file -->
-    <!-- Custom styles for this template -->
-    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet" type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
-    <link href="css/custom.css" rel="stylesheet">
+
+    <!-- Import font-awesome css before the css file -->
+    <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
+
+    <!-- Custom styles for this template -->
+    <!--    <link href="jumbotron.css" rel="stylesheet"> -->
+    <!-- <link rel="stylesheet" href="css/printer.css" type="text/css" media="print"> -->
+    <link rel="stylesheet" href="css/custom.css" type="text/css">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
@@ -43,403 +45,441 @@
     <![endif]-->
   </head>
 
-  <body>
+  <body data-spy="scroll" data-target=".navbar-top" data-offset="120">
 
-    <!-- navbar navbar-fixed-top -->
-    <div class="navbar navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
 
-        <div>
+        <div class="navbar-top" id="navbar-top">
           <ul class="nav navbar-nav navbar-left">
             <li><a href="#top-page">TOP</a></li>
-            <li><a href="#my-cv">CV</a></li>
-            <li><a href="#publications">PUBLICATIONS</a></li>
             <li><a href="#contact-me">CONTACT</a></li>
+            <li><a href="#my-cv">CV</a></li>
+            <li><a href="#publications">PUBLICATIONS &amp; R</a></li>            
+            <li><a href="#play-with-it">PLAY-WITH-IT</a></li>            
           </ul>
         </div>
 
-      </div> <!-- container -->
-    </div>
-    <!-- navbar navbar-fixed-top -->
-
-    <!-- HEADER -->
-    <div  class="anchors" id="top-page"></div>
-    <div class="container homepage page-head">
-      <div class="row">
-        <div class="col-md-2 circular"></div>
-        <div class="col-md-10">
-          <p id="myName">FREDERIC COMMO, Engineer &amp; PhD</p>
-          <p id="subTitle">Data Scientist<img src="images/infinity.png" title="infinity", alt="infinity" id="infinity">Bioinformatics &amp; Oncology</p>
-        </div>
-      </div>
-    </div>
-    <!-- HEADER -->
-
-    <!-- Contact -->
-    <div  class="anchors" id="contact-me"></div>
-    <div class="container block-title">
-      <span>CONTACT</span>
-    </div>
-
-    <div class="container homepage contact">
-
-      <div class="row">
-
-        <div class="col-md-3">
-          <span class="fa-stack fa-lg">
-            <i class="fa fa-square fa-stack-2x"></i>
-            <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
-          </span>
-          <p>Paris 75015, France</p>
+        <div id="navbar" class="navbar-collapse collapse">
+          <form class="navbar-form navbar-right">
+            <!-- <button type="submit" class="btn btn-success">Sign in</button> -->
+            <!-- <INPUT TYPE="button" class="btn btn-success" onClick="window.print()" value="Print Me"> -->
+            <a href="images/CV_Frederic_Commo.pdf" download="CV_Frederic_Commo.pdf">
+              <INPUT TYPE="button" class="btn btn-success" onClick="" value="Download Me">
+            </a>
+          </form>
         </div>
 
-        <div class="col-md-3">
-            <span class="fa-stack fa-lg">
-              <i class="fa fa-square fa-stack-2x"></i>
-              <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
-            </span>
-          <p>06 84 60 33 08</p>
+      </div>
+    </nav>
+
+    <!-- TOP PAGE -->
+    <div class="container" id="top-page">
+        <div class="row">
+          <div class="col-md-2 circular"></div>
+          <div class="col-md-10">
+            <p id="myName">FREDERIC COMMO, Engineer &amp; PhD</p>
+            <p id="subTitle">Data Scientist &ndash; Bioinformatics &amp; Oncology</p>
+          </div>
+        </div>
+    </div>
+    <!-- TOP PAGE -->
+
+    <!-- CONTACT ME -->
+    <div class="container" id="contact-me">
+
+        <div class="section-name">
+          <span>CONTACT</span>
         </div>
 
-        <div class="col-md-3">
-          <span class="fa-stack fa-lg">
-            <i class="fa fa-square fa-stack-2x"></i>
-            <i class="fa fa-at fa-stack-1x fa-inverse"></i>
-          </span>
-          <p><a href="mailto:fredcommo@gmail.com?Subject=Contact" target="_top">fredcommo@gmail.com</a></p>
+        <div class="container homepage">
+          <div class="row">
+
+            <div class="col-md-3 contact">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-square fa-stack-2x"></i>
+                <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
+              </span>
+              <p>Paris 75015, France</p>
+            </div>
+
+            <div class="col-md-3 contact">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-square fa-stack-2x"></i>
+                  <i class="fa fa-phone fa-stack-1x fa-inverse"></i>
+                </span>
+              <p>06 84 60 33 08</p>
+            </div>
+<!-- 
+            <div class="col-md-3 contact">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-square fa-stack-2x"></i>
+                <i class="fa fa-at fa-stack-1x fa-inverse"></i>
+              </span>
+              <p><a href="mailto:fredcommo@gmail.com?Subject=Contact" target="_top">fredcommo@gmail.com</a></p>
+            </div>
+-->
+            <div class="col-md-3 contact">
+              <a href="mailto:fredcommo@gmail.com?Subject=Contact" target="_top">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-square fa-stack-2x"></i>
+                  <i class="fa fa-at fa-stack-1x fa-inverse"></i>
+                </span>
+                <p>fredcommo@gmail.com</p>
+              </a>
+            </div>
+
+            <div class="col-md-3 contact">
+              <a href="https://www.linkedin.com/in/fredcommo" target="_blank">
+                <span class="fa-stack fa-lg">
+                  <i class="fa fa-square fa-stack-2x"></i>
+                  <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
+                </span>
+                <p>LinkedIn</p>
+              </a>
+            </div>
+
+          </div> <!-- .row -->
+        </div> <!-- .container.homepage -->
+
+    </div>
+    <!-- CONTACT ME -->
+
+    <!-- MY CV -->
+    <div class="container" id="my-cv">
+
+        <div class="section-name">
+          <span>CURICULUM VITAE</span>
         </div>
 
-        <div class="col-md-3">
-            <span class="fa-stack fa-lg">
-              <i class="fa fa-square fa-stack-2x"></i>
-              <i class="fa fa-linkedin fa-stack-1x fa-inverse"></i>
-            </span>
-          <p><a href="https://www.linkedin.com/in/fredcommo" target="_blank">LinkedIn</a></p>
+        <div class="container homepage">
+          <div class="row" id="pseudo-navbar">
+            <div class="col-md-3 nav-cv"><a href="#work-experience">Work Experience</a></div>
+            <div class="col-md-3 nav-cv"><a href="#education">Education</a></div>
+            <div class="col-md-3 nav-cv"><a href="#conti-education">Continued Education</a></div>
+            <div class="col-md-3 nav-cv"><a href="#skills">Skills</a></div>
+          </div>
         </div>
 
-      </div> <!-- .row -->
-    </div> <!-- .container.contact -->
-    <!-- Contact -->
+        <!-- Work Experience -->
+        <div class="inter-section" id="work-experience"></div>
+        <div class="container homepage cv">
 
-    <!-- CV -->
-    <div  class="anchors" id="my-cv"></div>
-    <div class="container block-title">
-      <span>CURICULUM VITAE</span>
-    </div>
+          <div class="row">
 
-    <!-- navbar in CV-->
-      <div class="container homepage">
-        <div class="row" id="nav-cv">
-          <div class="col-md-3"><a href="#work-experience">Work Experience</a></div>
-          <div class="col-md-3"><a href="#education">Education</a></div>
-          <div class="col-md-3"><a href="#conti-education">Continued Education</a></div>
-          <div class="col-md-3"><a href="#skills">Skills</a></div>
+            <div class="cv-item"><p>Work Experience</p></div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>2014 &ndash; present</p></div>
+                <div class="col-md-10 cv-content">
+                  <p class="cv-position">Data Scientist at Gustave Roussy, Villejuif, France</p>
+                  <p><strong>Project Leader &ndash; Precision Cancer Medicine &amp; Molecular Screening Programs</strong></p>
+                  <ul>
+                    <li><span>Identifying molecular alterations matching with targeted therapies.</span></li>
+                    <p><em>Deployment of data transfer/storage and analysis solutions for molecular screening programs at Gustave Roussy.</em></p>
+                    <li><span>Developing sharable visualization tools to assist therapeutic decision-making.</span></li>
+
+                    <p>
+                      <em><a href="https://fredcommo.shinyapps.io/aCGH_viewer" target="_blank">Interactive aCGH Viewer</a>, an end-user server solution for visualising and interacting with genomic profiles.</em>
+                      <em><a href="https://fredcommo.shinyapps.io/curveFitter" target="_blank">curveFitter</a>, online application for curve fitting and drug response analysis (an extension of the <a href="#publications"><em>nplr</em></a> R package).</em>
+                    </p>
+                    
+                    <li><span>Identifying new biomarkers and exceptional responders to treatments (ongoing research)</span></li>
+                    <p> </p>
+                    <li><span><strong>PUBLICATIONS: </strong>
+                      <a href="http://annonc.oxfordjournals.org/content/26/3/582.abstract" target="_blank">Ann Oncol 2015</a> (1st author), <a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btv718?
+    ijkey=rbn2IBc0y68sx8T&keytype=ref" target="_blank">Bioinformatics 2015</a> (1st author)</span></li>
+                    <p> </p>
+                    <li><span><strong>R package as author:  </strong>
+                      <a href="http://bioconductor.org/packages/devel/bioc/html/rCGH.html" target="_blank">rCGH</a> on Bioconductor (genomic profiling and visualization)</span></li>
+                  </ul>
+                </div>
+              </div>
+
+              <hr>
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>2012 &ndash; 2014</p></div>
+                <div class="col-md-10 cv-content">
+                  <p class="cv-position">Data Scientist &ndash; Visiting Scientist at Sage Bionetworks, Seattle, WA</p>
+                  <ul>
+                    <li><span>Steering Committee &amp; Tumour Board Committee, Precision Medicine Programs SAFIR&ndash;01 &amp; SAFIR&ndash;02.</span></li>
+                    <p> </p>
+                    <li><span>Computational methods for Precision Cancer Medicine (microarrays &amp; NGS).</span></li>
+                    <p> </p>
+                    <li><span><strong>PUBLICATIONS: </strong>
+                      <a href="http://jco.ascopubs.org/content/31/17/2167.long" target="_blank">J Clin Oncol. 2013</a>, 
+                      <a href="http://clincancerres.aacrjournals.org/content/19/16/4315.long" target="_blank">Clin Cancer Res. 2013</a>, 
+                      <a href="http://mct.aacrjournals.org/content/12/7/1213.long" target="_blank">Mol Cancer Ther. 2013</a></span></li>
+                    <p> </p>
+                    <li><span><strong>R package as author:  </strong>
+                      <a href="http://cran.at.r-project.org/web/packages/nplr/index.html" target="_blank">nplr</a> on CRAN (Logistic regressions for curve fitting &amp; drug response analysis)</span></li>
+                  </ul>
+                </div>
+              </div>
+
+              <hr>
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>2007 &ndash; 2012</p></div>
+                <div class="col-md-10 cv-content">
+                  <p class="cv-position">Project leader at Gustave Roussy, Villejuif, France</p>
+                  <p><strong>Department of Translational Research &amp; Inserm U981 (Pr Fabrice André)</strong></p>
+                  <ul>
+                    <li><span>Molecular profiles analysis within Precision Medicine Program</span></li>
+                    <p><em>Project management &amp; data analysis: <a href="http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(13)70611-9/abstract" target="_blank">SAFIR01</a> program.
+                      <br>Member of the Steering Committee and the Tumour Board Committee</em></p>
+                    <p> </p>
+                    <li><span>Microarray Gene Expression analyses &amp; meta-analyses.</span></li>
+                  </ul>
+                </div>
+              </div>
+
+              <hr>
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>2004 &ndash; 2007</p></div>
+                <div class="col-md-10 cv-content">
+                  <p><strong>APHP non-active status</strong> to join Compiègne University of Technology.</p>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>1993 &ndash; 2004</p></div>
+                <div class="col-md-10 cv-content">
+                  <p><strong>Research Assistant.</strong> Dpt of Pathology, TENON Hospital, Paris.</p>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>1986 &ndash; 1993</p></div>
+                <div class="col-md-10 cv-content">
+                  <p><strong>Laboratory Technician.</strong> Dpt of Pathology, Jean VERDIER Hospital, Bondy, France.</p>
+                </div>
+              </div>
+
+            <div class="navbar-left back-to-cv"><a href="#my-cv"><i class="fa fa-lg fa-chevron-circle-up"></i></a></div>
+          </div>
         </div>
-      </div> <!-- container -->
+        <!-- Work Experience -->
 
-    <!-- Work Experience -->
-    <div class="container homepage cv">
-
-      <div class="row">
-
-        <div class="cv-item" id="work-experience"><p>Work Experience</p></div>
-
+        <!-- Education -->
+        <div class="inter-section" id="education"></div>
+        <div class="container homepage cv">
           <div class="row">
-            <div class="col-md-2 cv-year"><p>2014 &ndash; present</p></div>
-            <div class="col-md-10 cv-content">
-              <p class="cv-position">Data Scientist at Gustave Roussy, Villejuif, France</p>
-              <p><strong>Project Leader &ndash; Precision Cancer Medicine &amp; Molecular Screening Programs</strong></p>
-              <ul>
-                <li><span>Identifying molecular alterations matching with targeted therapies.</span></li>
-                <p><em>Deployment of data transfer/storage and analysis solutions for molecular screening programs at Gustave Roussy.</em></p>
-                <li><span>Developing sharable visualization tools to assist therapeutic decision-making.</span></li>
-                <p><em><a href="https://fredcommo.shinyapps.io/aCGH_viewer" target="_blank">The Interactive aCGH Viewer</a> is available on server. It allows non-bioinformaticians to interact with genomic profiles.</em></p>
-                <li><span>Identifying new biomarkers and exceptional responders to treatments (ongoing research)</span></li>
-                <p> </p>
-                <li><span><strong>PUBLICATIONS: </strong>
-                  <a href="http://annonc.oxfordjournals.org/content/26/3/582.abstract" target="_blank">Ann Oncol 2015</a> (1st author), <a href="http://bioinformatics.oxfordjournals.org/cgi/content/abstract/btv718?
-ijkey=rbn2IBc0y68sx8T&keytype=ref" target="_blank">Bioinformatics 2015</a> (1st author)</span></li>
-                <p> </p>
-                <li><span><strong>R package as author:  </strong>
-                  <a href="http://bioconductor.org/packages/devel/bioc/html/rCGH.html" target="_blank">rCGH</a> on Bioconductor (genomic profiling and visualization)</span></li>
-              </ul>
-            </div>
-          </div>
 
-          <hr>
+            <div class="cv-item"><p>Education</p></div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>2015</p></div>
+                <div class="col-md-10 cv-content">
+                  <p class="cv-position">PhD in Oncology &amp; Bioinformatics, University Paris-Saclay</p>
+                  <p><strong><em>Genomic analysis within precision medicine: optimisations &amp; visualization tools. Supervisor: Pr. Fabrice André</em></strong></p>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>2007</p></div>
+                <div class="col-md-10 cv-content">
+                  <p class="cv-position">Engineering Diploma &amp; M. Sci., Compiègne University of Technology (U.T.C.)</p>
+                  <p><strong><em>Viva voce: Molecular portrait of ependymoma recurrences (<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945762/" target="_blank">Plos One 2010</a> as co-1st author).</em></strong></p>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>1985</p></div>
+                <div class="col-md-10 cv-content">
+                  <p class="cv-position">Higher Technician Degree</p>
+                  <p><strong><em>Lab Technician School, Pitié-Salpêtrière, Paris</em></strong></p>
+                </div>
+              </div>
+
+            <div class="navbar-left back-to-cv"><a href="#my-cv"><i class="fa fa-lg fa-chevron-circle-up"></i></a></div>
+          </div>
+        </div>
+        <!-- Education -->
+
+        <!-- Continued Education -->
+        <div class="inter-section" id="conti-education"></div>
+        <div class="container homepage cv">
           <div class="row">
-            <div class="col-md-2 cv-year"><p>2012 &ndash; 2014</p></div>
-            <div class="col-md-10 cv-content">
-              <p class="cv-position">Data Scientist &ndash; Visiting Scientist at Sage Bionetworks, Seattle, WA</p>
-              <ul>
-                <li><span>Precision Medicine Steering Committee & Tumour Board Committee.</span></li>
-                <p> </p>
-                <li><span>Computational methods for Precision Cancer Medicine (microarrays & NGS).</span></li>
-                <p> </p>
-                <li><span><strong>PUBLICATIONS: </strong>
-                  <a href="http://jco.ascopubs.org/content/31/17/2167.long" target="_blank">J Clin Oncol. 2013</a>, 
-                  <a href="http://clincancerres.aacrjournals.org/content/19/16/4315.long" target="_blank">Clin Cancer Res. 2013</a>, 
-                  <a href="http://mct.aacrjournals.org/content/12/7/1213.long" target="_blank">Mol Cancer Ther. 2013</a></span></li>
-                <p> </p>
-                <li><span><strong>R package as author:  </strong>
-                  <a href="http://cran.at.r-project.org/web/packages/nplr/index.html" target="_blank">nplr</a> on CRAN (Logistic regressions for drug response analysis)</span></li>
-              </ul>
-            </div>
-          </div>
 
-          <hr>
+            <div class="cv-item"><p>Continued Education</p></div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>2013</p></div>
+                <div class="col-md-10 cv-content">
+                  <ul>
+                    <li><span>Machine Learning, Caltech, through edX (9 weeks)</span></li>
+                    <li><span>Data Analysis, John Hopkins Univ. through Coursera (8 weeks)</span></li>
+                    <li><span>Mathematical Biostatistics, John Hopkins Univ. through Coursera (7 weeks)</span></li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>2012</p></div>
+                <div class="col-md-10 cv-content">
+                  <ul>
+                    <li><span>Python programming, MIT, Cambridge, USA through edX (15 weeks)</span></li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>1995 &ndash; 1998</p></div>
+                <div class="col-md-10 cv-content">
+                  <ul>
+                    <li><span>Ecole Pratique des Hautes Etudes, University Paris-VI, Paris.</span></li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>1991 &ndash; 1992</p></div>
+                <div class="col-md-10 cv-content">
+                  <ul>
+                    <li><span>Molecular biology applied to diagnosis, University Paris-VI, Paris.</span></li>
+                  </ul>
+                </div>
+              </div>
+
+            <div class="navbar-left back-to-cv"><a href="#my-cv"><i class="fa fa-lg fa-chevron-circle-up"></i></a></div>
+          </div>
+        </div>
+        <!-- Continued Education -->
+
+        <!-- SKILLS -->
+        <div class="inter-section" id="skills"></div>
+        <div class="container homepage cv">
           <div class="row">
-            <div class="col-md-2 cv-year"><p>2007 &ndash; 2012</p></div>
-            <div class="col-md-10 cv-content">
-              <p class="cv-position">Project leader at Gustave Roussy, Villejuif, France</p>
-              <p><strong>Department of Translational Research &amp; Inserm U981 (Pr Fabrice André)</strong></p>
-              <ul>
-                <li><span>Molecular profiles analysis within Precision Medicine Program</span></li>
-                <p><em><a href="http://www.thelancet.com/journals/lanonc/article/PIIS1470-2045(13)70611-9/abstract" target="_blank">SAFIR01</a>: Project management &amp; data analysis. Member of the Steering Committee and the Tumour Board Committee</em></p>
-                <p> </p>
-                <li><span>Microarray Gene Expression analyses &amp; meta-analyses.</span></li>
-              </ul>
-            </div>
-          </div>
 
-          <hr>
+            <div class="cv-item"><p>SKILLS</p></div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>Data Analysis</p></div>
+                <div class="col-md-10 cv-content">
+                  <ul>
+                    <li><span>Big Data, Statistical Inferences, Clustering, Data Modelling, Features Extraction.</span></li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>Programming</p></div>
+                <div class="col-md-10 cv-content">
+                  <ul>
+                    <li><span>R, Python, SQL, html, CSS, javascript, Cloud Computing.</span></li>
+                  </ul>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>Languages</p></div>
+                <div class="col-md-10 cv-content">
+                  <ul>
+                    <li><span>French native, English.</span></li>
+                  </ul>
+                </div>
+              </div>
+
+            <div class="navbar-left back-to-cv"><a href="#my-cv"><i class="fa fa-lg fa-chevron-circle-up"></i></a></div>
+          </div>
+        </div>
+        <!-- SKILLS -->
+
+        <!-- TEACHING -->
+        <div class="inter-section" id="teaching"></div>
+        <div class="container homepage cv">
           <div class="row">
-            <div class="col-md-2 cv-year"><p>2004 &ndash; 2007</p></div>
-            <div class="col-md-10 cv-content">
-              <p><strong>APHP non-active status</strong> to join Compiègne University of Technology.</p>
-            </div>
-          </div>
 
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>1993 &ndash; 2004</p></div>
-            <div class="col-md-10 cv-content">
-              <p><strong>Research Assistant.</strong> Dpt of Pathology, TENON Hospital, Paris.</p>
-            </div>
-          </div>
+            <div class="cv-item"><p>TEACHING</p></div>
 
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>1986 &ndash; 1993</p></div>
-            <div class="col-md-10 cv-content">
-              <p><strong>Laboratory Technician.</strong> Dpt of Pathology, Jean VERDIER Hospital, Bondy, France.</p>
-            </div>
-          </div>
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>2012</p></div>
+                <div class="col-md-10 cv-content">
+                  <ul>
+                    <li><span>Applied Statistics at Ionis Engineering School</span></li>
+                  </ul>
+                </div>
+              </div>
 
-      </div>
+              <div class="row">
+                <div class="col-md-2 cv-year"><p>2008 &ndash; 2010</p></div>
+                <div class="col-md-10 cv-content">
+                  <ul>
+                    <li><span>Statistical methods applied to genomics at U.T.C.</span></li>
+                  </ul>
+                </div>
+              </div>
+
+            <div class="navbar-left back-to-cv"><a href="#my-cv"><i class="fa fa-lg fa-chevron-circle-up"></i></a></div>
+          </div>
+        </div>
+        <!-- TEACHING -->
+
     </div>
-      <!-- Work Experience -->
-
-      <!-- Education -->
-    <div class="container homepage cv">
-
-      <div class="row">
-
-        <div class="cv-item" id="education"><p>Education</p></div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>2015</p></div>
-            <div class="col-md-10 cv-content">
-              <p class="cv-position">PhD in Oncology &amp; Bioinformatics, University Paris-Saclay</p>
-              <p><strong><em>Genomic analysis within precision medicine: optimisations & visualization tools. Supervisor: Pr. Fabrice André</em></strong></p>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>2007</p></div>
-            <div class="col-md-10 cv-content">
-              <p class="cv-position">Engineering Diploma &amp; M. Sci., Compiègne University of Technology (U.T.C.)</p>
-              <p><strong><em>Viva voce: Molecular portrait of ependymoma recurrences (<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2945762/" target="_blank">Plos One 2010</a> as co-1st author).</em></strong></p>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>1985</p></div>
-            <div class="col-md-10 cv-content">
-              <p class="cv-position">Higher Technician Degree</p>
-              <p><strong><em>Lab Technician School, Pitié-Salpêtrière, Paris</em></strong></p>
-            </div>
-          </div>
-
-      </div>
-    </div>
-      <!-- Education -->
-
-      <!-- Continued Education -->
-    <div class="container homepage cv">
-
-      <div class="row">
-
-        <div class="cv-item" id="conti-education"><p>Continued Education</p></div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>2013</p></div>
-            <div class="col-md-10 cv-content">
-              <ul>
-                <li><span>Machine Learning, Caltech, through edX (9 weeks)</span></li>
-                <li><span>Data Analysis, John Hopkins Univ. through Coursera (8 weeks)</span></li>
-                <li><span>Mathematical Biostatistics, John Hopkins Univ. through Coursera (7 weeks)</span></li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>2012</p></div>
-            <div class="col-md-10 cv-content">
-              <ul>
-                <li><span>Python programming, MIT, Cambridge, USA through edX (15 weeks)</span></li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>1995 &ndash; 1998</p></div>
-            <div class="col-md-10 cv-content">
-              <ul>
-                <li><span>Ecole Pratique des Hautes Etudes, University Paris-VI, Paris.</span></li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>1991 &ndash; 1992</p></div>
-            <div class="col-md-10 cv-content">
-              <ul>
-                <li><span>Molecular biology applied to diagnosis, University Paris-VI, Paris.</span></li>
-              </ul>
-            </div>
-          </div>
-
-      </div>
-    </div>
-      <!-- Continued Education -->
-
-      <!-- SKILLS -->
-    <div class="container homepage cv">
-
-      <div class="row">
-
-        <div class="cv-item" id="skills"><p>SKILLS</p></div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>Data Analysis</p></div>
-            <div class="col-md-10 cv-content">
-              <ul>
-                <li><span>Big Data, Statistical Inferences, Clustering, Data Modelling, Features Extraction.</span></li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>Programming</p></div>
-            <div class="col-md-10 cv-content">
-              <ul>
-                <li><span>R, Python, SQL, html, CSS, javascript, Cloud Computing.</span></li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>Languages</p></div>
-            <div class="col-md-10 cv-content">
-              <ul>
-                <li><span>French native, English.</span></li>
-              </ul>
-            </div>
-          </div>
-
-      </div>
-    </div>
-      <!-- SKILLS -->
-
-      <!-- TEACHING -->
-    <div class="container homepage cv">
-
-      <div class="row">
-
-        <div class="cv-item" id="teaching"><p>TEACHING</p></div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>2012</p></div>
-            <div class="col-md-10 cv-content">
-              <ul>
-                <li><span>Applied Statistics at Ionis Engineering School</span></li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="row">
-            <div class="col-md-2 cv-year"><p>2008 &ndash; 2010</p></div>
-            <div class="col-md-10 cv-content">
-              <ul>
-                <li><span>Statistical methods applied to genomics at U.T.C.</span></li>
-              </ul>
-            </div>
-          </div>
-
-      </div>
-    </div>
-      <!-- TEACHING -->
-    <!-- CV -->
+    <!-- MY CV -->
 
     <!-- PUBLICATIONS -->
-    <div  class="anchors" id="publications"></div>
-    <div class="container block-title">
-      <span>PUBLICATIONS</span>
-    </div>
+    <div class="container" id="publications">
 
-    <div class="container publi-content">
-    <hr style="border: none;">
-      <span><a href="https://scholar.google.fr/citations?user=e9VLkPEAAAAJ&hl=fr&oi=ao" target="_blank">Visit my Google Scholar Citations <img src="images/GoogleScholar.png" title="googleScholar" alt="googleScholar" id="googleScholar_Logo"></a></span>
-      <br>
-      <!-- <img src="images/infinity.png"> -->
-      <br>
-      <span><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/14cVqJfrlqa5m/bibliography/41479031/public/?sort=date&direction=descending" target="_blank">Visit my shared bibliography on NCBI <img src="images/ncbi.png" title="ncbi" alt="ncbi" id="ncbi_logo"></a></span>
-    <hr style="border: none;">
-    </div>
+      <div class="section-name">
+        <span>Publications</span>
+      </div>
 
-    <!-- To create a list of publications 
-    <div class="container publi">
-      <hr>
-      <ol>
-        <li><span>
-          <span class="publi-authors">Semeraro M, Rusakiewicz S, Minard-Colin V, Delahaye NF, Enot D, et al.</span>
-          <span class="publi-title">Clinical impact of the NKp30/B7-H6 axis in high-risk neuroblastoma patients.</span>
-          <span class="publi-journal">Sci Transl Med.</span>
-          <span class="publi-year">2015</span>
-          <span class="publi-num">Apr 15;7(283):283ra55.</span>
-          <p class="publi-pubmed">PubMed PMID: 25877893.</p>
-        </span></li>
-      </ol>
+      <div class="container publi-content">
+        <hr style="border: none;">
+        <span><a href="https://scholar.google.fr/citations?user=e9VLkPEAAAAJ&hl=fr&oi=ao" target="_blank">Visit my Google Scholar Citations <img src="images/GoogleScholar.png" title="googleScholar" alt="googleScholar" id="googleScholar_Logo"></a></span>
+        <br>
+        <br>
+        <span><a href="http://www.ncbi.nlm.nih.gov/sites/myncbi/14cVqJfrlqa5m/bibliography/41479031/public/?sort=date&direction=descending" target="_blank">Visit my shared bibliography on NCBI <img src="images/ncbi.png" title="ncbi" alt="ncbi" id="ncbi_logo"></a></span>
+        <hr style="border: none;">
+      </div>
+
+      <div class="section-name">
+        <span><img src="images/Rlogo.png" title="R package" alt="R package logo" id="Rlogo">PACKAGES</span>
+      </div>
+
+      <div class="container publi-content">
+        <hr style="border: none;">
+          <span><a href="http://cran.at.r-project.org/web/packages/nplr/index.html" target="_blank">nplr on CRAN </a>(Logistic regressions for drug response analysis)</span>
+          <br>
+          <br>
+          <span><a href="http://bioconductor.org/packages/devel/bioc/html/rCGH.html" target="_blank">rCGH on Bioconductor </a>(genomic profiling and visualization)</span>
+        <hr style="border: none;">
+      </div>
+
     </div>
-    -->
     <!-- PUBLICATIONS -->
 
-    <!-- R Packages -->
-    <div class="container block-title" id="Rpackages">
-      <span><img src="images/Rlogo.png" title="R package" alt="R package logo" id="Rlogo">PACKAGES</span>
-    </div>
+    <!-- Play With It -->
+    <div class="container" id="play-with-it">
 
-    <div class="container publi-content">
-    <hr style="border: none;">
-      <span><a href="http://cran.at.r-project.org/web/packages/nplr/index.html" target="_blank">nplr on CRAN </a>(Logistic regressions for drug response analysis)</span>
-      <br>
-      <!-- <img src="images/infinity.png"> -->
-      <br>
-      <span><a href="http://bioconductor.org/packages/devel/bioc/html/rCGH.html" target="_blank">rCGH on Bioconductor </a>(genomic profiling and visualization)</span>
-    <hr style="border: none;">
-    </div>
-    <!-- R Packages -->
+      <div class="section-name">
+        <span>Play-With-It</span>
+      </div>
 
-    <!-- FOOTER -->
+      <div class="container publi-content">
+        <hr style="border: none;">
+        <div class="col-md-6">
+          <p class="play-with-it"><a href="https://fredcommo.shinyapps.io/curveFitter" target="_blank">Cell Viability Analysis</a></p>
+          <p><img src="images/cellSurv.png" title="curve fitter" alt="curve fitter"></p>
+        </div>
+        <div class="col-md-6">
+          <p class="play-with-it"><a href="https://fredcommo.shinyapps.io/cellExplorer" target="_blank">Gene Expression</a></p>
+          <p><img src="images/geneExpr.png" title="gene expression" alt="gene expression"></p>
+        </div>
+        <hr style="border: none;">
+      </div>
+
+    </div>
+    <!-- Play With It -->
+
+
     <div class="container">
       <footer>
-        <div class="row">
-          <div class="col-md-3" id="copyright">&copy; Frederic Commo, 2016</div>
-          <div class="col-md-6" id="mylogo"><img src="images/mylogo.png" title="mylogo" alt="mylogo"></div>
-        </div>
+        <p>&copy; Frederic Commo, <em>2016</em></p>
         <div class="navbar-fixed-bottom"><a href="#top-page"><i class="fa fa-3x fa-chevron-circle-up"></i></a></div>
       </footer>
-    </div>
-    <!-- FOOTER -->
+    </div> <!-- /container -->
 
 
     <!-- Bootstrap core JavaScript
@@ -448,6 +488,7 @@ ijkey=rbn2IBc0y68sx8T&keytype=ref" target="_blank">Bioinformatics 2015</a> (1st 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/smoothscroll.js"></script>
 
     <!-- Doesn't work
     <script href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"></script>
