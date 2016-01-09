@@ -1,0 +1,397 @@
+
+/* Move down content because we have a fixed navbar that is 50px tall */
+
+.section-name {
+	text-align: center;
+	font-family: 'Arvo', courier, serif;
+	font-size: 35px;
+	text-transform: uppercase;
+	margin-top: 70px;
+	margin-bottom: 0px;
+}
+
+.circular {
+	width: 190px;
+    height: 190px;
+    border-radius: 190px;
+    -webkit-border-radius: 190px;
+    -moz-border-radius: 150px;
+    background-image: url("../images/fred_photo.png");
+    background-size: cover;
+    margin: 9px auto;
+}
+
+.btn-success {
+    font-size: 16px;
+    color: #fff;
+    background-color: #669EC7;
+    border-color: #232B52;
+    font-weight: 500;
+}
+
+.btn-success:hover, .btn-success.active, 
+.btn-success:active {
+    color: #fff;
+    background-color: #669EC7;
+    opacity: 0.8;
+    border-color: #242956;
+}
+
+.open>.dropdown-toggle.btn-success,
+.btn-success.focus, .btn-success:focus {
+    color: #fff;
+    background-color: #669EC7;
+    border-color: #7DEC7D;
+    border-width: 3px;
+}
+
+.homepage {
+	margin-top: 15px;
+	margin-bottom: 0px;
+	background-color: #f2f2f2;
+}
+
+.contact {
+	font-size: 25px;
+	text-align: center;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    padding: 15px;
+}
+
+ul.nav {
+	font-family: 'Arvo', courier, serif;
+	font-size: 18px;
+}
+
+.nav-cv {
+	font-size: 25px;
+	text-align: center;
+	color: #636367;
+}
+
+.nav-cv >a:hover, .cv-content a:hover, 
+.contact >a:hover, .publi-content >span >a:hover,
+.play-with-it a:hover{
+	text-decoration: none;
+	opacity: 0.6;
+}
+/* not required with smooth scroll
+.inter-section {
+	height: 20px;
+}
+*/
+.cv {
+	font-size: 25px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+
+.cv-item {
+	margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-weight: bolder;
+	font-size: 30px;
+	font-family: 'Arvo', courier, serif;
+	text-transform: uppercase;
+}
+
+.cv-year {
+    text-align: right;
+    margin-top: -3px;
+    font-size: 23px;
+    font-weight: bolder;
+}
+
+.cv-position {
+	font-weight: bolder;
+	font-size: 22px;
+	font-family: 'Arvo', courier, serif;
+	text-transform: uppercase;
+}
+
+.cv-content {
+	font-size: 18px;
+}
+
+.cv-content a {
+	font-weight: bold;
+	font-style: italic;
+	color: #F75151;
+	font-family: 'Arvo', courier, serif;
+}
+
+.back-to-cv {
+    width: 20%;
+    margin-bottom: 8px;
+    text-align: right;
+    text-align: -webkit-right;
+}
+
+.publi-content {
+	margin-top: 25px;
+	text-align: center;
+	font-size: 24px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+}
+
+.col-md-6 {
+	margin-bottom: 20px;
+}
+
+#top-page {
+	background-color: transparent;
+	margin-top: 80px;
+	border: 5px solid;
+	border-color: #f2f2f2;
+	padding: -5px -5px;
+}
+
+#myName {
+	text-align: right;
+	margin-top: 50px;
+	font-size: 50px;
+	font-weight: bold;
+	font-family: 'Arvo', courier, serif;
+}
+
+#subTitle {
+	text-align: right;
+	font-size: 30px;
+	font-family: 'Arvo', courier, serif;
+	text-transform: uppercase;
+	margin-top: 25px;
+}
+
+#infinity{
+	width: 8%;
+	margin-left: 7px;
+	margin-right: 7px;
+}
+
+#googleScholar_Logo {
+	width: 14%;
+	margin-left: 15px;
+}
+
+#ncbi_logo {
+	width: 12%;
+	margin-left: 15px;
+}
+
+#Rlogo {
+	width: 8%;
+	margin-right: 15px;
+}
+
+footer {
+	font-size: 17px;
+	margin-top: 15px;
+}
+
+.navbar-fixed-bottom {
+    text-align: right;
+    margin-right: 5%;
+    margin-bottom: 25px;
+}
+
+.fa-chevron-circle-up, .fa-square {
+	color: black;
+}
+
+
+/* Responsive styling */
+@media (max-width: 1395px) {
+	/* Styles to apply up to 1199px screen width */
+/*
+	.col-md-10 {
+		padding-right: 100px;
+    }
+*/
+    #myName {
+	    font-size: 44px;
+	}
+	#subTitle {
+		font-size: 26px;
+	}
+	.navbar-fixed-bottom {
+	    margin-right: 1%;
+	}
+	.cv-position{
+		font-size: 19px;
+	}
+	.cv-content {
+	    font-size: 16px;
+	    padding-right: 110px;
+	}
+}
+@media (max-width: 1199px) {
+	/* Styles to apply up to 1199px screen width */
+	.circular {
+    width: 160px;
+    height: 160px;
+    }
+    #myName {
+	    font-size: 40px;
+	}
+	#subTitle {
+		font-size: 24px;
+	}
+	.contact {
+    font-size: 20px;
+	}
+	.cv-item {
+		font-size: 28px;
+	}
+	.cv-position{
+		font-size: 17px;
+	}
+	.cv-year {
+	    font-size: 16px;
+	}
+	.cv-content {
+	    font-size: 16px;
+	    padding-right: 70px;
+	}
+}
+
+@media (max-width: 991px) {
+	/* Styles to apply up to 991px screen width */
+	#myName {
+	    font-size: 36px;
+	    text-align: center;
+	}
+	#subTitle {
+	    font-size: 22px;
+	    text-align: center;
+	}
+	.cv-item {
+		text-align: center;
+		font-size: 26px;
+	}
+	.cv-year {
+	    font-size: 20px;
+	    text-align: center;
+	}
+	.cv-content {
+	    font-size: 0.6em;
+	}
+	.cv-position{
+		font-size: 15px;
+	}
+	.navbar-fixed-bottom {
+	    margin-right: 3%;
+	}
+	.publi-content {
+		font-size: 20px;
+	}
+}
+
+@media (max-width: 767px) {
+	/* Styles to apply up to 991px screen width */
+	ul.nav {
+	    font-family: 'Arvo', courier, serif;
+	    font-size: 15px;
+	    display: inline-flex;
+	    display: -webkit-inline-box;
+	}
+	.circular {
+	    width: 140px;
+	    height: 140px;
+	}
+	.section-name {
+		font-size: 24px;
+	}
+	.contact {
+		font-size: 22px;
+	}
+
+	.nav-cv {
+		font-size: 22px;
+	}
+
+	#myName {
+	    font-size: 24px;
+	    text-align: center;
+	}
+	#subTitle {
+	    font-size: 15px;
+	    text-align: center;
+	}
+	.cv {
+	    text-align: center;
+	}
+	.publi-content {
+		font-size: 18px;
+	}
+	.navbar-fixed-bottom {
+	    opacity: 0;
+	}
+
+}
+@media (max-width: 425px) {
+	/* Styles to apply up to 991px screen width */
+	body {
+	    width: 370px !important;
+	    padding: 0 30px;
+	    margin: 80px auto;
+	}
+	ul.nav {
+	    font-family: 'Arvo', courier, serif;
+	    font-size: 13px;
+	    display: inline-flex;
+	    display: -webkit-inline-box;
+	}
+	ul {
+	    list-style-type: none;
+	    padding: 0 10px;
+	}
+	.section-name {
+		font-size: 22px;
+	}
+	.col_md-2 {
+		text-align: center;
+	}
+	.col_md-10 {
+		text-align: center;
+	}
+	.contact {
+		font-size: 21px;
+	}
+	.nav-cv {
+		font-size: 20px;
+	}
+	.cv-item {
+		font-size: 22px;
+		margin: 0 1px;
+	}
+	.cv-position {
+		font-size: 14px;
+	}
+	.cv-content {
+	    font-size: 16px;
+	    text-align: center;
+	    padding: 0 11px;
+	    margin: 0 13px;
+	}
+	.publi-content {
+		font-size: 16px;
+	}
+	li span{
+		position: relative;
+		left: -10px;
+	}
+	#googleScholar_Logo, #ncbi_logo {
+		opacity: 0
+	}
+	#Rlogo {
+		width: 14%;
+	}
+	.navbar-fixed-bottom {
+	    opacity: 0;
+	}
+
+}
+
