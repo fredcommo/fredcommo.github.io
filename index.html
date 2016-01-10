@@ -25,6 +25,7 @@
 
     <!-- Import special google fonts before the css file -->
     <link href='https://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet' type='text/css'>
 
     <!-- Import font-awesome css before the css file -->
     <link rel="stylesheet" href="fonts/font-awesome/css/font-awesome.min.css">
@@ -459,16 +460,54 @@
 
       <div class="container publi-content">
         <hr style="border: none;">
+
+        <div class="col-md-6">
+          <p class="play-with-it"><a href="https://fredcommo.shinyapps.io/curveFitter" target="_blank">Go to Cell Viability Analysis</a></p>
+          <p><img src="images/curveFitter.png" title="curve fitter" alt="curve fitter" id="curveFitter"></p>
+
+          <!-- Modal -->
+          <p><a class="btn click-to-enlarge" href="#" role="button" data-toggle="modal" data-target="#cellCurveModal">&rsaquo; Click to enlarge &lsaquo;</a></p>
+          <div class="modal fade" id="cellCurveModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <button type="button" class="close btn btn-danger" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">x</span></button>
+                <img src="images/curveFitter_lg.png" title="curve fitter" alt="curve fitter">
+              </div>
+            </div>
+          </div>
+          <!-- Modal -->
+        </div>
+
+        <div class="col-md-6">
+          <p class="play-with-it"><a href="https://fredcommo.shinyapps.io/cellExplorer" target="_blank">Go to Gene Expression</a></p>
+          <p><img src="images/geneExpr.png" title="gene expression" alt="gene expression" id="geneExpression"></p>
+
+          <!-- Modal -->
+          <p><a class="btn click-to-enlarge" href="#" role="button" data-toggle="modal" data-target="#geneExprModal">&rsaquo; Click to enlarge &lsaquo;</a></p>
+          <div class="modal fade" id="geneExprModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+            <div class="modal-dialog" role="document">
+              <div class="modal-content">
+                <button type="button" class="close btn btn-danger" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">x</span></button>
+                <img src="images/geneExpr_lg.png" title="gene expression" alt="gene expression">
+              </div>
+            </div>
+          </div>
+          <!-- Modal -->
+        </div>
+<!--
         <div class="col-md-6">
           <p class="play-with-it"><a href="https://fredcommo.shinyapps.io/curveFitter" target="_blank">Cell Viability Analysis</a></p>
           <p><img src="images/cellSurv.png" title="curve fitter" alt="curve fitter" id="curveFitter"></p>
         </div>
+-->
+<!--
         <div class="col-md-6">
           <p class="play-with-it"><a href="https://fredcommo.shinyapps.io/cellExplorer" target="_blank">Gene Expression</a></p>
           <p><img src="images/geneExpr.png" title="gene expression" alt="gene expression" id="geneExpression"></p>
         </div>
+-->
         <hr style="border: none;">
-      </div>
+      </div> <!-- publi-cnontent -->
 
     </div>
     <!-- Play With It -->
@@ -476,7 +515,13 @@
 
     <div class="container">
       <footer>
-        <p>&copy; Frederic Commo, <em>2016</em></p>
+        <p>
+
+          <span id="designed-by-me">Designed by</span>
+          <span> Frederic Commo &copy;<em>2016.</em></span>
+
+          <!-- <span>&copy; Frederic Commo, <em>2016.</em></span> -->
+        </p>
         <div id="back-to-top">
           <a href="#top-page"><i class="fa fa-3x fa-chevron-circle-up"></i></a>
         </div>

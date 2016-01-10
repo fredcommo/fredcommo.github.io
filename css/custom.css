@@ -76,11 +76,37 @@ ul.nav {
 	text-decoration: none;
 	opacity: 0.6;
 }
-/* not required with smooth scroll
-.inter-section {
-	height: 20px;
+
+/* Modal rules */
+.modal-content {
+	width: 650px;
 }
-*/
+
+.modal-content img{
+	width: 105%;
+	height: auto;
+}
+.click-to-enlarge {
+	font-size: 18px;
+}
+.click-to-enlarge:hover {
+	opacity: 0.6;
+}
+.modal-content button.close {
+	font-weight: 400;
+    position: absolute;
+    background-color: #A7A7A7;
+    right: -26px;
+    opacity: 1;
+    font-size: 18px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    color: white;
+}
+/* Modal rules */
+
 .cv {
 	font-size: 25px;
     border-top: 1px solid;
@@ -187,7 +213,8 @@ ul.nav {
 }
 
 #curveFitter, #geneExpression {
-	width: 83%;
+	width: auto;
+	height: 235px;
 }
 
 footer {
@@ -200,6 +227,10 @@ footer {
     position: fixed;
     right: 15px;
     bottom: 15px;
+}
+
+#designed-by-me {
+	font-family: 'Calligraffitti', courier, serif;
 }
 
 .fa-chevron-circle-up, .fa-square {
@@ -392,6 +423,10 @@ footer {
 	}
 	#Rlogo {
 		width: 14%;
+	}
+	#curveFitter, #geneExpression {
+		width: auto;
+		height: 120px;
 	}
 	#back-to-top >a >i {
 		font-size: 200%;
