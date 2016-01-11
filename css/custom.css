@@ -4,7 +4,7 @@
 .section-name {
 	text-align: center;
 	font-family: 'Arvo', courier, serif;
-	font-size: 35px;
+	font-size: 30px;
 	text-transform: uppercase;
 	margin-top: 70px;
 	margin-bottom: 0px;
@@ -22,7 +22,7 @@
 }
 
 .btn-success {
-    font-size: 16px;
+    font-size: 18px;
     color: #fff;
     background-color: #669EC7;
     border-color: #232B52;
@@ -61,7 +61,8 @@
 
 ul.nav {
 	font-family: 'Arvo', courier, serif;
-	font-size: 18px;
+	font-size: 20px;
+	margin-top: 5px;
 }
 
 .nav-cv {
@@ -78,12 +79,20 @@ ul.nav {
 }
 
 /* Modal rules */
+.modal-dialog {
+	position: absolute;
+    left: 50%;
+    margin-left: -399px;
+    top: 50%;
+    margin-top: -216px;
+}
+
 .modal-content {
-	width: 650px;
+	width: 800px;
 }
 
 .modal-content img{
-	width: 105%;
+	width: 100%;
 	height: auto;
 }
 .click-to-enlarge {
@@ -96,7 +105,8 @@ ul.nav {
 	font-weight: 400;
     position: absolute;
     background-color: #A7A7A7;
-    right: -26px;
+    right: -15px;
+    top: -15px;
     opacity: 1;
     font-size: 18px;
     width: 30px;
@@ -364,8 +374,37 @@ footer {
 	.navbar-fixed-bottom {
 	    opacity: 0;
 	}
+	.modal-dialog {
+	    margin-left: -300px;
+	    margin-top: -154px;
+	}
+	.modal-content {
+	    width: 95%;
+	}
 
 }
+@media (max-width: 599px) {
+	.modal-dialog {
+	    margin-left: -185px;
+	    margin-top: -96px;
+	}
+	.modal-content {
+	    width: 92%;
+	}
+}
+@media (max-width: 539px) {
+	ul.nav {
+	    font-family: 'Arvo', courier, serif;
+	    font-size: 11px;
+	    display: inline-flex;
+	    display: -webkit-inline-box;
+	}
+	#curveFitter, #geneExpression {
+		width: auto;
+		height: 100px;
+	}
+}
+
 @media (max-width: 425px) {
 	/* Styles to apply up to 991px screen width */
 	body {
@@ -417,6 +456,13 @@ footer {
 	li span{
 		position: relative;
 		left: -10px;
+	}
+	.modal-dialog {
+	    margin-left: -185px;
+	    margin-top: -96px;
+	}
+	.modal-content {
+	    width: 90%;
 	}
 	#googleScholar_Logo, #ncbi_logo {
 		opacity: 0
