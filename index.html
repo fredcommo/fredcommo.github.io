@@ -11,6 +11,13 @@
 
     <title>Fred Commo - CV</title>
 
+    <!-- Open Graph metadata -->
+    <meta property="og:title" content="Fred Commo - CV">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://fredcommo.github.io/">
+    <meta property="og:image" content=" ">
+    <meta property="og:description" content="Get access to my CV and some of my achievements.">
+
     <!-- Bootstrap core CSS -->
     <!--
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -20,8 +27,6 @@
           integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7"
           crossorigin="anonymous">
 
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <!-- <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet"> -->
 
     <!-- Import special google fonts before the css file -->
     <link href='https://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
@@ -35,15 +40,7 @@
     <!-- <link rel="stylesheet" href="css/printer.css" type="text/css" media="print"> -->
     <link rel="stylesheet" href="css/custom.css" type="text/css">
 
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
-    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <!-- <script src="../../assets/js/ie-emulation-modes-warning.js"></script> -->
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!--[if lt IE 9]>
-      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
-      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
   </head>
 
   <body data-spy="scroll" data-target=".navbar-top" data-offset="120">
@@ -63,8 +60,6 @@
 
         <div id="navbar" class="navbar-collapse collapse">
           <form class="navbar-form navbar-right">
-            <!-- <button type="submit" class="btn btn-success">Sign in</button> -->
-            <!-- <INPUT TYPE="button" class="btn btn-success" onClick="window.print()" value="Print Me"> -->
             <a href="images/CV_Frederic_Commo.pdf" download="CV_Frederic_Commo.pdf">
               <INPUT TYPE="button" class="btn btn-success" onClick="" value="Download Me">
             </a>
@@ -74,17 +69,38 @@
       </div>
     </nav>
 
-    <!-- TOP PAGE -->
+<!--
     <div class="container" id="top-page">
         <div class="row">
-          <div class="col-md-2 circular"></div>
+
+          <div class="col-md-2 circular">
+            <img src="images/fred_photo.png" title="FredCommo", alt="FredCommo">
+          </div>
           <div class="col-md-10">
             <p id="myName">FREDERIC COMMO, Engineer &amp; PhD</p>
             <p id="subTitle">Data Scientist &ndash; Bioinformatics &amp; Oncology</p>
           </div>
+
         </div>
     </div>
-    <!-- TOP PAGE -->
+ -->
+ 
+    <div class="container" id="top-page">
+        <div class="row">
+          <div class="col-md-12">
+
+            <div class="circular">
+              <img src="images/fred_photo.png" title="FredCommo", alt="FredCommo">
+            </div>
+
+            <div>
+              <p id="myName">FREDERIC COMMO, Engineer &amp; PhD</p>
+              <p id="subTitle">Data Scientist &ndash; Bioinformatics &amp; Oncology</p>
+            </div>
+
+          </div>
+        </div>
+    </div>
 
     <!-- CONTACT ME -->
     <div class="container" id="contact-me">
@@ -96,6 +112,7 @@
         <div class="container homepage">
           <div class="row">
 
+          <!-- Location -->
             <div class="col-md-3 contact">
               <span class="fa-stack fa-lg">
                 <i class="fa fa-square fa-stack-2x"></i>
@@ -104,6 +121,7 @@
               <p>Paris 75015, France</p>
             </div>
 
+          <!-- Phone -->
             <div class="col-md-3 contact">
                 <span class="fa-stack fa-lg">
                   <i class="fa fa-square fa-stack-2x"></i>
@@ -111,15 +129,8 @@
                 </span>
               <p>&#40;&#43;33&#41; 6 84 60 33 08</p>
             </div>
-<!-- 
-            <div class="col-md-3 contact">
-              <span class="fa-stack fa-lg">
-                <i class="fa fa-square fa-stack-2x"></i>
-                <i class="fa fa-at fa-stack-1x fa-inverse"></i>
-              </span>
-              <p><a href="mailto:fredcommo@gmail.com?Subject=Contact" target="_top">fredcommo@gmail.com</a></p>
-            </div>
--->
+
+          <!-- Email -->
             <div class="col-md-3 contact">
               <a href="mailto:fredcommo@gmail.com?Subject=Contact" target="_top">
                 <span class="fa-stack fa-lg">
@@ -130,6 +141,7 @@
               </a>
             </div>
 
+          <!-- LinkedIn -->
             <div class="col-md-3 contact">
               <a href="https://www.linkedin.com/in/fredcommo" target="_blank">
                 <span class="fa-stack fa-lg">

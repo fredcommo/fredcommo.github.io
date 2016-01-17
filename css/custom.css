@@ -10,6 +10,7 @@
 	margin-bottom: 0px;
 }
 
+/*
 .circular {
 	width: 190px;
     height: 190px;
@@ -19,6 +20,19 @@
     background-image: url("../images/fred_photo.png");
     background-size: cover;
     margin: 9px auto;
+}
+*/
+
+.circular {
+    margin: 10px 0;
+    float: left;
+    width: 16%;
+}
+
+.circular img {
+	width: 100%;
+    border-radius: 50%;
+    box-shadow: 3px 3px 10px #888;
 }
 
 .btn-success {
@@ -51,12 +65,24 @@
 	background-color: #f2f2f2;
 }
 
+.fa-inverse {
+    color: #fff;
+    box-shadow: 5px 5px 10px #666;
+    background-color: #000;
+    border-radius: 15px;
+}
+
 .contact {
 	font-size: 25px;
 	text-align: center;
     border-top: 1px solid;
     border-bottom: 1px solid;
     padding: 15px;
+}
+
+.contact p {
+	padding-top: 10px;
+    margin-bottom: 0px;
 }
 
 ul.nav {
@@ -173,6 +199,16 @@ ul.nav {
     border-bottom: 1px solid;
 }
 
+hr {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 0;
+    border-top: 2px solid #999;
+    opacity: 0.25;
+}
+
 .col-md-6 {
 	margin-bottom: 20px;
 }
@@ -186,11 +222,11 @@ ul.nav {
 }
 
 #myName {
-	text-align: right;
-	margin-top: 50px;
-	font-size: 50px;
-	font-weight: bold;
-	font-family: 'Arvo', courier, serif;
+    text-align: right;
+    margin-top: 30px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Arvo', courier, serif;
 }
 
 #subTitle {
@@ -274,10 +310,6 @@ footer {
 }
 @media (max-width: 1199px) {
 	/* Styles to apply up to 1199px screen width */
-	.circular {
-    width: 160px;
-    height: 160px;
-    }
     #myName {
 	    font-size: 40px;
 	}
@@ -305,8 +337,9 @@ footer {
 @media (max-width: 991px) {
 	/* Styles to apply up to 991px screen width */
 	#myName {
-	    font-size: 36px;
+	    font-size: 32px;
 	    text-align: center;
+	    margin-top: 10px;
 	}
 	#subTitle {
 	    font-size: 22px;
@@ -332,6 +365,16 @@ footer {
 	.publi-content {
 		font-size: 20px;
 	}
+	.btn-success {
+	    width: 0;
+	    visibility: collapse;
+	}
+	.circular {
+		margin-top: 0;
+		margin-bottom: 10px;
+	    float: left;
+	    width: 15%;
+	}
 }
 
 @media (max-width: 767px) {
@@ -341,10 +384,6 @@ footer {
 	    font-size: 15px;
 	    display: inline-flex;
 	    display: -webkit-inline-box;
-	}
-	.circular {
-	    width: 140px;
-	    height: 140px;
 	}
 	.section-name {
 		font-size: 24px;
@@ -358,11 +397,11 @@ footer {
 	}
 
 	#myName {
-	    font-size: 24px;
+	    font-size: 30px;
 	    text-align: center;
 	}
 	#subTitle {
-	    font-size: 15px;
+	    font-size: 20px;
 	    text-align: center;
 	}
 	.cv {
@@ -436,6 +475,11 @@ footer {
 	}
 	.nav-cv {
 		font-size: 20px;
+	}
+	.circular {
+		float: none;
+	    width: 35%;
+	    margin: 0 auto;
 	}
 	.cv-item {
 		font-size: 22px;

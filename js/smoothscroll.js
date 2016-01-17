@@ -14,14 +14,6 @@ $("#navbar-top ul li a[href^='#top-page']").on('click', function(e) {
 
 });
 
-// Go to top page using the bottom-right fixed button
-$("#back-to-top a[href^='#top-page']").on('click', function(e) {
-
-  e.preventDefault();
-  smoothScroll(this.hash, -60, 500);
-
-});
-
 // Scroll down to sections
 $("#navbar-top ul li a").on('click', function(e) {
 
@@ -29,6 +21,14 @@ $("#navbar-top ul li a").on('click', function(e) {
   if(this.hash !== '#top-page'){
   	smoothScroll(this.hash, 0, 500);
   };
+
+});
+
+// Go to top page using the bottom-right fixed button
+$("#back-to-top a[href^='#top-page']").on('click', function(e) {
+
+  e.preventDefault();
+  smoothScroll(this.hash, -60, 500);
 
 });
 
