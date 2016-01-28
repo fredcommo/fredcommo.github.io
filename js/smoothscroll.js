@@ -1,3 +1,17 @@
+// Hide welcome then open main page
+
+$("#enter").on('click', function(e) {
+
+  var speed = 300;
+
+  // prevent default anchor click behavior
+    e.preventDefault();
+    $(".welcome").fadeOut(+speed);
+    $(".mainpage").fadeIn(0);
+  // smoothScroll(this.hash, -50, 500);
+});
+
+
 // Specify the $(path to event).
 
 function smoothScroll(hash, set, delay){

@@ -1,5 +1,78 @@
 
+/* welocme page */
+html, body {
+	height: 100%;
+    margin: 0;
+}
+
+.welcome {
+	background-image: url("../images/paris.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 100%;
+	min-width: 100%;
+	z-index: 1;
+}
+
+.welcome>div{
+    position: absolute;
+	top: 15%;
+	width: 60%;
+    text-align: -webkit-center;
+    text-align: -moz-center;
+    text-align: center;
+}
+
+.welcome .large {
+	font-size: 6em;	
+}
+
+.welcome .small {
+	font-size: 3.25em;	
+}
+
+.welcome .xsmall {
+	font-size: 2.5em;
+	color: #111;
+	font-weight: 700;
+    text-shadow: -1px 1px white, 1px 1px white, 1px 1px white, 1px -1px white;
+    /*text-shadow: 1px 1px 0px white;*/
+}
+
+.welcome-text {
+	font-family: 'Arvo', courier, serif;
+	color: #efefef;
+	text-transform: uppercase;
+	text-shadow: 2px 2px 2px #111;
+}
+
+.mytext {
+    font-size: 45px;
+    font-family: "Arvo", courier, serif;
+    text-transform: capitalize;
+    color: #f39c12;
+    text-shadow: -1px 2px black, 2px 1px black, 1px 2px black, 2px -1px black;
+    position: fixed;
+    bottom: 5%;
+    right: 5%;
+}
+
+.welcome a:hover, .welcome a:focus, .welcome a:active,
+.welcome a:hover p, .welcome a:focus p, .welcome a:active p{
+	text-decoration: none;
+	opacity: 0.7;
+}
+
+.br-hide {
+	display: none;
+}
+
+/* Main page */
 /* Move down content because we have a fixed navbar that is 50px tall */
+
+.mainpage {
+	display: none;
+}
 
 .section-name {
 	text-align: center;
@@ -9,19 +82,6 @@
 	margin-top: 70px;
 	margin-bottom: 0px;
 }
-
-/*
-.circular {
-	width: 190px;
-    height: 190px;
-    border-radius: 190px;
-    -webkit-border-radius: 190px;
-    -moz-border-radius: 150px;
-    background-image: url("../images/fred_photo.png");
-    background-size: cover;
-    margin: 9px auto;
-}
-*/
 
 .circular {
     margin: 10px 0;
@@ -310,6 +370,9 @@ footer {
 }
 @media (max-width: 1199px) {
 	/* Styles to apply up to 1199px screen width */
+	.br-hide {
+		display: inline;
+	}
     #myName {
 	    font-size: 40px;
 	}
@@ -336,6 +399,30 @@ footer {
 
 @media (max-width: 991px) {
 	/* Styles to apply up to 991px screen width */
+	.welcome .large {
+	font-size: 5em;	
+	}
+
+	.welcome .small {
+		font-size: 2em;	
+	}
+
+	.welcome .xsmall {
+		font-size: 1.5em;
+		color: #efefef;
+		font-weight: 700;
+	    text-shadow: 1px 1px 1px #111;
+	}
+	.br-hide {
+		display: inline;
+	}
+	.mytext {
+		font-size: 30px;
+	    text-align: center;
+	    width: 100%;
+	    padding-left: 60px;
+	}
+
 	#myName {
 	    font-size: 32px;
 	    text-align: center;
@@ -379,6 +466,16 @@ footer {
 
 @media (max-width: 767px) {
 	/* Styles to apply up to 991px screen width */
+	.br-hide {
+		display: inline;
+	}
+	.mytext {
+		font-size: 25px;
+	    text-align: center;
+	    width: 100%;
+	    padding-left: 28px;
+	}
+
 	ul.nav {
 	    font-family: 'Arvo', courier, serif;
 	    font-size: 15px;
@@ -446,11 +543,31 @@ footer {
 
 @media (max-width: 425px) {
 	/* Styles to apply up to 991px screen width */
-	body {
+/*	body {
 	    width: 370px !important;
 	    padding: 0 30px;
 	    margin: 80px auto;
 	}
+*/	
+	#enter {
+		width: 100%;
+	}
+	.welcome .xsmall {
+		font-size: 1.5em;
+		color: #efefef;
+		font-weight: 700;
+	    text-shadow: 1px 1px 1px #111;
+	}
+	.br-hide {
+		display: inline;
+	}
+	.mytext {
+	    text-align: center;
+	    font-size: 20px;
+	    width: 100%;
+	    padding-left: 28px;
+	}
+
 	ul.nav {
 	    font-family: 'Arvo', courier, serif;
 	    font-size: 10px;
