@@ -6,7 +6,7 @@ html, body {
 }
 
 .welcome {
-	background-image: url("../images/paris.jpg");
+	background-image: url("../images/paris.png");
 	background-repeat: no-repeat;
 	background-size: cover;
 	min-height: 100%;
@@ -551,6 +551,9 @@ footer {
 */	
 	#enter {
 		width: 100%;
+	}
+	.welcome>div{
+		top: 5%;
 	}
 	.welcome .xsmall {
 		font-size: 1.5em;
