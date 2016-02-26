@@ -1,0 +1,76 @@
+/*24914259*/
+
+body {
+	margin: 0; 
+  	padding-top: 50px;
+  	padding-bottom: 50px;
+	color: #333;
+ 	background-image: url("../images/background-image.jpg");
+ 	/*background-repeat:  no-repeat;*/
+ 	background-position: center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.jumbotron {
+	background-color: transparent;
+}
+h1, h2 {
+	text-align: center;
+}
+h2 {
+	margin: 0;
+}
+#header {
+    font-size: 35px;
+    background-color: #bdc3c7;
+    color: #333;
+}
+#header>img {
+    width: 5%;
+    margin: 0 20px;
+}
+#curveFitter, #cellExplorer {
+    width: 270px;
+    margin-top: 70px;
+    padding: 1px;
+    border: 1px solid #e74c3c;
+    border-radius: 20px;
+}
+#title {
+	color: #ecf0f1;
+}
+.row {
+	text-align: center;
+    /*margin-top: 50px;*/
+}
+.col-md-8 {
+	text-align: left;
+}
+.subTitle {
+	font-weight: 600;
+	font-size: 30px;
+}
+p {
+    color: #ecf0f1;
+	text-align: justify;
+}
+a {
+	color: #e74c3c;
+}
+a:focus, a:hover {
+    color: #ecf0f1;
+    text-decoration: none;
+    opacity: .8;
+}
+#contact {
+	text-align: center;
+}
+.footer>p {
+	text-align: center;
+}
+.calli {
+	font-family: 'Calligraffitti', sans-serif, cursive;
+}
