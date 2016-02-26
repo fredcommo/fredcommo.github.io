@@ -13,33 +13,48 @@ body {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	font-family: 'Lato', sans-serif;
 }
 .jumbotron {
 	background-color: transparent;
+/*	padding-left: 0;
+	padding-right: 0;*/
 }
 h1, h2 {
 	text-align: center;
 }
-h2 {
-	margin: 0;
+#top-title {
+	/*font-family: 'Lato', sans-serif;*/
+    margin: 20px 0 0 0;
+    font-weight: 700;
 }
 #header {
-    font-size: 35px;
+    font-size: 50px;
     background-color: #bdc3c7;
     color: #333;
+/*    padding-left: 50px;
+    padding-right: 50px;*/
 }
-#header>img {
-    width: 5%;
-    margin: 0 20px;
+/*
+.left-image {
+	text-align: left;
+}
+*/
+#header>div>img {
+    /*width: 40%;*/
+    width: 90px;
+    height: auto;
+    margin: -5px 0 0 0;
 }
 #curveFitter, #cellExplorer {
-    width: 270px;
-    margin-top: 70px;
+    width: 100%;
+    margin-top: 35px;
     padding: 1px;
     border: 1px solid #e74c3c;
     border-radius: 20px;
 }
 #title {
+	/*font-family: 'Lato', sans-serif;*/
 	color: #bdc3c7;
 }
 .row {
@@ -68,7 +83,11 @@ a:focus, a:hover {
 #contact {
 	text-align: center;
 }
+#contact-link {
+	font-size: 35px;
+}
 .footer>p {
+    font-size: 18px;
 	text-align: center;
 }
 .calli {

@@ -13,6 +13,7 @@
 
     <!-- Google fonts -->
     <link href='https://fonts.googleapis.com/css?family=Calligraffitti' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,700' rel='stylesheet' type='text/css'>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -25,15 +26,27 @@
 
     <div class="container">
 
-      <h2 id="header" class="navbar-fixed-top"><img src="images/U981_logo.png" alt="GR-logo">U981 - Biomarkers Discovery<img src="images/Logo-gustave-roussy.png" alt="GR-logo"></h2>
-      
+<!--       <h2 id="header" class="navbar-fixed-top"><img src="images/U981_logo.png" alt="GR-logo">U981 - Biomarkers Discovery<img src="images/Logo-gustave-roussy.png" alt="GR-logo"></h2>
+ -->      
+      <div id="header" class="row navbar-fixed-top">
+        <div class="col-md-2 col-md-offset-1">
+          <img id="u981-logo" src="images/U981_logo.png" alt="U981-logo">
+        </div>
+        <div class="col-md-6">
+          <h1 id="top-title">U981 - The Biomarker Discovery Group</h1>
+        </div>
+        <div class="col-md-2">
+          <img id="gr-logo" src="images/Logo-gustave-roussy.png" alt="GR-logo">
+        </div>
+      </div>
+
        <div class="jumbotron">
 
         <h1 id="title">Online Interactive Apps</h1>
 
         <hr />
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4 left-image">
               <a href="https://fredcommo.shinyapps.io/curveFitter/"><img id="curveFitter" src="images/curveFitter.png"></a>
             </div>
             <div class="col-md-8">
@@ -45,7 +58,7 @@
           <hr />
 
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-4 left-image">
               <a href="https://fredcommo.shinyapps.io/cellExplorer/"><img id="cellExplorer" src="images/cellExplorer2.png"></a>
             </div>
             <div class="col-md-8">
@@ -58,7 +71,7 @@
           <div class="row">
             <div class="col-md-12">
               <p id="contact">Give us your feedback or suggest new Apps...</p>
-              <h3><a href="mailto:frederic.commo@gustaveroussy.fr?Subject=online apps">Contact us!</a></h3>
+              <h3 class="subTitle"><a href="mailto:frederic.commo@gustaveroussy.fr?Subject=online apps">Contact us!</a></h3>
             </div>
           </div>
 
