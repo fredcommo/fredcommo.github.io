@@ -1,12 +1,9 @@
-/*24914259*/
-
 body {
 	margin: 0; 
   	padding-top: 50px;
   	padding-bottom: 50px;
 	color: #333;
  	background-image: url("../images/background-image.jpg");
- 	/*background-repeat:  no-repeat;*/
  	background-position: center;
 	background-attachment: fixed;
 	-webkit-background-size: cover;
@@ -17,14 +14,14 @@ body {
 }
 .jumbotron {
 	background-color: transparent;
-/*	padding-left: 0;
-	padding-right: 0;*/
 }
+
+/* fixed navbar */
+
 h1, h2 {
 	text-align: center;
 }
 #top-title {
-	/*font-family: 'Lato', sans-serif;*/
     margin: 20px 0 0 0;
     font-weight: 700;
 }
@@ -32,19 +29,36 @@ h1, h2 {
     font-size: 50px;
     background-color: #bdc3c7;
     color: #333;
-/*    padding-left: 50px;
-    padding-right: 50px;*/
 }
-/*
-.left-image {
-	text-align: left;
+#GR-logo {
+    height: 70px;
+    width: auto;
+    margin: -5px 0 0 0;
+}
+#title {
+	color: #bdc3c7;
+}
+/*.hidden {
+    background-color: #bdc3c7;
+	display: none;
 }
 */
-#header>div>img {
-    /*width: 40%;*/
-    width: 90px;
-    height: auto;
-    margin: -5px 0 0 0;
+
+/* main body */
+
+.row {
+	text-align: center;
+}
+.col-md-8 {
+	text-align: left;
+}
+#U981-logo2 {
+    height: 100px;
+    margin-right: 5%;
+}
+.subTitle {
+	font-weight: 600;
+	font-size: 30px;
 }
 #curveFitter, #cellExplorer {
     width: 100%;
@@ -52,21 +66,6 @@ h1, h2 {
     padding: 1px;
     border: 1px solid #e74c3c;
     border-radius: 20px;
-}
-#title {
-	/*font-family: 'Lato', sans-serif;*/
-	color: #bdc3c7;
-}
-.row {
-	text-align: center;
-    /*margin-top: 50px;*/
-}
-.col-md-8 {
-	text-align: left;
-}
-.subTitle {
-	font-weight: 600;
-	font-size: 30px;
 }
 p {
     color: #ecf0f1;
@@ -80,16 +79,69 @@ a:focus, a:hover {
     text-decoration: none;
     opacity: .8;
 }
-#contact {
+.align-center {
 	text-align: center;
 }
 #contact-link {
 	font-size: 35px;
 }
+
+/* footer */
 .footer>p {
     font-size: 18px;
 	text-align: center;
 }
+
+/* global styling */
 .calli {
 	font-family: 'Calligraffitti', sans-serif, cursive;
 }
+
+/* responsiveness */
+/*@media (max-width: 992px) {
+	.logo {
+		display: none;
+	}
+	.hidden {
+	    background-color: #bdc3c7;
+    	display: block !important;
+    	height: 50px;
+	}
+	.hidden>img {
+		height: 40px;
+    	margin-top: -38px;
+    	margin-bottom: -7px;
+    }
+}
+*/
+
+@media (max-width: 768px) {
+	body {
+		margin: 0; 
+	  	padding-top: 120px;
+	  	padding-bottom: 50px;
+  	}
+  	#GR-logo {
+	    height: 40px;
+	    width: auto;
+	    margin: -20px 0 0 0;
+	}
+  	h1#top-title {
+		font-size: 25px;
+		margin-top: -10px;
+		padding-top: 0px;
+		padding-bottom: 10px;
+    	}
+   	#title {
+    	font-size: 26px;
+	}
+	#U981-logo2 {
+	    height: 50px;
+	    margin-top: -20px;
+	    margin-right: 3%;
+	}
+	p {
+		font-size: 18px !important;
+	}
+}
+
