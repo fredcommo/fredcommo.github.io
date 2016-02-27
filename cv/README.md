@@ -1,1 +1,1 @@
-### [Open in browser](http://fredcommo.github.io/)
+### [Open in browser](http://fredcommo.github.io/cv/)
