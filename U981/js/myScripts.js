@@ -1,0 +1,12 @@
+$('#curveFitter').contenthover({
+    overlay_background:'#000',
+    overlay_opacity:0.8
+});
+$('#cellExplorer').contenthover({
+    overlay_background:'#000',
+    overlay_opacity:0.8
+});
+$('#newApp').contenthover({
+    overlay_background:'#000',
+    overlay_opacity:0.8
+});

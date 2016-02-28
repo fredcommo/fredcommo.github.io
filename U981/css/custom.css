@@ -35,42 +35,75 @@ h1, h2 {
     width: auto;
     margin: -5px 0 0 0;
 }
-#title {
-	color: #bdc3c7;
-}
-/*.hidden {
-    background-color: #bdc3c7;
-	display: none;
-}
-*/
 
 /* main body */
 
 .row {
 	text-align: center;
 }
-.col-md-8 {
-	text-align: left;
+.ch_element.ch_wrapper, .ch_normal, .ch_hover {
+	width: 100% !important;
+    border-radius: 5px;
+}
+.contenthover {
+    position: relative;
+    top: 5%;
+    /*border: 3px solid #fff;*/
+	color: #fff;
+    /*border-radius: 5px;*/
+}
+.contenthover h3 {
+	margin: 20px;
+    padding: 50px 20px 50px 20px;
+	font-size: 30px;
+	color: #e74c3c;
+    border: 3px solid #fff;
+    border-radius: 5px;
+}
+#title {
+    margin-bottom: -20px;
+	color: #bdc3c7;
 }
 #U981-logo2 {
     height: 100px;
     margin-right: 5%;
+    margin-bottom: 4%;
 }
 .subTitle {
 	font-weight: 600;
 	font-size: 30px;
+	color: #e74c3c;
 }
-#curveFitter, #cellExplorer {
+.imageContainer {
+	margin-top: 10px;
+}
+.image {
     width: 100%;
-    margin-top: 35px;
-    padding: 1px;
-    border: 1px solid #e74c3c;
-    border-radius: 20px;
+    height: 100%;
+    /*margin: 5px;*/
+    padding: 2px;
+    border: 3px solid #e74c3c;
+    border-radius: 5px;
 }
+#newApp {
+	background-color: #fff;
+}
+#questionMark {
+	font-size: 70px;
+	font-weight: 600;
+    padding: 30px 0 30px 0;
+}
+
+/* bottom page */
+
 p {
-    color: #ecf0f1;
 	text-align: justify;
+	color: #bdc3c7;
+	padding: 10px;
+	font-size: 18px;
+	font-weight: 100;
 }
+
 a {
 	color: #e74c3c;
 }
@@ -87,7 +120,10 @@ a:focus, a:hover {
 }
 
 /* footer */
-.footer>p {
+footer {
+	margin-top: 20px;
+}
+footer>p {
     font-size: 18px;
 	text-align: center;
 }
@@ -134,6 +170,9 @@ a:focus, a:hover {
     	}
    	#title {
     	font-size: 26px;
+	}
+	.subTitle {
+		font-size: 25px;
 	}
 	#U981-logo2 {
 	    height: 50px;
