@@ -249,6 +249,7 @@ ul.nav {
     margin-bottom: 8px;
     text-align: right;
     text-align: -webkit-right;
+    text-align: -moz-right;
 }
 
 .publi-content {
